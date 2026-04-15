@@ -2,37 +2,30 @@ body{
 font-family:serif;
 max-width:800px;
 margin:auto;
-line-height:1.6;
-}
+line-height:1.6;}
 
 input{
 width:100%;
 padding:10px;
 font-size:16px;
-margin-bottom:20px;
-}
+margin-bottom:20px;}
 
 .entry{
 padding:10px;
-border-bottom:1px solid #ddd;
-}
+border-bottom:1px solid #ddd;}
 
 #alphabet button{
 margin:2px;
-padding:5px 8px;
-}
+padding:5px 8px;}
 
 #alphabet button.active{
 background-color:#333;
 color:white;
-font-weight:bold;
-}
+font-weight:bold;}
 
 function searchWord(){
-
 let query = document.getElementById("searchBox").value.toLowerCase()
 let mode = document.getElementById("searchMode").value
-
 let posFilter = document.getElementById("posFilter").value
 let genderFilter = document.getElementById("genderFilter").value
 
@@ -41,46 +34,28 @@ let results = []
 for(let id in data.entries){
 
 let e = data.entries[id]
-
 let match = true
 
-
-// Suche nur anwenden wenn etwas eingegeben wurde
 if(query !== ""){
 
 if(mode === "lemma"){
 match =
 (e.lemma && e.lemma.toLowerCase().startsWith(query)) ||
-(e.variants && e.variants.some(v => v.toLowerCase().startsWith(query)))
-}
+(e.variants && e.variants.some(v => v.toLowerCase().startsWith(query)))}
 
 else if(mode === "definition"){
-match = e.definition && e.definition.toLowerCase().includes(query)
-}
+match = e.definition && e.definition.toLowerCase().includes(query)}
 
 else{
 match =
 (e.lemma && e.lemma.toLowerCase().startsWith(query)) ||
-(e.definition && e.definition.toLowerCase().includes(query))
-}
+(e.definition && e.definition.toLowerCase().includes(query))}
 
-}
+}if(!match) continue
 
-if(!match) continue
-
-
-// POS Filter
 if(posFilter && e.pos !== posFilter) continue
-
-
-// Gender Filter
 if(genderFilter && e.gender !== genderFilter) continue
-
 
 results.push(e)
 
-}
-
-displayResults(results)
-
-}
+}displayResults(results)}
