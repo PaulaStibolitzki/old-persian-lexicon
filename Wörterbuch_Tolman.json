@@ -1,0 +1,8807 @@
+[
+  {
+    "lemma": "ā",
+    "senses": [
+      {
+        "definition": "to, unto",
+        "pos": "verbal prefix",
+        "construction": null
+      },
+      {
+        "definition": "in, on, by",
+        "pos": "postposition; preposition",
+        "construction": {
+          "type": "with case",
+          "case": "loc"
+        }
+      }
+    ],
+    "search_forms": [
+      "ā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "postposition; preposition; verbal prefix"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "a-",
+    "senses": [
+      {
+        "definition": "neg. prefix (a- before consonants; an- before vowels)",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "a-"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "a",
+    "senses": [
+      {
+        "definition": "this",
+        "pos": "demonstrative pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "a"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "demonstrative pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aita",
+    "senses": [
+      {
+        "definition": "this",
+        "pos": "demonstrative pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aita"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "demonstrative pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aina[ira]",
+    "senses": [
+      {
+        "definition": "name of a Babylonian, father of Nidintu-Bel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ainaira",
+      "aina"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aiva",
+    "senses": [
+      {
+        "definition": "one",
+        "pos": "numeral",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aiva"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "numeral"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "autiyara",
+    "senses": [
+      {
+        "definition": "name of a district in Armenia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "autiyara"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aura",
+    "senses": [
+      {
+        "definition": "god",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aura"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "auramazdāh",
+    "senses": [
+      {
+        "definition": "name of the supreme god, Ahura Mazda",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "auramazdāh"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "axšata",
+    "senses": [
+      {
+        "definition": "unhurt, inviolate, undisturbed",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "axšata"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "āgar[tar]",
+    "senses": [
+      {
+        "definition": "supplement for agara",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "āgartar",
+      "āgar"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "antar",
+    "senses": [
+      {
+        "definition": "within, among, in",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "acc"
+        }
+      }
+    ],
+    "search_forms": [
+      "antar"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "atiy",
+    "senses": [
+      {
+        "definition": "beyond, across, past",
+        "pos": "verbal prefix",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "atiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verbal prefix"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aθangaina/āθangaina",
+    "senses": [
+      {
+        "definition": "of stone",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aθangaina",
+      "āθangaina"
+    ],
+    "variants": [
+      "āθangaina"
+    ],
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aθurā",
+    "senses": [
+      {
+        "definition": "Assyria",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aθurā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aθrina/āθrina",
+    "senses": [
+      {
+        "definition": "name of a Susian rebel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aθrina",
+      "āθrina"
+    ],
+    "variants": [
+      "āθrina"
+    ],
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aθriyadiya",
+    "senses": [
+      {
+        "definition": "name of a Persian month, Nov.-Dec.",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aθriyadiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ada",
+    "senses": [
+      {
+        "definition": "then",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ada"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "adakaiy",
+    "senses": [
+      {
+        "definition": "then",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "adakaiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ādāta",
+    "senses": [
+      {
+        "definition": "noble",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ādāta"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "adam",
+    "senses": [
+      {
+        "definition": "I",
+        "pos": "personal pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "adam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "personal pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "adiy",
+    "senses": [
+      {
+        "definition": "in",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "loc"
+        }
+      }
+    ],
+    "search_forms": [
+      "adiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "adukaniša",
+    "senses": [
+      {
+        "definition": "name of a Persian month, Oct.-Nov.",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "adukaniša"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ana",
+    "senses": [
+      {
+        "definition": "this",
+        "pos": "demonstrative pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ana"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "demonstrative pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "anā",
+    "senses": [
+      {
+        "definition": "along, throughout",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "inst"
+        }
+      }
+    ],
+    "search_forms": [
+      "anā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "anāmaka",
+    "senses": [
+      {
+        "definition": "name of a Persian month, Dec.-Jan.",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "anāmaka"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "anāhita",
+    "senses": [
+      {
+        "definition": "name of a goddess",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "anāhita"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aniya",
+    "senses": [
+      {
+        "definition": "other, another",
+        "pos": "adjective",
+        "construction": null
+      },
+      {
+        "definition": "the one - the other",
+        "pos": "adjective",
+        "construction": null
+      },
+      {
+        "definition": "strange, hostile, an enemy",
+        "pos": "adjective",
+        "construction": null
+      },
+      {
+        "definition": "with ciy, Nom. sg. n. aniyašciy",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aniya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "anuv",
+    "senses": [
+      {
+        "definition": "along, after",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "inst"
+        }
+      }
+    ],
+    "search_forms": [
+      "anuv"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "anušiya",
+    "senses": [
+      {
+        "definition": "devoted to, ally, follower",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "anušiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "apa",
+    "senses": [
+      {
+        "definition": "from, away",
+        "pos": "verbal prefix",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "apa"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verbal prefix"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "apatara",
+    "senses": [
+      {
+        "definition": "away from, outside of, elsewhere",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "apatara"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "apadāna",
+    "senses": [
+      {
+        "definition": "palace",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "apadāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "apanyāka",
+    "senses": [
+      {
+        "definition": "ancestor",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "apanyāka"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aparam",
+    "senses": [
+      {
+        "definition": "afterwards",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aparam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "āpī",
+    "senses": [
+      {
+        "definition": "water",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "āpī"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "apiy",
+    "senses": [
+      {
+        "definition": "to, against",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "acc"
+        }
+      }
+    ],
+    "search_forms": [
+      "apiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "abicariš",
+    "senses": [
+      {
+        "definition": "pasture-lands, grazing areas, aids, commerce",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "abicariš"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "abiš",
+    "senses": [
+      {
+        "definition": "thereby",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "abiš"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ama",
+    "senses": [],
+    "search_forms": [
+      "ama"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "pronominal stem; pronoun"
+    },
+    "see": "adam",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "amuθa",
+    "senses": [],
+    "search_forms": [
+      "amuθa"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "muθ",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "ayadaiy",
+    "senses": [],
+    "search_forms": [
+      "ayadaiy"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "yad",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "āyadana",
+    "senses": [
+      {
+        "definition": "sanctuary, place of worship",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "āyadana"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "āyasatā",
+    "senses": [
+      {
+        "definition": "[for āyastā, see yam]",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "āyasatā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ar",
+    "senses": [
+      {
+        "definition": "to set in motion, go, come, arrive",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "come to, arrive",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "parā"
+        }
+      },
+      {
+        "definition": "come down, descend",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "niy"
+        }
+      }
+    ],
+    "search_forms": [
+      "ar"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "araika/arika",
+    "senses": [
+      {
+        "definition": "hostile",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "arika",
+      "araika"
+    ],
+    "variants": [
+      "arika"
+    ],
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "arabāya",
+    "senses": [
+      {
+        "definition": "Arabia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "arabāya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "arakadri",
+    "senses": [
+      {
+        "definition": "name of a mountain",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "arakadri"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "arxa",
+    "senses": [
+      {
+        "definition": "name of an Armenian rebel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "arxa"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ariya",
+    "senses": [
+      {
+        "definition": "Aryan",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ariya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ariyāramna",
+    "senses": [
+      {
+        "definition": "Ariaramnes, name of the great-grandfather of Darius",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ariyāramna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "artaxšaθra",
+    "senses": [
+      {
+        "definition": "Artaxerxes",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "artaxšaθra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "artavardiya",
+    "senses": [
+      {
+        "definition": "name of one of the generals of Darius",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "artavardiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ardaxcašc(?)a",
+    "senses": [],
+    "search_forms": [
+      "ardaxcašc(?)a"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "artaxšaθra",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "ardastāna",
+    "senses": [
+      {
+        "definition": "window-cornice(?)",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ardastāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ardumaniš",
+    "senses": [
+      {
+        "definition": "name of one of the allies of Darius against Gaumāta",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ardumaniš"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "arbaira",
+    "senses": [
+      {
+        "definition": "Arbela",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "arbaira"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "armina",
+    "senses": [
+      {
+        "definition": "Armenia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "armina"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "arminiya",
+    "senses": [
+      {
+        "definition": "Armenian",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      },
+      {
+        "definition": "Armenia",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "arminiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aršaka",
+    "senses": [
+      {
+        "definition": "Arsaces",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aršaka"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aršādā",
+    "senses": [
+      {
+        "definition": "name of a fortress",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aršādā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aršāma",
+    "senses": [
+      {
+        "definition": "Arsames, name of the grandfather of Darius",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aršāma"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "arštā",
+    "senses": [
+      {
+        "definition": "rectitude",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "arštā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aršti",
+    "senses": [
+      {
+        "definition": "spear",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aršti"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "arštibara",
+    "senses": [
+      {
+        "definition": "spear-bearer",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "arštibara"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ava",
+    "senses": [
+      {
+        "definition": "that",
+        "pos": "demonstrative pronoun",
+        "construction": null
+      },
+      {
+        "definition": "down",
+        "pos": "verbal prefix",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ava"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "demonstrative pronoun; verbal prefix"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "avā",
+    "senses": [
+      {
+        "definition": "thus",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "avā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "avākanam",
+    "senses": [
+      {
+        "definition": "I placed (my army) on floats of skins",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "avākanam"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "avajam",
+    "senses": [
+      {
+        "definition": "I put out his eyes",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "avajam"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "avaθā",
+    "senses": [
+      {
+        "definition": "thus",
+        "pos": "adverb",
+        "construction": null
+      },
+      {
+        "definition": "then",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "avaθā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "avaθāštā pari[ba]rā",
+    "senses": [
+      {
+        "definition": "thus preserve them",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "avaθāštā parirā",
+      "avaθāštā paribarā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "avadā",
+    "senses": [
+      {
+        "definition": "there",
+        "pos": "adverb",
+        "construction": null
+      },
+      {
+        "definition": "thither",
+        "pos": "adverb",
+        "construction": null
+      },
+      {
+        "definition": "hacā avadaša therefrom, thence",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "avadā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "avaparā",
+    "senses": [
+      {
+        "definition": "there along, there before",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "avaparā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "āvahana",
+    "senses": [
+      {
+        "definition": "dwelling place",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "āvahana"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "avahya",
+    "senses": [
+      {
+        "definition": "to ask aid, implore",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "seek for help, supplicate",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "patiy"
+        }
+      }
+    ],
+    "search_forms": [
+      "avahya"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "avahyarādiy",
+    "senses": [
+      {
+        "definition": "for this reason, therefore.",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "avahyarādiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "asa",
+    "senses": [
+      {
+        "definition": "horse",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "asa"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "asagarta",
+    "senses": [
+      {
+        "definition": "Sagartia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "asagarta"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "asagartiya",
+    "senses": [
+      {
+        "definition": "Sagartian",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "asagartiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "asabāri",
+    "senses": [
+      {
+        "definition": "mounted on horses, horsemen",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "asabāri"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aspa",
+    "senses": [
+      {
+        "definition": "horse",
+        "pos": null,
+        "construction": {
+          "type": "composition"
+        }
+      }
+    ],
+    "search_forms": [
+      "aspa"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "aspacanah",
+    "senses": [
+      {
+        "definition": "Aspathines",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "aspacanah"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "asman",
+    "senses": [
+      {
+        "definition": "stone",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "firmament, heaven",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "asman"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "azda",
+    "senses": [
+      {
+        "definition": "known",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "azda"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ah",
+    "senses": [
+      {
+        "definition": "to be",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ah"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "i",
+    "senses": [
+      {
+        "definition": "to go",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "come",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ā"
+        }
+      },
+      {
+        "definition": "go beyond, go along",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "atiy"
+        }
+      },
+      {
+        "definition": "go unto, arrive",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "abiy"
+        }
+      },
+      {
+        "definition": "beyond measure",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "upariy"
+        }
+      },
+      {
+        "definition": "go forth",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "nij"
+        }
+      },
+      {
+        "definition": "come unto, be one’s possession",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "patiy"
+        }
+      },
+      {
+        "definition": "go forth, proceed",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "parā"
+        }
+      }
+    ],
+    "search_forms": [
+      "i"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "idā",
+    "senses": [
+      {
+        "definition": "here",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "idā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ima",
+    "senses": [
+      {
+        "definition": "this",
+        "pos": "demonstrative pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ima"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "demonstrative pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "imaniš",
+    "senses": [
+      {
+        "definition": "name assumed by Martiya in his insurrection in Susiana",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "imaniš"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "iyam",
+    "senses": [
+      {
+        "definition": "this",
+        "pos": "pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "iyam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "iš",
+    "senses": [
+      {
+        "definition": "to put in motion, send",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "send forth",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "frā"
+        }
+      }
+    ],
+    "search_forms": [
+      "iš"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "u",
+    "senses": [
+      {
+        "definition": "(in composition) good, well (before vowels uv)",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "u"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "[u]cašama",
+    "senses": [
+      {
+        "definition": "eye",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ucašama",
+      "cašama"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "utā",
+    "senses": [
+      {
+        "definition": "and",
+        "pos": "conjunction",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "utā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "conjunction"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "utāna",
+    "senses": [
+      {
+        "definition": "Otanes, name of one of the allies of Darius against Gaumata",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "utāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ud",
+    "senses": [
+      {
+        "definition": "up, forth",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ud"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "us",
+    "senses": [
+      {
+        "definition": "up, forth",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "us"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "upā",
+    "senses": [
+      {
+        "definition": "unto, to",
+        "pos": "adverb",
+        "construction": null
+      },
+      {
+        "definition": "to, by",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "acc"
+        }
+      }
+    ],
+    "search_forms": [
+      "upā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb; preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "upadaranma",
+    "senses": [
+      {
+        "definition": "name of the father of Aθrina",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "upadaranma"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "upariy",
+    "senses": [
+      {
+        "definition": "above, over",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "acc"
+        }
+      }
+    ],
+    "search_forms": [
+      "upariy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "upastā",
+    "senses": [
+      {
+        "definition": "help, aid",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "upastā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ufrašta",
+    "senses": [
+      {
+        "definition": "well punished",
+        "pos": "passive participle",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ufrašta"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "passive participle"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ufrašti",
+    "senses": [
+      {
+        "definition": "severe punishment",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ufrašti"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ufrātu",
+    "senses": [
+      {
+        "definition": "Euphrates",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ufrātu"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ubarta",
+    "senses": [
+      {
+        "definition": "well esteemed",
+        "pos": "passive participle",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ubarta"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "passive participle"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "umartiya",
+    "senses": [
+      {
+        "definition": "possessing good men",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "umartiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "u[yam]ā",
+    "senses": [
+      {
+        "definition": "name of a fortress in Armenia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uyamā",
+      "uā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uvāipašiya",
+    "senses": [
+      {
+        "definition": "own possession",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uvāipašiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uvaxštra",
+    "senses": [
+      {
+        "definition": "Cyaxares",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uvaxštra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uvaja",
+    "senses": [
+      {
+        "definition": "Susiana",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uvaja"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uvajiya",
+    "senses": [
+      {
+        "definition": "Susian",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uvajiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uvādaicaya",
+    "senses": [
+      {
+        "definition": "name of a Persian town",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uvādaicaya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uvāmaršiyu",
+    "senses": [
+      {
+        "definition": "dying by one’s own hand",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uvāmaršiyu"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uvārazmi",
+    "senses": [
+      {
+        "definition": "Chorasmia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uvārazmi"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uvārazmiya",
+    "senses": [
+      {
+        "definition": "Chorasmia",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uvārazmiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uvaspa",
+    "senses": [
+      {
+        "definition": "possessing good horses",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uvaspa"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ustašanā",
+    "senses": [
+      {
+        "definition": "staircase, Bauwerk, Treppe",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ustašanā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ušabāri",
+    "senses": [
+      {
+        "definition": "borne by oxen(?), mounted on camels",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ušabāri"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uška",
+    "senses": [
+      {
+        "definition": "dry",
+        "pos": "adjective",
+        "construction": null
+      },
+      {
+        "definition": "dry land, mainland",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uška"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective",
+      "gender": "neuter"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "uzma",
+    "senses": [
+      {
+        "definition": "what is up from the earth",
+        "pos": "adjective",
+        "construction": null
+      },
+      {
+        "definition": "stake, pile",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "uzma"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective",
+      "gender": "neuter"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kā",
+    "senses": [
+      {
+        "definition": "particle giving to preceding tuvam thou an indefinite force",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ka",
+    "senses": [
+      {
+        "definition": "who?",
+        "pos": "interrogative pronoun",
+        "construction": null
+      },
+      {
+        "definition": "indef. with ciy: any",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ka"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "interrogative pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kaufa",
+    "senses": [
+      {
+        "definition": "hill, mountain",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kaufa"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "katpatuka",
+    "senses": [
+      {
+        "definition": "Cappadocia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "katpatuka"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kan",
+    "senses": [
+      {
+        "definition": "to dig, chisel out",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "obliterate, cause to be forgotten",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "niy"
+        }
+      },
+      {
+        "definition": "destroy",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "viy"
+        }
+      }
+    ],
+    "search_forms": [
+      "kan"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kanpada",
+    "senses": [
+      {
+        "definition": "name of a district in Media",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kanpada"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kāpišakāni",
+    "senses": [
+      {
+        "definition": "name of a fortress in Arachosia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kāpišakāni"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kanbūjiya",
+    "senses": [
+      {
+        "definition": "Cambyses",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kanbūjiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kāma",
+    "senses": [
+      {
+        "definition": "desire, wish",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kāma"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kamna",
+    "senses": [
+      {
+        "definition": "few",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kamna"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kar",
+    "senses": [
+      {
+        "definition": "to do, make",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kar"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kāra",
+    "senses": [
+      {
+        "definition": "the people",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "army",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kāra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "karka",
+    "senses": [
+      {
+        "definition": "name of a people",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "karka"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "karša",
+    "senses": [
+      {
+        "definition": "name of a Persian weight",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "karša"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kuganakā",
+    "senses": [
+      {
+        "definition": "name of a Persian town",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kuganakā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kunduru",
+    "senses": [
+      {
+        "definition": "name of Median town",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kunduru"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kūru",
+    "senses": [
+      {
+        "definition": "Cyrus",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kūru"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "kušiya",
+    "senses": [
+      {
+        "definition": "name of a people",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "kušiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "xaršādašyā?",
+    "senses": [],
+    "search_forms": [
+      "xaršādašyā?"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "xšayāršan",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "XŠ",
+    "senses": [],
+    "search_forms": [
+      "XŠ"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "xšāyaθiya",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "xšaθrita",
+    "senses": [
+      {
+        "definition": "name assumed by Phraortes, the Median pretender",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "xšaθrita"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "xšaθra",
+    "senses": [
+      {
+        "definition": "lordship, kingdom",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "xšaθra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "xšaθrapāvan",
+    "senses": [
+      {
+        "definition": "satrap",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "xšaθrapāvan"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "xšap",
+    "senses": [
+      {
+        "definition": "night",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "xšap"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "xšāyaθiya",
+    "senses": [
+      {
+        "definition": "king",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "xšāyaθiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "xšayāršan",
+    "senses": [
+      {
+        "definition": "Xerxes",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "xšayāršan"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "xši",
+    "senses": [
+      {
+        "definition": "to rule",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "hold lordship over",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "patiy"
+        }
+      },
+      {
+        "definition": "rule",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "upari"
+        }
+      }
+    ],
+    "search_forms": [
+      "xši"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "xšnā",
+    "senses": [
+      {
+        "definition": "to know",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "xšnā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gaiθa",
+    "senses": [
+      {
+        "definition": "personal property",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "gaiθa"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gaubruva",
+    "senses": [
+      {
+        "definition": "Gobryas",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "gaubruva"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gaumāta",
+    "senses": [
+      {
+        "definition": "the Median pretender who assumed the name of Smerdis",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "gaumāta"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gauša",
+    "senses": [
+      {
+        "definition": "ear",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "gauša"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gāθu",
+    "senses": [
+      {
+        "definition": "place",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "throne",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "gāθu"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gandāra",
+    "senses": [
+      {
+        "definition": "name of a region",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "gandāra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gandutava",
+    "senses": [
+      {
+        "definition": "name of a district in Arachosia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "gandutava"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gam",
+    "senses": [
+      {
+        "definition": "to go",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "come",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ā"
+        }
+      },
+      {
+        "definition": "go forth",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "parā"
+        }
+      },
+      {
+        "definition": "come together, assemble",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ham"
+        }
+      }
+    ],
+    "search_forms": [
+      "gam"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "garmapada",
+    "senses": [
+      {
+        "definition": "name of a Persian month",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "garmapada"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gasta",
+    "senses": [
+      {
+        "definition": "repugnant, adverse",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "gasta"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gud",
+    "senses": [
+      {
+        "definition": "to conceal",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "hide away, conceal",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "apa"
+        }
+      }
+    ],
+    "search_forms": [
+      "gud"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "gub",
+    "senses": [
+      {
+        "definition": "to speak",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "gub"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "grab",
+    "senses": [
+      {
+        "definition": "to seize",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "seize",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ā"
+        }
+      }
+    ],
+    "search_forms": [
+      "grab"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "cā",
+    "senses": [
+      {
+        "definition": "and",
+        "pos": "conjunction; enclitic conjunction",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "cā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "conjunction; enclitic conjunction"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "cincixri",
+    "senses": [
+      {
+        "definition": "name of the father of Martiya",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "cincixri"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "citā",
+    "senses": [
+      {
+        "definition": "so long",
+        "pos": "adverb",
+        "construction": null
+      },
+      {
+        "definition": "with yātā: until",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "citā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ciθra",
+    "senses": [
+      {
+        "definition": "seed, lineage",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ciθra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ciθrantama",
+    "senses": [
+      {
+        "definition": "name of a Sagartian rebel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ciθrantama"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ciy",
+    "senses": [
+      {
+        "definition": "makes indefinite the interr. pron.",
+        "pos": "enclitic particle",
+        "construction": null
+      },
+      {
+        "definition": "emphasizes slightly the word to which it is joined",
+        "pos": "enclitic particle",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ciy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "enclitic particle"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ciyakara",
+    "senses": [
+      {
+        "definition": "how many, restricted in number",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ciyakara"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "caišapai",
+    "senses": [
+      {
+        "definition": "Teispes, common ancestor of Cyrus and Darius (read cišpi or caišpi)",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "caišapai"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "jatar",
+    "senses": [
+      {
+        "definition": "smiter, slayer",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "jatar"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "jad",
+    "senses": [
+      {
+        "definition": "to pray",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "jad"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "jan",
+    "senses": [
+      {
+        "definition": "to smite, slay",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "smite down, slay",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ava"
+        }
+      },
+      {
+        "definition": "smite down, destroy",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ava"
+        }
+      },
+      {
+        "definition": "wage (battle) against, fight",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "patiy"
+        }
+      },
+      {
+        "definition": "cut off",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "frā"
+        }
+      }
+    ],
+    "search_forms": [
+      "jan"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ji",
+    "senses": [
+      {
+        "definition": "to live",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ji"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "jiyamna",
+    "senses": [
+      {
+        "definition": "waning, growing old, as subs. completion, end",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "jiyamna"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "jīva",
+    "senses": [
+      {
+        "definition": "living",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "jīva"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "taiy",
+    "senses": [],
+    "search_forms": [
+      "taiy"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "tuvam",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "taumā",
+    "senses": [
+      {
+        "definition": "family",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "taumā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "[tauman]",
+    "senses": [
+      {
+        "definition": "power, might",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "",
+      "tauman"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "taxmaspāda",
+    "senses": [
+      {
+        "definition": "name of one of the commanders of Darius",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "taxmaspāda"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "taxš",
+    "senses": [
+      {
+        "definition": "to be active",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "work together, cooperate, work",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ham"
+        }
+      }
+    ],
+    "search_forms": [
+      "taxš"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "tacara",
+    "senses": [
+      {
+        "definition": "palace",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "tacara"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "tar",
+    "senses": [
+      {
+        "definition": "to cross over",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "depart from, abandon",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "fra"
+        }
+      },
+      {
+        "definition": "put across, cross",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "viy"
+        }
+      }
+    ],
+    "search_forms": [
+      "tar"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "taradraya",
+    "senses": [
+      {
+        "definition": "across the sea",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "taradraya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "tāravā",
+    "senses": [
+      {
+        "definition": "name of a Persisan town",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "tāravā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "tarsa",
+    "senses": [
+      {
+        "definition": "to fear",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "tarsa"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "tigra",
+    "senses": [
+      {
+        "definition": "name of a fortress in Armenia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "tigra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "tigrā",
+    "senses": [
+      {
+        "definition": "Tigris",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "tigrā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "tigraxauda",
+    "senses": [
+      {
+        "definition": "with pointed cap, epithet of Scythians",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "tigraxauda"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "tuvam",
+    "senses": [
+      {
+        "definition": "thou",
+        "pos": "pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "tuvam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "tya",
+    "senses": [
+      {
+        "definition": "who, which",
+        "pos": "demonstrative pronoun; demonstrative pronoun used as a relative",
+        "construction": null
+      },
+      {
+        "definition": "that",
+        "pos": "conjunction",
+        "construction": null
+      },
+      {
+        "definition": "because",
+        "pos": "conjunction",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "tya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "conjunction; demonstrative pronoun; demonstrative pronoun used as a relative"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θāigarci",
+    "senses": [
+      {
+        "definition": "name of a Persian month",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θāigarci"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θakata(ma)",
+    "senses": [
+      {
+        "definition": "coming to an end",
+        "pos": "participle future passive/participle present active",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θakata(ma)"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "participle future passive/participle present active"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θatagu",
+    "senses": [
+      {
+        "definition": "Sattagydia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θatagu"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θand",
+    "senses": [
+      {
+        "definition": "to seem",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θand"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θadaθa",
+    "senses": [
+      {
+        "definition": "[uncertain word in Seal Inscr. b]",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θadaθa"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θard",
+    "senses": [
+      {
+        "definition": "year",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θard"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θah",
+    "senses": [
+      {
+        "definition": "to declare, speak, say",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θah"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θā-",
+    "senses": [
+      {
+        "definition": "to declare, speak, say",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θā-"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θuxra",
+    "senses": [
+      {
+        "definition": "name of the father of Otanes",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θuxra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θūravāhara",
+    "senses": [
+      {
+        "definition": "name of a Persian month",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θūravāhara"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θuvām",
+    "senses": [],
+    "search_forms": [
+      "θuvām"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "tuvam",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "θri",
+    "senses": [
+      {
+        "definition": "to lean",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "to restore",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "niy"
+        }
+      }
+    ],
+    "search_forms": [
+      "θri"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "θritiya",
+    "senses": [
+      {
+        "definition": "third",
+        "pos": "numeral",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "θritiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "numeral"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dā1",
+    "senses": [
+      {
+        "definition": "to give",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dā1"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dā2",
+    "senses": [
+      {
+        "definition": "to put, make, create",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dā2"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "[dauš, duš?]",
+    "senses": [
+      {
+        "definition": "to take pleasure in, esteem",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "",
+      "dauš, duš?"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dauštar",
+    "senses": [
+      {
+        "definition": "friend",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dauštar"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dāta",
+    "senses": [
+      {
+        "definition": "law",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dāta"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dātuhya",
+    "senses": [
+      {
+        "definition": "name of the father of Megabyzus",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dātuhya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dādarši",
+    "senses": [
+      {
+        "definition": "name of",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "a Persian satrap",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "an Armenian subject",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dādarši"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dan",
+    "senses": [
+      {
+        "definition": "to know",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "to flow",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dan"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dar",
+    "senses": [
+      {
+        "definition": "to hold 2 hold a position halt",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "obtain",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ham"
+        }
+      }
+    ],
+    "search_forms": [
+      "dar"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dārayantā",
+    "senses": [
+      {
+        "definition": "Pfeilbewahrer",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dārayantā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dārayavau",
+    "senses": [
+      {
+        "definition": "Darius I.",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "Darius II.",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dārayavau"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dargam",
+    "senses": [
+      {
+        "definition": "long",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dargam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "darš",
+    "senses": [
+      {
+        "definition": "to dare",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "darš"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "daršam",
+    "senses": [
+      {
+        "definition": "mightily, much",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "daršam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "daršman",
+    "senses": [
+      {
+        "definition": "boldness, tyranny, despotism",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "daršman"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dasta",
+    "senses": [
+      {
+        "definition": "hand",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dasta"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dahyu",
+    "senses": [
+      {
+        "definition": "province, district, land",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dahyu"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "di",
+    "senses": [
+      {
+        "definition": "it, them (most often encl.)",
+        "pos": "demonstrative pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "di"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "demonstrative pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dī",
+    "senses": [
+      {
+        "definition": "to see",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "to injure, deprive one (acc.) of something (acc.), take (acc.) from one (acc.)",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dī"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "didā",
+    "senses": [
+      {
+        "definition": "stronghold",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "didā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dipi",
+    "senses": [
+      {
+        "definition": "inscription",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dipi"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dubāla",
+    "senses": [
+      {
+        "definition": "name of a district in Babylonia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dubāla"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dūraiy",
+    "senses": [
+      {
+        "definition": "far",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dūraiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "duruj",
+    "senses": [
+      {
+        "definition": "to lie, deceive",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "duruj"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "duruva",
+    "senses": [
+      {
+        "definition": "sound, secure",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "duruva"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "duvaištam",
+    "senses": [
+      {
+        "definition": "very long",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "duvaištam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "duvara",
+    "senses": [
+      {
+        "definition": "door",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "duvara"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "duvarθi",
+    "senses": [
+      {
+        "definition": "portico, colonnade",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "duvarθi"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "duvitāparanam",
+    "senses": [
+      {
+        "definition": "long aforetime",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "duvitāparanam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "duvitīya",
+    "senses": [
+      {
+        "definition": "second",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "duvitīya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "dušiyāra",
+    "senses": [
+      {
+        "definition": "bad harvest, scarcity, famine",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "dušiyāra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "drauga",
+    "senses": [
+      {
+        "definition": "the Lie",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "drauga"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "draujana",
+    "senses": [
+      {
+        "definition": "deceiving, false, a follower of the Druj",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "draujana"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "draujīya",
+    "senses": [
+      {
+        "definition": "lie",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "draujīya"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "drayah",
+    "senses": [
+      {
+        "definition": "sea",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "drayah"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "naiba",
+    "senses": [
+      {
+        "definition": "beautiful",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "naiba"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "naiy",
+    "senses": [
+      {
+        "definition": "not",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "naiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nadintabaira",
+    "senses": [
+      {
+        "definition": "Nidintu-Bêl, name of a Babylonian rebel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nadintabaira"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "napāt",
+    "senses": [
+      {
+        "definition": "grandson",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "napāt"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nabukudracara",
+    "senses": [
+      {
+        "definition": "Nebuchadrezar, the assumed name of the rebels Nidintu-Bêl and Arkha",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nabukudracara"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nabunaita",
+    "senses": [
+      {
+        "definition": "Nabonidus, name of the last king of the new Babylonian empire",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nabunaita"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nāman",
+    "senses": [
+      {
+        "definition": "name",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nāman"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "naama",
+    "senses": [
+      {
+        "definition": "by name, written naamaa with fem. noun",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "naama"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "navama",
+    "senses": [
+      {
+        "definition": "ninth",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "navama"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nāviyā",
+    "senses": [
+      {
+        "definition": "a collection of ships, fleet",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nāviyā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nas",
+    "senses": [],
+    "search_forms": [
+      "nas"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "viyanā[sa",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "nāh",
+    "senses": [
+      {
+        "definition": "nose",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nāh"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "niy",
+    "senses": [
+      {
+        "definition": "down",
+        "pos": "verbal prefix",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "niy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verbal prefix"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nī",
+    "senses": [
+      {
+        "definition": "to lead",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "lead forth, bring forward",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "fra"
+        }
+      }
+    ],
+    "search_forms": [
+      "nī"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nij",
+    "senses": [
+      {
+        "definition": "away",
+        "pos": "verbal prefix",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nij"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verbal prefix"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nipadiy",
+    "senses": [
+      {
+        "definition": "in pursuit of, close after",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nipadiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "niyašādayam",
+    "senses": [],
+    "search_forms": [
+      "niyašādayam"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "had",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "nisāya",
+    "senses": [
+      {
+        "definition": "name of a Median district",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nisāya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nūram",
+    "senses": [
+      {
+        "definition": "now",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nūram"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "nyāka",
+    "senses": [
+      {
+        "definition": "grandfather",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "nyāka"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pā",
+    "senses": [
+      {
+        "definition": "to protect, sustain",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "guard onself (mid.) against (abl. with hacā)",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "patiy"
+        }
+      }
+    ],
+    "search_forms": [
+      "pā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "paišiyāuvādā",
+    "senses": [
+      {
+        "definition": "name of a district",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "paišiyāuvādā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pat",
+    "senses": [
+      {
+        "definition": "to fly, fall",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "rise up, rebel",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ud"
+        }
+      }
+    ],
+    "search_forms": [
+      "pat"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "patiy",
+    "senses": [
+      {
+        "definition": "with acc. during throughout, at",
+        "pos": "postposition; preposition",
+        "construction": null
+      },
+      {
+        "definition": "with instr. at",
+        "pos": "postposition; preposition",
+        "construction": null
+      },
+      {
+        "definition": "with loc. in, at",
+        "pos": "postposition; preposition",
+        "construction": null
+      },
+      {
+        "definition": "on the other hand, moreover, again, once more",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "patiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb; postposition; preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "patikara",
+    "senses": [
+      {
+        "definition": "picture, likeness",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "patikara"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "patigrabanā",
+    "senses": [
+      {
+        "definition": "name of a Parthian town",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "patigrabanā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "patipada",
+    "senses": [
+      {
+        "definition": "in its own place",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "patipada"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "patiš",
+    "senses": [
+      {
+        "definition": "against, towards",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "acc"
+        }
+      }
+    ],
+    "search_forms": [
+      "patiš"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pātišuvari",
+    "senses": [
+      {
+        "definition": "a Patischorian",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "pātišuvari"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "paθi",
+    "senses": [
+      {
+        "definition": "way, path",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "paθi"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "para",
+    "senses": [
+      {
+        "definition": "there before",
+        "pos": "postposition; preposition",
+        "construction": {
+          "type": "with case",
+          "case": "acc"
+        }
+      },
+      {
+        "definition": "after",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "para"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; postposition; preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "paranam",
+    "senses": [
+      {
+        "definition": "formerly",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "paranam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pariy",
+    "senses": [
+      {
+        "definition": "about, concerning",
+        "pos": null,
+        "construction": {
+          "type": "with case",
+          "case": "acc"
+        }
+      }
+    ],
+    "search_forms": [
+      "pariy"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "paru",
+    "senses": [
+      {
+        "definition": "many",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "paru"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "paruva",
+    "senses": [
+      {
+        "definition": "former",
+        "pos": "adjective",
+        "construction": null
+      },
+      {
+        "definition": "eastern",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "paruva"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "paruvam",
+    "senses": [
+      {
+        "definition": "formerly",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "paruvam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "paruviyata",
+    "senses": [
+      {
+        "definition": "hacā paruviyata: from long ago",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "paruviyata"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "paruzana",
+    "senses": [
+      {
+        "definition": "containing many kinds of people",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "paruzana"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "parθava",
+    "senses": [
+      {
+        "definition": "Parthia, Parthian",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "parθava"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "parsa",
+    "senses": [
+      {
+        "definition": "to ask, examine into, punish",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "examine, read",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "patiy"
+        }
+      }
+    ],
+    "search_forms": [
+      "parsa"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pārsa",
+    "senses": [
+      {
+        "definition": "adj. Persian",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "As subs. m. Persia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "pārsa"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pasā",
+    "senses": [
+      {
+        "definition": "after",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "gen"
+        }
+      }
+    ],
+    "search_forms": [
+      "pasā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pasāvā",
+    "senses": [
+      {
+        "definition": "thereafter, afterwards",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "pasāvā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pitar",
+    "senses": [
+      {
+        "definition": "father",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "pitar"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pirāva",
+    "senses": [
+      {
+        "definition": "the river Nile",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "pirāva"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "pisā",
+    "senses": [
+      {
+        "definition": "raft",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "pisā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "piš",
+    "senses": [
+      {
+        "definition": "cut, trim",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "cut (an inscription)",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "niy"
+        }
+      }
+    ],
+    "search_forms": [
+      "piš"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "puntiya",
+    "senses": [
+      {
+        "definition": "name of a people",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "puntiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "puθra",
+    "senses": [
+      {
+        "definition": "son",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "puθra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "fra",
+    "senses": [
+      {
+        "definition": "forth",
+        "pos": "verbal prefix",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "fra"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verbal prefix"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "fratama",
+    "senses": [
+      {
+        "definition": "first, foremost",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "fratama"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "frāda",
+    "senses": [
+      {
+        "definition": "name of a Margian rebel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "frāda"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "framatār",
+    "senses": [
+      {
+        "definition": "master, lord",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "framatār"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "framānā",
+    "senses": [
+      {
+        "definition": "command, precept",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "framānā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "fravarti",
+    "senses": [
+      {
+        "definition": "Phraortes, a Median rebel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "fravarti"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "fraharavam",
+    "senses": [
+      {
+        "definition": "altogether, in all",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "fraharavam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bāxtrī",
+    "senses": [
+      {
+        "definition": "Bactria",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bāxtrī"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "baga",
+    "senses": [
+      {
+        "definition": "god",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "baga"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bagābigna",
+    "senses": [
+      {
+        "definition": "name of the father of Vidarna",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bagābigna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bagabuxša",
+    "senses": [
+      {
+        "definition": "Megabyzos, one of the allies of Darius in the defeat of false Smerdis",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bagabuxša"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bāgayādi",
+    "senses": [
+      {
+        "definition": "name of a month, Sept.-Oct.",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bāgayādi"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bāji",
+    "senses": [
+      {
+        "definition": "tribute",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bāji"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "band",
+    "senses": [
+      {
+        "definition": "to bind",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "band"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bandaka",
+    "senses": [
+      {
+        "definition": "subject; as subs. servant, subject",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bandaka"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bābiru",
+    "senses": [
+      {
+        "definition": "Babylon, Babylonia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bābiru"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bābiruviya",
+    "senses": [
+      {
+        "definition": "Babylonian",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bābiruviya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bar",
+    "senses": [
+      {
+        "definition": "to bear, sustain, esteem",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "bring back, restore",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "patiy"
+        }
+      },
+      {
+        "definition": "bear away, take away",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "parā"
+        }
+      },
+      {
+        "definition": "protect, preserve",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "pariy"
+        }
+      },
+      {
+        "definition": "proffer, grant",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "frā"
+        }
+      }
+    ],
+    "search_forms": [
+      "bar"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bardiya",
+    "senses": [
+      {
+        "definition": "Smerdis, brother of Cambyses",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bardiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "bū",
+    "senses": [
+      {
+        "definition": "to be",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "bū"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "būmī",
+    "senses": [
+      {
+        "definition": "earth",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "būmī"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "brātar",
+    "senses": [
+      {
+        "definition": "brother",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "brātar"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "mā",
+    "senses": [
+      {
+        "definition": "not",
+        "pos": "prohibitive particle",
+        "construction": null
+      },
+      {
+        "definition": "to measure",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "extend (i.e. be of ancient lineage)",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ā"
+        }
+      }
+    ],
+    "search_forms": [
+      "mā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "prohibitive particle"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ma",
+    "senses": [],
+    "search_forms": [
+      "ma"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "pronominal stem; pronoun"
+    },
+    "see": "adam",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "maka",
+    "senses": [
+      {
+        "definition": "name of a people",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "maka"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "magu",
+    "senses": [
+      {
+        "definition": "name of a Median tribe celebrated in priestcraft, Magian",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "magu"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "maciya",
+    "senses": [
+      {
+        "definition": "name of a people",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "maciya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "mātya",
+    "senses": [
+      {
+        "definition": "that not, lest, not",
+        "pos": "conjunction; conjunction with subjunctive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "mātya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "conjunction; conjunction with subjunctive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "maθišta",
+    "senses": [
+      {
+        "definition": "the greatest",
+        "pos": "adjective",
+        "construction": null
+      },
+      {
+        "definition": "as subs. chief, lieader",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "maθišta"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "māda",
+    "senses": [
+      {
+        "definition": "Median",
+        "pos": "adjective",
+        "construction": null
+      },
+      {
+        "definition": "as subs. Media",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "māda"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "man",
+    "senses": [
+      {
+        "definition": "to think",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "to remain",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "man"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "māniya",
+    "senses": [
+      {
+        "definition": "estate(?)",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "māniya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "mar",
+    "senses": [
+      {
+        "definition": "to die",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "mar"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "mārgava",
+    "senses": [
+      {
+        "definition": "Margian",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "mārgava"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "margu",
+    "senses": [
+      {
+        "definition": "Margiana",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "margu"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "martiya",
+    "senses": [
+      {
+        "definition": "man",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "name of Susian rebel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "martiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "marduniya",
+    "senses": [
+      {
+        "definition": "Mardonius, father of Gobryas",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "marduniya"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "mardāh",
+    "senses": [],
+    "search_forms": [
+      "mardāh"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "auramazdāh",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "maškā",
+    "senses": [
+      {
+        "definition": "skin, float of skins",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "maškā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "māh",
+    "senses": [
+      {
+        "definition": "month, with gen. of the name",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "māh"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "miθra",
+    "senses": [
+      {
+        "definition": "the god Mithra",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "miθra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "muθ",
+    "senses": [
+      {
+        "definition": "to flee",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "muθ"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "mudrāya",
+    "senses": [
+      {
+        "definition": "Egyptian, Egypt",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "mudrāya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yautiyā",
+    "senses": [
+      {
+        "definition": "name of a Persian district",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yautiyā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yauna",
+    "senses": [
+      {
+        "definition": "Ionian, land of the Ionians",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yauna"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yātā",
+    "senses": [
+      {
+        "definition": "while when",
+        "pos": "conjunction",
+        "construction": null
+      },
+      {
+        "definition": "until",
+        "pos": "conjunction",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yātā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "conjunction"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yaθā",
+    "senses": [
+      {
+        "definition": "as",
+        "pos": "conjunction",
+        "construction": null
+      },
+      {
+        "definition": "when",
+        "pos": "conjunction",
+        "construction": null
+      },
+      {
+        "definition": "because",
+        "pos": "conjunction",
+        "construction": null
+      },
+      {
+        "definition": "in order that, that",
+        "pos": "conjunction",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yaθā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "conjunction"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yad",
+    "senses": [
+      {
+        "definition": "to worship",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yad"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yadāyā",
+    "senses": [
+      {
+        "definition": "with hacā : from my allegiance",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yadāyā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yadiy",
+    "senses": [
+      {
+        "definition": "if",
+        "pos": "conjunction",
+        "construction": null
+      },
+      {
+        "definition": "when",
+        "pos": "conjunction",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yadiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "conjunction"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yāna",
+    "senses": [
+      {
+        "definition": "favor",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yanaiy",
+    "senses": [
+      {
+        "definition": "whereon",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yanaiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yam",
+    "senses": [
+      {
+        "definition": "to reach, attain",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "appropriate, take to oneself, seize as one’s possession",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ā"
+        }
+      }
+    ],
+    "search_forms": [
+      "yam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yāvā",
+    "senses": [
+      {
+        "definition": "as long as",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yāvā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "yuviyā",
+    "senses": [
+      {
+        "definition": "canal",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "yuviyā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "raucah",
+    "senses": [
+      {
+        "definition": "day",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "raucah"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "rautah",
+    "senses": [
+      {
+        "definition": "river",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "rautah"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "raxā",
+    "senses": [
+      {
+        "definition": "name of a Persian town",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "raxā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ragā",
+    "senses": [
+      {
+        "definition": "name of a Median district",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ragā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "rad",
+    "senses": [
+      {
+        "definition": "to leave",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "leave, abandon",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ava"
+        }
+      }
+    ],
+    "search_forms": [
+      "rad"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "rāð",
+    "senses": [],
+    "search_forms": [
+      "rāð"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": "avahyarādiy",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "rasa-",
+    "senses": [],
+    "search_forms": [
+      "rasa-"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": "ar",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "rāsta",
+    "senses": [
+      {
+        "definition": "true",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "rāsta"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vā",
+    "senses": [
+      {
+        "definition": "or",
+        "pos": "conjunction; enclitic conjunction",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "conjunction; enclitic conjunction"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vaina",
+    "senses": [
+      {
+        "definition": "to see, Mid. to seem",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vaina"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vaumisa",
+    "senses": [
+      {
+        "definition": "name of a Persian leader",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vaumisa"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vayam",
+    "senses": [],
+    "search_forms": [
+      "vayam"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "adam",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "vāyaspāra",
+    "senses": [
+      {
+        "definition": "name of the father of Intaphernes",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vāyaspāra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "var",
+    "senses": [
+      {
+        "definition": "to choose; Mid. to convince",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "var"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "varkāna",
+    "senses": [
+      {
+        "definition": "Hyrcania",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "varkāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vart",
+    "senses": [
+      {
+        "definition": "to turn",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "I appeal",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "upa"
+        }
+      }
+    ],
+    "search_forms": [
+      "vart"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vardana",
+    "senses": [
+      {
+        "definition": "town",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vardana"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vasiy",
+    "senses": [
+      {
+        "definition": "much, to a great extent, in large numbers, utterly",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vasiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vašna",
+    "senses": [
+      {
+        "definition": "will, favor",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vašna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vazarka",
+    "senses": [
+      {
+        "definition": "great, mighty",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vazarka"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vahauka",
+    "senses": [
+      {
+        "definition": "name of the father of Ardumanish",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vahauka"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vahyazdāta",
+    "senses": [
+      {
+        "definition": "name of a Persian rebel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vahyazdāta"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "viy",
+    "senses": [
+      {
+        "definition": "apart, away",
+        "pos": "verbal prefix",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "viy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verbal prefix"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "viθ",
+    "senses": [
+      {
+        "definition": "royal court, royal race",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "royal palace",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "viθ"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "viiθaibaiša",
+    "senses": [
+      {
+        "definition": "all; with the gods of the royal house",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "viiθaibaiša"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "viθabaišacā",
+    "senses": [
+      {
+        "definition": "and all things; and the royal residences; relating to the royal residences",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "viθabaišacā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vindafarnah",
+    "senses": [
+      {
+        "definition": "Intaphernes, name of ally of Darius against the false Smerdis",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vindafarnah"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vidarna",
+    "senses": [
+      {
+        "definition": "Hydarnes, name of ally of Darius against the false Smerdis",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vidarna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "viyaxna",
+    "senses": [
+      {
+        "definition": "name of a Persian month, Feb.-March",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "viyaxna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "viyanā[sa]ya",
+    "senses": [
+      {
+        "definition": "(whoever) injured (my house)",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "viyanāsaya",
+      "viyanāya"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vivāna",
+    "senses": [
+      {
+        "definition": "name of a Persian",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vivāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "visa",
+    "senses": [
+      {
+        "definition": "all",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "visa"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "visadahyu",
+    "senses": [
+      {
+        "definition": "containing all lands",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "visadahyu"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vispazana",
+    "senses": [
+      {
+        "definition": "containing all kinds of people",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vispazana"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "vištāspa",
+    "senses": [
+      {
+        "definition": "Hystaspes, father of Darius",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "vištāspa"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "višpauzāti",
+    "senses": [
+      {
+        "definition": "name of a Parthian town",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "višpauzāti"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "saka",
+    "senses": [
+      {
+        "definition": "Scythian, Scythia",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "saka"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "sakā",
+    "senses": [
+      {
+        "definition": "Scythia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "sakā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "san",
+    "senses": [
+      {
+        "definition": "to destroy (with suffix viy)",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "san"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "sar",
+    "senses": [],
+    "search_forms": [
+      "sar"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "akariyantā",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "asariyatā",
+    "senses": [],
+    "search_forms": [
+      "asariyatā"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": "akariyantā",
+    "is_cross_reference": true
+  },
+  {
+    "lemma": "sikayauvatī",
+    "senses": [
+      {
+        "definition": "name of a fortress in Media",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "sikayauvatī"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "suguda",
+    "senses": [
+      {
+        "definition": "Sogdiana",
+        "pos": "adjective; adjective as substantive",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "suguda"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective; adjective as substantive"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "skunxa",
+    "senses": [
+      {
+        "definition": "name of a Scythian rebel",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "skunxa"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "skudra",
+    "senses": [
+      {
+        "definition": "name of a district",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "skudra"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "stā",
+    "senses": [
+      {
+        "definition": "to stand, halt",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "place, restore",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "ava"
+        }
+      },
+      {
+        "definition": "enjoin, command",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "niy"
+        }
+      }
+    ],
+    "search_forms": [
+      "stā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "stāna",
+    "senses": [
+      {
+        "definition": "place",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "stāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "star",
+    "senses": [
+      {
+        "definition": "to sin",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "star"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "sparda",
+    "senses": [
+      {
+        "definition": "name of a region, according to Lassen, Sardis",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "sparda"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ša",
+    "senses": [
+      {
+        "definition": "therefrom",
+        "pos": "enclitic pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ša"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "enclitic pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "šaiy",
+    "senses": [
+      {
+        "definition": "to him, his",
+        "pos": "enclitic pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "šaiy"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "enclitic pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "šakauri[m]",
+    "senses": [
+      {
+        "definition": "servant, serf, retinue; slanderer",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "šakaurim",
+      "šakauri"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "šām",
+    "senses": [
+      {
+        "definition": "to them, of them",
+        "pos": "enclitic pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "šām"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "enclitic pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "šim",
+    "senses": [
+      {
+        "definition": "him, it, its",
+        "pos": "enclitic pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "šim"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "enclitic pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "šiyāti",
+    "senses": [
+      {
+        "definition": "well being",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "šiyāti"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "šiyu",
+    "senses": [
+      {
+        "definition": "to set forth, go",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "šiyu"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "šiš",
+    "senses": [
+      {
+        "definition": "them",
+        "pos": "enclitic pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "šiš"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "enclitic pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "zāzāna",
+    "senses": [
+      {
+        "definition": "name of a Babylonian town",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "zāzāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "zūrakara",
+    "senses": [
+      {
+        "definition": "doing wrong",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "zūrakara"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "zūrah",
+    "senses": [
+      {
+        "definition": "wrong, deceit",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "zūrah"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "zranka",
+    "senses": [
+      {
+        "definition": "m.",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "zranka"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hainā",
+    "senses": [
+      {
+        "definition": "army, hostile host, array of evil",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hainā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hauv",
+    "senses": [
+      {
+        "definition": "that",
+        "pos": "demonstrative pronoun",
+        "construction": null
+      },
+      {
+        "definition": "that one, he it",
+        "pos": "demonstrative pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hauv"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "demonstrative pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "haumavarka",
+    "senses": [
+      {
+        "definition": "designating a part of the Scythians in Dar. NRa. 3",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "haumavarka"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "haxāmaniš",
+    "senses": [
+      {
+        "definition": "Achaemenes",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "haxāmaniš"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "haxāmanišiya",
+    "senses": [
+      {
+        "definition": "of the race of Achaemenes, Achaemenidan",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "haxāmanišiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hagmatāna",
+    "senses": [
+      {
+        "definition": "Ecbatana",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hagmatāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hacā",
+    "senses": [
+      {
+        "definition": "from",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "abl"
+        }
+      }
+    ],
+    "search_forms": [
+      "hacā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hanj",
+    "senses": [
+      {
+        "definition": "to hale to prison or inflict some form of penalty",
+        "pos": "verb",
+        "construction": null
+      },
+      {
+        "definition": "with prefix fra",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hanj"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "had",
+    "senses": [
+      {
+        "definition": "to sit",
+        "pos": null,
+        "construction": null
+      },
+      {
+        "definition": "place down, establish",
+        "pos": null,
+        "construction": {
+          "type": "with prefix",
+          "value": "niy"
+        }
+      }
+    ],
+    "search_forms": [
+      "had"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hadā",
+    "senses": [
+      {
+        "definition": "with",
+        "pos": "preposition",
+        "construction": {
+          "type": "with case",
+          "case": "inst"
+        }
+      }
+    ],
+    "search_forms": [
+      "hadā"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "preposition"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hadiš",
+    "senses": [
+      {
+        "definition": "dwelling place",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hadiš"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "handugā",
+    "senses": [
+      {
+        "definition": "proclamation, record",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "handugā"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hapariya-",
+    "senses": [
+      {
+        "definition": "to reverence, respect",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hapariya-"
+    ],
+    "variants": null,
+    "morphology": {},
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "ham",
+    "senses": [
+      {
+        "definition": "together",
+        "pos": "verbal prefix",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "ham"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verbal prefix"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hama",
+    "senses": [
+      {
+        "definition": "same, one and the same",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hama"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hamātar",
+    "senses": [
+      {
+        "definition": "having a common mother",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hamātar"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hamapitar",
+    "senses": [
+      {
+        "definition": "having a common father",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hamapitar"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hamara",
+    "senses": [
+      {
+        "definition": "foe, enemy",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hamara"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hamarana",
+    "senses": [
+      {
+        "definition": "battle, conflict",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hamarana"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "neuter",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hamiθriya",
+    "senses": [
+      {
+        "definition": "rebellious",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hamiθriya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "har",
+    "senses": [
+      {
+        "definition": "to flee",
+        "pos": "verb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "har"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "verb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "haraiva",
+    "senses": [
+      {
+        "definition": "Aria",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "haraiva"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "harauvatī",
+    "senses": [
+      {
+        "definition": "Arachosia",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "harauvatī"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "feminine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "haruva",
+    "senses": [
+      {
+        "definition": "whole",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "haruva"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "harabāna",
+    "senses": [
+      {
+        "definition": "tongue",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "harabāna"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "haldita",
+    "senses": [
+      {
+        "definition": "name of the father of Arkha",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "haldita"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hašiya",
+    "senses": [
+      {
+        "definition": "true",
+        "pos": "adjective",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hašiya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adjective"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hindu",
+    "senses": [
+      {
+        "definition": "India",
+        "pos": null,
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hindu"
+    ],
+    "variants": null,
+    "morphology": {
+      "gender": "masculine",
+      "pos": "noun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hya",
+    "senses": [
+      {
+        "definition": "who",
+        "pos": "pronoun",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hya"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "pronoun"
+    },
+    "see": null,
+    "is_cross_reference": false
+  },
+  {
+    "lemma": "hyāparam",
+    "senses": [
+      {
+        "definition": "thereafter, thereupon",
+        "pos": "adverb",
+        "construction": null
+      }
+    ],
+    "search_forms": [
+      "hyāparam"
+    ],
+    "variants": null,
+    "morphology": {
+      "pos": "adverb"
+    },
+    "see": null,
+    "is_cross_reference": false
+  }
+]

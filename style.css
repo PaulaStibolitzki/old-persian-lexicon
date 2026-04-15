@@ -1,0 +1,61 @@
+body{
+font-family: Arial, sans-serif;
+margin:40px;
+line-height:1.5;
+}
+
+#searchBox{
+padding:6px;
+font-size:16px;
+width:220px;
+margin-right:10px;
+}
+
+select{
+padding:5px;
+margin-right:10px;
+}
+
+button{
+padding:5px 10px;
+cursor:pointer;
+}
+
+#alphabet{
+margin-top:15px;
+margin-bottom:15px;
+}
+
+#alphabet button{
+margin:2px;
+padding:4px 7px;
+border:1px solid #ccc;
+background:white;
+}
+
+#alphabet button.active{
+background:#333;
+color:white;
+font-weight:bold;
+}
+
+.result{
+padding:6px;
+border-bottom:1px solid #eee;
+cursor:pointer;
+}
+
+.result:hover{
+background:#f5f5f5;
+}
+
+#entry{
+margin-top:25px;
+padding:15px;
+border:1px solid #ddd;
+background:#fafafa;
+}
+
+#entry h2{
+margin-top:0;
+}

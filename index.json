@@ -1,0 +1,9425 @@
+{
+  "entries": {
+    "ā": {
+      "id": "ā",
+      "lemma": "ā",
+      "search_forms": [
+        "ā"
+      ],
+      "pos": "postposition; preposition; verbal prefix",
+      "gender": "",
+      "construction": [
+        "with loc"
+      ],
+      "definition": "to, unto; in, on, by"
+    },
+    "a-": {
+      "id": "a-",
+      "lemma": "a-",
+      "search_forms": [
+        "a-"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "neg. prefix (a- before consonants; an- before vowels)"
+    },
+    "a": {
+      "id": "a",
+      "lemma": "a",
+      "search_forms": [
+        "a"
+      ],
+      "pos": "demonstrative pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "this"
+    },
+    "aita": {
+      "id": "aita",
+      "lemma": "aita",
+      "search_forms": [
+        "aita"
+      ],
+      "pos": "demonstrative pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "this"
+    },
+    "aina[ira]": {
+      "id": "aina[ira]",
+      "lemma": "aina[ira]",
+      "search_forms": [
+        "aina",
+        "ainaira"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Babylonian, father of Nidintu-Bel"
+    },
+    "aiva": {
+      "id": "aiva",
+      "lemma": "aiva",
+      "search_forms": [
+        "aiva"
+      ],
+      "pos": "numeral",
+      "gender": "",
+      "construction": [],
+      "definition": "one"
+    },
+    "autiyara": {
+      "id": "autiyara",
+      "lemma": "autiyara",
+      "search_forms": [
+        "autiyara"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a district in Armenia"
+    },
+    "aura": {
+      "id": "aura",
+      "lemma": "aura",
+      "search_forms": [
+        "aura"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "god"
+    },
+    "auramazdāh": {
+      "id": "auramazdāh",
+      "lemma": "auramazdāh",
+      "search_forms": [
+        "auramazdāh"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of the supreme god, Ahura Mazda"
+    },
+    "axšata": {
+      "id": "axšata",
+      "lemma": "axšata",
+      "search_forms": [
+        "axšata"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "unhurt, inviolate, undisturbed"
+    },
+    "āgar[tar]": {
+      "id": "āgar[tar]",
+      "lemma": "āgar[tar]",
+      "search_forms": [
+        "āgartar",
+        "āgar"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "supplement for agara"
+    },
+    "antar": {
+      "id": "antar",
+      "lemma": "antar",
+      "search_forms": [
+        "antar"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with acc"
+      ],
+      "definition": "within, among, in"
+    },
+    "atiy": {
+      "id": "atiy",
+      "lemma": "atiy",
+      "search_forms": [
+        "atiy"
+      ],
+      "pos": "verbal prefix",
+      "gender": "",
+      "construction": [],
+      "definition": "beyond, across, past"
+    },
+    "aθangaina/āθangaina": {
+      "id": "aθangaina/āθangaina",
+      "lemma": "aθangaina/āθangaina",
+      "search_forms": [
+        "āθangaina",
+        "aθangaina"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "of stone"
+    },
+    "aθurā": {
+      "id": "aθurā",
+      "lemma": "aθurā",
+      "search_forms": [
+        "aθurā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "Assyria"
+    },
+    "aθrina/āθrina": {
+      "id": "aθrina/āθrina",
+      "lemma": "aθrina/āθrina",
+      "search_forms": [
+        "āθrina",
+        "aθrina"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Susian rebel"
+    },
+    "aθriyadiya": {
+      "id": "aθriyadiya",
+      "lemma": "aθriyadiya",
+      "search_forms": [
+        "aθriyadiya"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "name of a Persian month, Nov.-Dec."
+    },
+    "ada": {
+      "id": "ada",
+      "lemma": "ada",
+      "search_forms": [
+        "ada"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "then"
+    },
+    "adakaiy": {
+      "id": "adakaiy",
+      "lemma": "adakaiy",
+      "search_forms": [
+        "adakaiy"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "then"
+    },
+    "ādāta": {
+      "id": "ādāta",
+      "lemma": "ādāta",
+      "search_forms": [
+        "ādāta"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "noble"
+    },
+    "adam": {
+      "id": "adam",
+      "lemma": "adam",
+      "search_forms": [
+        "adam"
+      ],
+      "pos": "personal pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "I"
+    },
+    "adiy": {
+      "id": "adiy",
+      "lemma": "adiy",
+      "search_forms": [
+        "adiy"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with loc"
+      ],
+      "definition": "in"
+    },
+    "adukaniša": {
+      "id": "adukaniša",
+      "lemma": "adukaniša",
+      "search_forms": [
+        "adukaniša"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a Persian month, Oct.-Nov."
+    },
+    "ana": {
+      "id": "ana",
+      "lemma": "ana",
+      "search_forms": [
+        "ana"
+      ],
+      "pos": "demonstrative pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "this"
+    },
+    "anā": {
+      "id": "anā",
+      "lemma": "anā",
+      "search_forms": [
+        "anā"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with inst"
+      ],
+      "definition": "along, throughout"
+    },
+    "anāmaka": {
+      "id": "anāmaka",
+      "lemma": "anāmaka",
+      "search_forms": [
+        "anāmaka"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "name of a Persian month, Dec.-Jan."
+    },
+    "anāhita": {
+      "id": "anāhita",
+      "lemma": "anāhita",
+      "search_forms": [
+        "anāhita"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "name of a goddess"
+    },
+    "aniya": {
+      "id": "aniya",
+      "lemma": "aniya",
+      "search_forms": [
+        "aniya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "other, another; the one - the other; strange, hostile, an enemy; with ciy, Nom. sg. n. aniyašciy"
+    },
+    "anuv": {
+      "id": "anuv",
+      "lemma": "anuv",
+      "search_forms": [
+        "anuv"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with inst"
+      ],
+      "definition": "along, after"
+    },
+    "anušiya": {
+      "id": "anušiya",
+      "lemma": "anušiya",
+      "search_forms": [
+        "anušiya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "devoted to, ally, follower"
+    },
+    "apa": {
+      "id": "apa",
+      "lemma": "apa",
+      "search_forms": [
+        "apa"
+      ],
+      "pos": "verbal prefix",
+      "gender": "",
+      "construction": [],
+      "definition": "from, away"
+    },
+    "apatara": {
+      "id": "apatara",
+      "lemma": "apatara",
+      "search_forms": [
+        "apatara"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "away from, outside of, elsewhere"
+    },
+    "apadāna": {
+      "id": "apadāna",
+      "lemma": "apadāna",
+      "search_forms": [
+        "apadāna"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "palace"
+    },
+    "apanyāka": {
+      "id": "apanyāka",
+      "lemma": "apanyāka",
+      "search_forms": [
+        "apanyāka"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "ancestor"
+    },
+    "aparam": {
+      "id": "aparam",
+      "lemma": "aparam",
+      "search_forms": [
+        "aparam"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "afterwards"
+    },
+    "āpī": {
+      "id": "āpī",
+      "lemma": "āpī",
+      "search_forms": [
+        "āpī"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "water"
+    },
+    "apiy": {
+      "id": "apiy",
+      "lemma": "apiy",
+      "search_forms": [
+        "apiy"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with acc"
+      ],
+      "definition": "to, against"
+    },
+    "abicariš": {
+      "id": "abicariš",
+      "lemma": "abicariš",
+      "search_forms": [
+        "abicariš"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "pasture-lands, grazing areas, aids, commerce"
+    },
+    "abiš": {
+      "id": "abiš",
+      "lemma": "abiš",
+      "search_forms": [
+        "abiš"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "thereby"
+    },
+    "ama": {
+      "id": "ama",
+      "lemma": "ama",
+      "search_forms": [
+        "ama"
+      ],
+      "pos": "pronominal stem; pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "amuθa": {
+      "id": "amuθa",
+      "lemma": "amuθa",
+      "search_forms": [
+        "amuθa"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "ayadaiy": {
+      "id": "ayadaiy",
+      "lemma": "ayadaiy",
+      "search_forms": [
+        "ayadaiy"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "āyadana": {
+      "id": "āyadana",
+      "lemma": "āyadana",
+      "search_forms": [
+        "āyadana"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "sanctuary, place of worship"
+    },
+    "āyasatā": {
+      "id": "āyasatā",
+      "lemma": "āyasatā",
+      "search_forms": [
+        "āyasatā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "[for āyastā, see yam]"
+    },
+    "ar": {
+      "id": "ar",
+      "lemma": "ar",
+      "search_forms": [
+        "ar"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix parā",
+        "with prefix niy"
+      ],
+      "definition": "to set in motion, go, come, arrive; come to, arrive; come down, descend"
+    },
+    "araika/arika": {
+      "id": "araika/arika",
+      "lemma": "araika/arika",
+      "search_forms": [
+        "araika",
+        "arika"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "hostile"
+    },
+    "arabāya": {
+      "id": "arabāya",
+      "lemma": "arabāya",
+      "search_forms": [
+        "arabāya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Arabia"
+    },
+    "arakadri": {
+      "id": "arakadri",
+      "lemma": "arakadri",
+      "search_forms": [
+        "arakadri"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a mountain"
+    },
+    "arxa": {
+      "id": "arxa",
+      "lemma": "arxa",
+      "search_forms": [
+        "arxa"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of an Armenian rebel"
+    },
+    "ariya": {
+      "id": "ariya",
+      "lemma": "ariya",
+      "search_forms": [
+        "ariya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "Aryan"
+    },
+    "ariyāramna": {
+      "id": "ariyāramna",
+      "lemma": "ariyāramna",
+      "search_forms": [
+        "ariyāramna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Ariaramnes, name of the great-grandfather of Darius"
+    },
+    "artaxšaθra": {
+      "id": "artaxšaθra",
+      "lemma": "artaxšaθra",
+      "search_forms": [
+        "artaxšaθra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Artaxerxes"
+    },
+    "artavardiya": {
+      "id": "artavardiya",
+      "lemma": "artavardiya",
+      "search_forms": [
+        "artavardiya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of one of the generals of Darius"
+    },
+    "ardaxcašc(?)a": {
+      "id": "ardaxcašc(?)a",
+      "lemma": "ardaxcašc(?)a",
+      "search_forms": [
+        "ardaxcašc(?)a",
+        "ardaxcašc?a",
+        "ardaxcašca"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "ardastāna": {
+      "id": "ardastāna",
+      "lemma": "ardastāna",
+      "search_forms": [
+        "ardastāna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "window-cornice(?)"
+    },
+    "ardumaniš": {
+      "id": "ardumaniš",
+      "lemma": "ardumaniš",
+      "search_forms": [
+        "ardumaniš"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of one of the allies of Darius against Gaumāta"
+    },
+    "arbaira": {
+      "id": "arbaira",
+      "lemma": "arbaira",
+      "search_forms": [
+        "arbaira"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "Arbela"
+    },
+    "armina": {
+      "id": "armina",
+      "lemma": "armina",
+      "search_forms": [
+        "armina"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Armenia"
+    },
+    "arminiya": {
+      "id": "arminiya",
+      "lemma": "arminiya",
+      "search_forms": [
+        "arminiya"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "Armenian; Armenia"
+    },
+    "aršaka": {
+      "id": "aršaka",
+      "lemma": "aršaka",
+      "search_forms": [
+        "aršaka"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Arsaces"
+    },
+    "aršādā": {
+      "id": "aršādā",
+      "lemma": "aršādā",
+      "search_forms": [
+        "aršādā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a fortress"
+    },
+    "aršāma": {
+      "id": "aršāma",
+      "lemma": "aršāma",
+      "search_forms": [
+        "aršāma"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Arsames, name of the grandfather of Darius"
+    },
+    "arštā": {
+      "id": "arštā",
+      "lemma": "arštā",
+      "search_forms": [
+        "arštā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "rectitude"
+    },
+    "aršti": {
+      "id": "aršti",
+      "lemma": "aršti",
+      "search_forms": [
+        "aršti"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "spear"
+    },
+    "arštibara": {
+      "id": "arštibara",
+      "lemma": "arštibara",
+      "search_forms": [
+        "arštibara"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "spear-bearer"
+    },
+    "ava": {
+      "id": "ava",
+      "lemma": "ava",
+      "search_forms": [
+        "ava"
+      ],
+      "pos": "demonstrative pronoun; verbal prefix",
+      "gender": "",
+      "construction": [],
+      "definition": "that; down"
+    },
+    "avā": {
+      "id": "avā",
+      "lemma": "avā",
+      "search_forms": [
+        "avā"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "thus"
+    },
+    "avākanam": {
+      "id": "avākanam",
+      "lemma": "avākanam",
+      "search_forms": [
+        "avākanam"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "I placed (my army) on floats of skins"
+    },
+    "avajam": {
+      "id": "avajam",
+      "lemma": "avajam",
+      "search_forms": [
+        "avajam"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "I put out his eyes"
+    },
+    "avaθā": {
+      "id": "avaθā",
+      "lemma": "avaθā",
+      "search_forms": [
+        "avaθā"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "thus; then"
+    },
+    "avaθāštā pari[ba]rā": {
+      "id": "avaθāštā pari[ba]rā",
+      "lemma": "avaθāštā pari[ba]rā",
+      "search_forms": [
+        "avaθāštā parirā",
+        "avaθāštā paribarā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "thus preserve them"
+    },
+    "avadā": {
+      "id": "avadā",
+      "lemma": "avadā",
+      "search_forms": [
+        "avadā"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "there; thither; hacā avadaša therefrom, thence"
+    },
+    "avaparā": {
+      "id": "avaparā",
+      "lemma": "avaparā",
+      "search_forms": [
+        "avaparā"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "there along, there before"
+    },
+    "āvahana": {
+      "id": "āvahana",
+      "lemma": "āvahana",
+      "search_forms": [
+        "āvahana"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "dwelling place"
+    },
+    "avahya": {
+      "id": "avahya",
+      "lemma": "avahya",
+      "search_forms": [
+        "avahya"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix patiy"
+      ],
+      "definition": "to ask aid, implore; seek for help, supplicate"
+    },
+    "avahyarādiy": {
+      "id": "avahyarādiy",
+      "lemma": "avahyarādiy",
+      "search_forms": [
+        "avahyarādiy"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "for this reason, therefore."
+    },
+    "asa": {
+      "id": "asa",
+      "lemma": "asa",
+      "search_forms": [
+        "asa"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "horse"
+    },
+    "asagarta": {
+      "id": "asagarta",
+      "lemma": "asagarta",
+      "search_forms": [
+        "asagarta"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Sagartia"
+    },
+    "asagartiya": {
+      "id": "asagartiya",
+      "lemma": "asagartiya",
+      "search_forms": [
+        "asagartiya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "Sagartian"
+    },
+    "asabāri": {
+      "id": "asabāri",
+      "lemma": "asabāri",
+      "search_forms": [
+        "asabāri"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "mounted on horses, horsemen"
+    },
+    "aspa": {
+      "id": "aspa",
+      "lemma": "aspa",
+      "search_forms": [
+        "aspa"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "horse"
+    },
+    "aspacanah": {
+      "id": "aspacanah",
+      "lemma": "aspacanah",
+      "search_forms": [
+        "aspacanah"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "Aspathines"
+    },
+    "asman": {
+      "id": "asman",
+      "lemma": "asman",
+      "search_forms": [
+        "asman"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "stone; firmament, heaven"
+    },
+    "azda": {
+      "id": "azda",
+      "lemma": "azda",
+      "search_forms": [
+        "azda"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "known"
+    },
+    "ah": {
+      "id": "ah",
+      "lemma": "ah",
+      "search_forms": [
+        "ah"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to be"
+    },
+    "i": {
+      "id": "i",
+      "lemma": "i",
+      "search_forms": [
+        "i"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix ā",
+        "with prefix atiy",
+        "with prefix abiy",
+        "with prefix upariy",
+        "with prefix nij",
+        "with prefix patiy",
+        "with prefix parā"
+      ],
+      "definition": "to go; come; go beyond, go along; go unto, arrive; beyond measure; go forth; come unto, be one’s possession; go forth, proceed"
+    },
+    "idā": {
+      "id": "idā",
+      "lemma": "idā",
+      "search_forms": [
+        "idā"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "here"
+    },
+    "ima": {
+      "id": "ima",
+      "lemma": "ima",
+      "search_forms": [
+        "ima"
+      ],
+      "pos": "demonstrative pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "this"
+    },
+    "imaniš": {
+      "id": "imaniš",
+      "lemma": "imaniš",
+      "search_forms": [
+        "imaniš"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name assumed by Martiya in his insurrection in Susiana"
+    },
+    "iyam": {
+      "id": "iyam",
+      "lemma": "iyam",
+      "search_forms": [
+        "iyam"
+      ],
+      "pos": "pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "this"
+    },
+    "iš": {
+      "id": "iš",
+      "lemma": "iš",
+      "search_forms": [
+        "iš"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix frā"
+      ],
+      "definition": "to put in motion, send; send forth"
+    },
+    "u": {
+      "id": "u",
+      "lemma": "u",
+      "search_forms": [
+        "u"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "(in composition) good, well (before vowels uv)"
+    },
+    "[u]cašama": {
+      "id": "[u]cašama",
+      "lemma": "[u]cašama",
+      "search_forms": [
+        "cašama",
+        "ucašama"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "eye"
+    },
+    "utā": {
+      "id": "utā",
+      "lemma": "utā",
+      "search_forms": [
+        "utā"
+      ],
+      "pos": "conjunction",
+      "gender": "",
+      "construction": [],
+      "definition": "and"
+    },
+    "utāna": {
+      "id": "utāna",
+      "lemma": "utāna",
+      "search_forms": [
+        "utāna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Otanes, name of one of the allies of Darius against Gaumata"
+    },
+    "ud": {
+      "id": "ud",
+      "lemma": "ud",
+      "search_forms": [
+        "ud"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "up, forth"
+    },
+    "us": {
+      "id": "us",
+      "lemma": "us",
+      "search_forms": [
+        "us"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "up, forth"
+    },
+    "upā": {
+      "id": "upā",
+      "lemma": "upā",
+      "search_forms": [
+        "upā"
+      ],
+      "pos": "adverb; preposition",
+      "gender": "",
+      "construction": [
+        "with acc"
+      ],
+      "definition": "unto, to; to, by"
+    },
+    "upadaranma": {
+      "id": "upadaranma",
+      "lemma": "upadaranma",
+      "search_forms": [
+        "upadaranma"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of the father of Aθrina"
+    },
+    "upariy": {
+      "id": "upariy",
+      "lemma": "upariy",
+      "search_forms": [
+        "upariy"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with acc"
+      ],
+      "definition": "above, over"
+    },
+    "upastā": {
+      "id": "upastā",
+      "lemma": "upastā",
+      "search_forms": [
+        "upastā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "help, aid"
+    },
+    "ufrašta": {
+      "id": "ufrašta",
+      "lemma": "ufrašta",
+      "search_forms": [
+        "ufrašta"
+      ],
+      "pos": "passive participle",
+      "gender": "",
+      "construction": [],
+      "definition": "well punished"
+    },
+    "ufrašti": {
+      "id": "ufrašti",
+      "lemma": "ufrašti",
+      "search_forms": [
+        "ufrašti"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "severe punishment"
+    },
+    "ufrātu": {
+      "id": "ufrātu",
+      "lemma": "ufrātu",
+      "search_forms": [
+        "ufrātu"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Euphrates"
+    },
+    "ubarta": {
+      "id": "ubarta",
+      "lemma": "ubarta",
+      "search_forms": [
+        "ubarta"
+      ],
+      "pos": "passive participle",
+      "gender": "",
+      "construction": [],
+      "definition": "well esteemed"
+    },
+    "umartiya": {
+      "id": "umartiya",
+      "lemma": "umartiya",
+      "search_forms": [
+        "umartiya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "possessing good men"
+    },
+    "u[yam]ā": {
+      "id": "u[yam]ā",
+      "lemma": "u[yam]ā",
+      "search_forms": [
+        "uyamā",
+        "uā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a fortress in Armenia"
+    },
+    "uvāipašiya": {
+      "id": "uvāipašiya",
+      "lemma": "uvāipašiya",
+      "search_forms": [
+        "uvāipašiya"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "own possession"
+    },
+    "uvaxštra": {
+      "id": "uvaxštra",
+      "lemma": "uvaxštra",
+      "search_forms": [
+        "uvaxštra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Cyaxares"
+    },
+    "uvaja": {
+      "id": "uvaja",
+      "lemma": "uvaja",
+      "search_forms": [
+        "uvaja"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Susiana"
+    },
+    "uvajiya": {
+      "id": "uvajiya",
+      "lemma": "uvajiya",
+      "search_forms": [
+        "uvajiya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "Susian"
+    },
+    "uvādaicaya": {
+      "id": "uvādaicaya",
+      "lemma": "uvādaicaya",
+      "search_forms": [
+        "uvādaicaya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Persian town"
+    },
+    "uvāmaršiyu": {
+      "id": "uvāmaršiyu",
+      "lemma": "uvāmaršiyu",
+      "search_forms": [
+        "uvāmaršiyu"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "dying by one’s own hand"
+    },
+    "uvārazmi": {
+      "id": "uvārazmi",
+      "lemma": "uvārazmi",
+      "search_forms": [
+        "uvārazmi"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "Chorasmia"
+    },
+    "uvārazmiya": {
+      "id": "uvārazmiya",
+      "lemma": "uvārazmiya",
+      "search_forms": [
+        "uvārazmiya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "Chorasmia"
+    },
+    "uvaspa": {
+      "id": "uvaspa",
+      "lemma": "uvaspa",
+      "search_forms": [
+        "uvaspa"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "possessing good horses"
+    },
+    "ustašanā": {
+      "id": "ustašanā",
+      "lemma": "ustašanā",
+      "search_forms": [
+        "ustašanā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "staircase, Bauwerk, Treppe"
+    },
+    "ušabāri": {
+      "id": "ušabāri",
+      "lemma": "ušabāri",
+      "search_forms": [
+        "ušabāri"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "borne by oxen(?), mounted on camels"
+    },
+    "uška": {
+      "id": "uška",
+      "lemma": "uška",
+      "search_forms": [
+        "uška"
+      ],
+      "pos": "adjective",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "dry; dry land, mainland"
+    },
+    "uzma": {
+      "id": "uzma",
+      "lemma": "uzma",
+      "search_forms": [
+        "uzma"
+      ],
+      "pos": "adjective",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "what is up from the earth; stake, pile"
+    },
+    "kā": {
+      "id": "kā",
+      "lemma": "kā",
+      "search_forms": [
+        "kā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "particle giving to preceding tuvam thou an indefinite force"
+    },
+    "ka": {
+      "id": "ka",
+      "lemma": "ka",
+      "search_forms": [
+        "ka"
+      ],
+      "pos": "interrogative pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "who?; indef. with ciy: any"
+    },
+    "kaufa": {
+      "id": "kaufa",
+      "lemma": "kaufa",
+      "search_forms": [
+        "kaufa"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "hill, mountain"
+    },
+    "katpatuka": {
+      "id": "katpatuka",
+      "lemma": "katpatuka",
+      "search_forms": [
+        "katpatuka"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Cappadocia"
+    },
+    "kan": {
+      "id": "kan",
+      "lemma": "kan",
+      "search_forms": [
+        "kan"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix niy",
+        "with prefix viy"
+      ],
+      "definition": "to dig, chisel out; obliterate, cause to be forgotten; destroy"
+    },
+    "kanpada": {
+      "id": "kanpada",
+      "lemma": "kanpada",
+      "search_forms": [
+        "kanpada"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a district in Media"
+    },
+    "kāpišakāni": {
+      "id": "kāpišakāni",
+      "lemma": "kāpišakāni",
+      "search_forms": [
+        "kāpišakāni"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a fortress in Arachosia"
+    },
+    "kanbūjiya": {
+      "id": "kanbūjiya",
+      "lemma": "kanbūjiya",
+      "search_forms": [
+        "kanbūjiya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Cambyses"
+    },
+    "kāma": {
+      "id": "kāma",
+      "lemma": "kāma",
+      "search_forms": [
+        "kāma"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "desire, wish"
+    },
+    "kamna": {
+      "id": "kamna",
+      "lemma": "kamna",
+      "search_forms": [
+        "kamna"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "few"
+    },
+    "kar": {
+      "id": "kar",
+      "lemma": "kar",
+      "search_forms": [
+        "kar"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to do, make"
+    },
+    "kāra": {
+      "id": "kāra",
+      "lemma": "kāra",
+      "search_forms": [
+        "kāra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "the people; army"
+    },
+    "karka": {
+      "id": "karka",
+      "lemma": "karka",
+      "search_forms": [
+        "karka"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a people"
+    },
+    "karša": {
+      "id": "karša",
+      "lemma": "karša",
+      "search_forms": [
+        "karša"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Persian weight"
+    },
+    "kuganakā": {
+      "id": "kuganakā",
+      "lemma": "kuganakā",
+      "search_forms": [
+        "kuganakā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a Persian town"
+    },
+    "kunduru": {
+      "id": "kunduru",
+      "lemma": "kunduru",
+      "search_forms": [
+        "kunduru"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of Median town"
+    },
+    "kūru": {
+      "id": "kūru",
+      "lemma": "kūru",
+      "search_forms": [
+        "kūru"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Cyrus"
+    },
+    "kušiya": {
+      "id": "kušiya",
+      "lemma": "kušiya",
+      "search_forms": [
+        "kušiya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a people"
+    },
+    "xaršādašyā?": {
+      "id": "xaršādašyā?",
+      "lemma": "xaršādašyā?",
+      "search_forms": [
+        "xaršādašyā?"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "XŠ": {
+      "id": "XŠ",
+      "lemma": "XŠ",
+      "search_forms": [
+        "xš"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "xšaθrita": {
+      "id": "xšaθrita",
+      "lemma": "xšaθrita",
+      "search_forms": [
+        "xšaθrita"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name assumed by Phraortes, the Median pretender"
+    },
+    "xšaθra": {
+      "id": "xšaθra",
+      "lemma": "xšaθra",
+      "search_forms": [
+        "xšaθra"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "lordship, kingdom"
+    },
+    "xšaθrapāvan": {
+      "id": "xšaθrapāvan",
+      "lemma": "xšaθrapāvan",
+      "search_forms": [
+        "xšaθrapāvan"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "satrap"
+    },
+    "xšap": {
+      "id": "xšap",
+      "lemma": "xšap",
+      "search_forms": [
+        "xšap"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "night"
+    },
+    "xšāyaθiya": {
+      "id": "xšāyaθiya",
+      "lemma": "xšāyaθiya",
+      "search_forms": [
+        "xšāyaθiya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "king"
+    },
+    "xšayāršan": {
+      "id": "xšayāršan",
+      "lemma": "xšayāršan",
+      "search_forms": [
+        "xšayāršan"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Xerxes"
+    },
+    "xši": {
+      "id": "xši",
+      "lemma": "xši",
+      "search_forms": [
+        "xši"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix patiy",
+        "with prefix upari"
+      ],
+      "definition": "to rule; hold lordship over; rule"
+    },
+    "xšnā": {
+      "id": "xšnā",
+      "lemma": "xšnā",
+      "search_forms": [
+        "xšnā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to know"
+    },
+    "gaiθa": {
+      "id": "gaiθa",
+      "lemma": "gaiθa",
+      "search_forms": [
+        "gaiθa"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "personal property"
+    },
+    "gaubruva": {
+      "id": "gaubruva",
+      "lemma": "gaubruva",
+      "search_forms": [
+        "gaubruva"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Gobryas"
+    },
+    "gaumāta": {
+      "id": "gaumāta",
+      "lemma": "gaumāta",
+      "search_forms": [
+        "gaumāta"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "the Median pretender who assumed the name of Smerdis"
+    },
+    "gauša": {
+      "id": "gauša",
+      "lemma": "gauša",
+      "search_forms": [
+        "gauša"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "ear"
+    },
+    "gāθu": {
+      "id": "gāθu",
+      "lemma": "gāθu",
+      "search_forms": [
+        "gāθu"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "place; throne"
+    },
+    "gandāra": {
+      "id": "gandāra",
+      "lemma": "gandāra",
+      "search_forms": [
+        "gandāra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a region"
+    },
+    "gandutava": {
+      "id": "gandutava",
+      "lemma": "gandutava",
+      "search_forms": [
+        "gandutava"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a district in Arachosia"
+    },
+    "gam": {
+      "id": "gam",
+      "lemma": "gam",
+      "search_forms": [
+        "gam"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix ā",
+        "with prefix parā",
+        "with prefix ham"
+      ],
+      "definition": "to go; come; go forth; come together, assemble"
+    },
+    "garmapada": {
+      "id": "garmapada",
+      "lemma": "garmapada",
+      "search_forms": [
+        "garmapada"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Persian month"
+    },
+    "gasta": {
+      "id": "gasta",
+      "lemma": "gasta",
+      "search_forms": [
+        "gasta"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "repugnant, adverse"
+    },
+    "gud": {
+      "id": "gud",
+      "lemma": "gud",
+      "search_forms": [
+        "gud"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix apa"
+      ],
+      "definition": "to conceal; hide away, conceal"
+    },
+    "gub": {
+      "id": "gub",
+      "lemma": "gub",
+      "search_forms": [
+        "gub"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to speak"
+    },
+    "grab": {
+      "id": "grab",
+      "lemma": "grab",
+      "search_forms": [
+        "grab"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix ā"
+      ],
+      "definition": "to seize; seize"
+    },
+    "cā": {
+      "id": "cā",
+      "lemma": "cā",
+      "search_forms": [
+        "cā"
+      ],
+      "pos": "conjunction; enclitic conjunction",
+      "gender": "",
+      "construction": [],
+      "definition": "and"
+    },
+    "cincixri": {
+      "id": "cincixri",
+      "lemma": "cincixri",
+      "search_forms": [
+        "cincixri"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of the father of Martiya"
+    },
+    "citā": {
+      "id": "citā",
+      "lemma": "citā",
+      "search_forms": [
+        "citā"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "so long; with yātā: until"
+    },
+    "ciθra": {
+      "id": "ciθra",
+      "lemma": "ciθra",
+      "search_forms": [
+        "ciθra"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "seed, lineage"
+    },
+    "ciθrantama": {
+      "id": "ciθrantama",
+      "lemma": "ciθrantama",
+      "search_forms": [
+        "ciθrantama"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Sagartian rebel"
+    },
+    "ciy": {
+      "id": "ciy",
+      "lemma": "ciy",
+      "search_forms": [
+        "ciy"
+      ],
+      "pos": "enclitic particle",
+      "gender": "",
+      "construction": [],
+      "definition": "makes indefinite the interr. pron.; emphasizes slightly the word to which it is joined"
+    },
+    "ciyakara": {
+      "id": "ciyakara",
+      "lemma": "ciyakara",
+      "search_forms": [
+        "ciyakara"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "how many, restricted in number"
+    },
+    "caišapai": {
+      "id": "caišapai",
+      "lemma": "caišapai",
+      "search_forms": [
+        "caišapai"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Teispes, common ancestor of Cyrus and Darius (read cišpi or caišpi)"
+    },
+    "jatar": {
+      "id": "jatar",
+      "lemma": "jatar",
+      "search_forms": [
+        "jatar"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "smiter, slayer"
+    },
+    "jad": {
+      "id": "jad",
+      "lemma": "jad",
+      "search_forms": [
+        "jad"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to pray"
+    },
+    "jan": {
+      "id": "jan",
+      "lemma": "jan",
+      "search_forms": [
+        "jan"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix ava",
+        "with prefix ava",
+        "with prefix patiy",
+        "with prefix frā"
+      ],
+      "definition": "to smite, slay; smite down, slay; smite down, destroy; wage (battle) against, fight; cut off"
+    },
+    "ji": {
+      "id": "ji",
+      "lemma": "ji",
+      "search_forms": [
+        "ji"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to live"
+    },
+    "jiyamna": {
+      "id": "jiyamna",
+      "lemma": "jiyamna",
+      "search_forms": [
+        "jiyamna"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "waning, growing old, as subs. completion, end"
+    },
+    "jīva": {
+      "id": "jīva",
+      "lemma": "jīva",
+      "search_forms": [
+        "jīva"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "living"
+    },
+    "taiy": {
+      "id": "taiy",
+      "lemma": "taiy",
+      "search_forms": [
+        "taiy"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "taumā": {
+      "id": "taumā",
+      "lemma": "taumā",
+      "search_forms": [
+        "taumā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "family"
+    },
+    "[tauman]": {
+      "id": "[tauman]",
+      "lemma": "[tauman]",
+      "search_forms": [
+        "tauman"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "power, might"
+    },
+    "taxmaspāda": {
+      "id": "taxmaspāda",
+      "lemma": "taxmaspāda",
+      "search_forms": [
+        "taxmaspāda"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of one of the commanders of Darius"
+    },
+    "taxš": {
+      "id": "taxš",
+      "lemma": "taxš",
+      "search_forms": [
+        "taxš"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix ham"
+      ],
+      "definition": "to be active; work together, cooperate, work"
+    },
+    "tacara": {
+      "id": "tacara",
+      "lemma": "tacara",
+      "search_forms": [
+        "tacara"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "palace"
+    },
+    "tar": {
+      "id": "tar",
+      "lemma": "tar",
+      "search_forms": [
+        "tar"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix fra",
+        "with prefix viy"
+      ],
+      "definition": "to cross over; depart from, abandon; put across, cross"
+    },
+    "taradraya": {
+      "id": "taradraya",
+      "lemma": "taradraya",
+      "search_forms": [
+        "taradraya"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "across the sea"
+    },
+    "tāravā": {
+      "id": "tāravā",
+      "lemma": "tāravā",
+      "search_forms": [
+        "tāravā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a Persisan town"
+    },
+    "tarsa": {
+      "id": "tarsa",
+      "lemma": "tarsa",
+      "search_forms": [
+        "tarsa"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to fear"
+    },
+    "tigra": {
+      "id": "tigra",
+      "lemma": "tigra",
+      "search_forms": [
+        "tigra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a fortress in Armenia"
+    },
+    "tigrā": {
+      "id": "tigrā",
+      "lemma": "tigrā",
+      "search_forms": [
+        "tigrā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "Tigris"
+    },
+    "tigraxauda": {
+      "id": "tigraxauda",
+      "lemma": "tigraxauda",
+      "search_forms": [
+        "tigraxauda"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "with pointed cap, epithet of Scythians"
+    },
+    "tuvam": {
+      "id": "tuvam",
+      "lemma": "tuvam",
+      "search_forms": [
+        "tuvam"
+      ],
+      "pos": "pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "thou"
+    },
+    "tya": {
+      "id": "tya",
+      "lemma": "tya",
+      "search_forms": [
+        "tya"
+      ],
+      "pos": "conjunction; demonstrative pronoun; demonstrative pronoun used as a relative",
+      "gender": "",
+      "construction": [],
+      "definition": "who, which; that; because"
+    },
+    "θāigarci": {
+      "id": "θāigarci",
+      "lemma": "θāigarci",
+      "search_forms": [
+        "θāigarci"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Persian month"
+    },
+    "θakata(ma)": {
+      "id": "θakata(ma)",
+      "lemma": "θakata(ma)",
+      "search_forms": [
+        "θakata(ma)",
+        "θakatama",
+        "θakata"
+      ],
+      "pos": "participle future passive/participle present active",
+      "gender": "",
+      "construction": [],
+      "definition": "coming to an end"
+    },
+    "θatagu": {
+      "id": "θatagu",
+      "lemma": "θatagu",
+      "search_forms": [
+        "θatagu"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "Sattagydia"
+    },
+    "θand": {
+      "id": "θand",
+      "lemma": "θand",
+      "search_forms": [
+        "θand"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to seem"
+    },
+    "θadaθa": {
+      "id": "θadaθa",
+      "lemma": "θadaθa",
+      "search_forms": [
+        "θadaθa"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "[uncertain word in Seal Inscr. b]"
+    },
+    "θard": {
+      "id": "θard",
+      "lemma": "θard",
+      "search_forms": [
+        "θard"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "year"
+    },
+    "θah": {
+      "id": "θah",
+      "lemma": "θah",
+      "search_forms": [
+        "θah"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to declare, speak, say"
+    },
+    "θā-": {
+      "id": "θā-",
+      "lemma": "θā-",
+      "search_forms": [
+        "θā-"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to declare, speak, say"
+    },
+    "θuxra": {
+      "id": "θuxra",
+      "lemma": "θuxra",
+      "search_forms": [
+        "θuxra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of the father of Otanes"
+    },
+    "θūravāhara": {
+      "id": "θūravāhara",
+      "lemma": "θūravāhara",
+      "search_forms": [
+        "θūravāhara"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "name of a Persian month"
+    },
+    "θuvām": {
+      "id": "θuvām",
+      "lemma": "θuvām",
+      "search_forms": [
+        "θuvām"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "θri": {
+      "id": "θri",
+      "lemma": "θri",
+      "search_forms": [
+        "θri"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix niy"
+      ],
+      "definition": "to lean; to restore"
+    },
+    "θritiya": {
+      "id": "θritiya",
+      "lemma": "θritiya",
+      "search_forms": [
+        "θritiya"
+      ],
+      "pos": "numeral",
+      "gender": "",
+      "construction": [],
+      "definition": "third"
+    },
+    "dā1": {
+      "id": "dā1",
+      "lemma": "dā1",
+      "search_forms": [
+        "dā1"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to give"
+    },
+    "dā2": {
+      "id": "dā2",
+      "lemma": "dā2",
+      "search_forms": [
+        "dā2"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to put, make, create"
+    },
+    "[dauš, duš?]": {
+      "id": "[dauš, duš?]",
+      "lemma": "[dauš, duš?]",
+      "search_forms": [
+        "dauš, duš?"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to take pleasure in, esteem"
+    },
+    "dauštar": {
+      "id": "dauštar",
+      "lemma": "dauštar",
+      "search_forms": [
+        "dauštar"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "friend"
+    },
+    "dāta": {
+      "id": "dāta",
+      "lemma": "dāta",
+      "search_forms": [
+        "dāta"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "law"
+    },
+    "dātuhya": {
+      "id": "dātuhya",
+      "lemma": "dātuhya",
+      "search_forms": [
+        "dātuhya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of the father of Megabyzus"
+    },
+    "dādarši": {
+      "id": "dādarši",
+      "lemma": "dādarši",
+      "search_forms": [
+        "dādarši"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of; a Persian satrap; an Armenian subject"
+    },
+    "dan": {
+      "id": "dan",
+      "lemma": "dan",
+      "search_forms": [
+        "dan"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to know; to flow"
+    },
+    "dar": {
+      "id": "dar",
+      "lemma": "dar",
+      "search_forms": [
+        "dar"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [
+        "with prefix ham"
+      ],
+      "definition": "to hold 2 hold a position halt; obtain"
+    },
+    "dārayantā": {
+      "id": "dārayantā",
+      "lemma": "dārayantā",
+      "search_forms": [
+        "dārayantā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "Pfeilbewahrer"
+    },
+    "dārayavau": {
+      "id": "dārayavau",
+      "lemma": "dārayavau",
+      "search_forms": [
+        "dārayavau"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Darius I.; Darius II."
+    },
+    "dargam": {
+      "id": "dargam",
+      "lemma": "dargam",
+      "search_forms": [
+        "dargam"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "long"
+    },
+    "darš": {
+      "id": "darš",
+      "lemma": "darš",
+      "search_forms": [
+        "darš"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to dare"
+    },
+    "daršam": {
+      "id": "daršam",
+      "lemma": "daršam",
+      "search_forms": [
+        "daršam"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "mightily, much"
+    },
+    "daršman": {
+      "id": "daršman",
+      "lemma": "daršman",
+      "search_forms": [
+        "daršman"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "boldness, tyranny, despotism"
+    },
+    "dasta": {
+      "id": "dasta",
+      "lemma": "dasta",
+      "search_forms": [
+        "dasta"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "hand"
+    },
+    "dahyu": {
+      "id": "dahyu",
+      "lemma": "dahyu",
+      "search_forms": [
+        "dahyu"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "province, district, land"
+    },
+    "di": {
+      "id": "di",
+      "lemma": "di",
+      "search_forms": [
+        "di"
+      ],
+      "pos": "demonstrative pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "it, them (most often encl.)"
+    },
+    "dī": {
+      "id": "dī",
+      "lemma": "dī",
+      "search_forms": [
+        "dī"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to see; to injure, deprive one (acc.) of something (acc.), take (acc.) from one (acc.)"
+    },
+    "didā": {
+      "id": "didā",
+      "lemma": "didā",
+      "search_forms": [
+        "didā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "stronghold"
+    },
+    "dipi": {
+      "id": "dipi",
+      "lemma": "dipi",
+      "search_forms": [
+        "dipi"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "inscription"
+    },
+    "dubāla": {
+      "id": "dubāla",
+      "lemma": "dubāla",
+      "search_forms": [
+        "dubāla"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a district in Babylonia"
+    },
+    "dūraiy": {
+      "id": "dūraiy",
+      "lemma": "dūraiy",
+      "search_forms": [
+        "dūraiy"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "far"
+    },
+    "duruj": {
+      "id": "duruj",
+      "lemma": "duruj",
+      "search_forms": [
+        "duruj"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to lie, deceive"
+    },
+    "duruva": {
+      "id": "duruva",
+      "lemma": "duruva",
+      "search_forms": [
+        "duruva"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "sound, secure"
+    },
+    "duvaištam": {
+      "id": "duvaištam",
+      "lemma": "duvaištam",
+      "search_forms": [
+        "duvaištam"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "very long"
+    },
+    "duvara": {
+      "id": "duvara",
+      "lemma": "duvara",
+      "search_forms": [
+        "duvara"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "door"
+    },
+    "duvarθi": {
+      "id": "duvarθi",
+      "lemma": "duvarθi",
+      "search_forms": [
+        "duvarθi"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "portico, colonnade"
+    },
+    "duvitāparanam": {
+      "id": "duvitāparanam",
+      "lemma": "duvitāparanam",
+      "search_forms": [
+        "duvitāparanam"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "long aforetime"
+    },
+    "duvitīya": {
+      "id": "duvitīya",
+      "lemma": "duvitīya",
+      "search_forms": [
+        "duvitīya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "second"
+    },
+    "dušiyāra": {
+      "id": "dušiyāra",
+      "lemma": "dušiyāra",
+      "search_forms": [
+        "dušiyāra"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "bad harvest, scarcity, famine"
+    },
+    "drauga": {
+      "id": "drauga",
+      "lemma": "drauga",
+      "search_forms": [
+        "drauga"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "the Lie"
+    },
+    "draujana": {
+      "id": "draujana",
+      "lemma": "draujana",
+      "search_forms": [
+        "draujana"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "deceiving, false, a follower of the Druj"
+    },
+    "draujīya": {
+      "id": "draujīya",
+      "lemma": "draujīya",
+      "search_forms": [
+        "draujīya"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "lie"
+    },
+    "drayah": {
+      "id": "drayah",
+      "lemma": "drayah",
+      "search_forms": [
+        "drayah"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "sea"
+    },
+    "naiba": {
+      "id": "naiba",
+      "lemma": "naiba",
+      "search_forms": [
+        "naiba"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "beautiful"
+    },
+    "naiy": {
+      "id": "naiy",
+      "lemma": "naiy",
+      "search_forms": [
+        "naiy"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "not"
+    },
+    "nadintabaira": {
+      "id": "nadintabaira",
+      "lemma": "nadintabaira",
+      "search_forms": [
+        "nadintabaira"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Nidintu-Bêl, name of a Babylonian rebel"
+    },
+    "napāt": {
+      "id": "napāt",
+      "lemma": "napāt",
+      "search_forms": [
+        "napāt"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "grandson"
+    },
+    "nabukudracara": {
+      "id": "nabukudracara",
+      "lemma": "nabukudracara",
+      "search_forms": [
+        "nabukudracara"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Nebuchadrezar, the assumed name of the rebels Nidintu-Bêl and Arkha"
+    },
+    "nabunaita": {
+      "id": "nabunaita",
+      "lemma": "nabunaita",
+      "search_forms": [
+        "nabunaita"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Nabonidus, name of the last king of the new Babylonian empire"
+    },
+    "nāman": {
+      "id": "nāman",
+      "lemma": "nāman",
+      "search_forms": [
+        "nāman"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "name"
+    },
+    "naama": {
+      "id": "naama",
+      "lemma": "naama",
+      "search_forms": [
+        "naama"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "by name, written naamaa with fem. noun"
+    },
+    "navama": {
+      "id": "navama",
+      "lemma": "navama",
+      "search_forms": [
+        "navama"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "ninth"
+    },
+    "nāviyā": {
+      "id": "nāviyā",
+      "lemma": "nāviyā",
+      "search_forms": [
+        "nāviyā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "a collection of ships, fleet"
+    },
+    "nas": {
+      "id": "nas",
+      "lemma": "nas",
+      "search_forms": [
+        "nas"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "nāh": {
+      "id": "nāh",
+      "lemma": "nāh",
+      "search_forms": [
+        "nāh"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "nose"
+    },
+    "niy": {
+      "id": "niy",
+      "lemma": "niy",
+      "search_forms": [
+        "niy"
+      ],
+      "pos": "verbal prefix",
+      "gender": "",
+      "construction": [],
+      "definition": "down"
+    },
+    "nī": {
+      "id": "nī",
+      "lemma": "nī",
+      "search_forms": [
+        "nī"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [
+        "with prefix fra"
+      ],
+      "definition": "to lead; lead forth, bring forward"
+    },
+    "nij": {
+      "id": "nij",
+      "lemma": "nij",
+      "search_forms": [
+        "nij"
+      ],
+      "pos": "verbal prefix",
+      "gender": "",
+      "construction": [],
+      "definition": "away"
+    },
+    "nipadiy": {
+      "id": "nipadiy",
+      "lemma": "nipadiy",
+      "search_forms": [
+        "nipadiy"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "in pursuit of, close after"
+    },
+    "niyašādayam": {
+      "id": "niyašādayam",
+      "lemma": "niyašādayam",
+      "search_forms": [
+        "niyašādayam"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "nisāya": {
+      "id": "nisāya",
+      "lemma": "nisāya",
+      "search_forms": [
+        "nisāya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Median district"
+    },
+    "nūram": {
+      "id": "nūram",
+      "lemma": "nūram",
+      "search_forms": [
+        "nūram"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "now"
+    },
+    "nyāka": {
+      "id": "nyāka",
+      "lemma": "nyāka",
+      "search_forms": [
+        "nyāka"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "grandfather"
+    },
+    "pā": {
+      "id": "pā",
+      "lemma": "pā",
+      "search_forms": [
+        "pā"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [
+        "with prefix patiy"
+      ],
+      "definition": "to protect, sustain; guard onself (mid.) against (abl. with hacā)"
+    },
+    "paišiyāuvādā": {
+      "id": "paišiyāuvādā",
+      "lemma": "paišiyāuvādā",
+      "search_forms": [
+        "paišiyāuvādā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a district"
+    },
+    "pat": {
+      "id": "pat",
+      "lemma": "pat",
+      "search_forms": [
+        "pat"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [
+        "with prefix ud"
+      ],
+      "definition": "to fly, fall; rise up, rebel"
+    },
+    "patiy": {
+      "id": "patiy",
+      "lemma": "patiy",
+      "search_forms": [
+        "patiy"
+      ],
+      "pos": "adverb; postposition; preposition",
+      "gender": "",
+      "construction": [],
+      "definition": "with acc. during throughout, at; with instr. at; with loc. in, at; on the other hand, moreover, again, once more"
+    },
+    "patikara": {
+      "id": "patikara",
+      "lemma": "patikara",
+      "search_forms": [
+        "patikara"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "picture, likeness"
+    },
+    "patigrabanā": {
+      "id": "patigrabanā",
+      "lemma": "patigrabanā",
+      "search_forms": [
+        "patigrabanā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a Parthian town"
+    },
+    "patipada": {
+      "id": "patipada",
+      "lemma": "patipada",
+      "search_forms": [
+        "patipada"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "in its own place"
+    },
+    "patiš": {
+      "id": "patiš",
+      "lemma": "patiš",
+      "search_forms": [
+        "patiš"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with acc"
+      ],
+      "definition": "against, towards"
+    },
+    "pātišuvari": {
+      "id": "pātišuvari",
+      "lemma": "pātišuvari",
+      "search_forms": [
+        "pātišuvari"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "a Patischorian"
+    },
+    "paθi": {
+      "id": "paθi",
+      "lemma": "paθi",
+      "search_forms": [
+        "paθi"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "way, path"
+    },
+    "para": {
+      "id": "para",
+      "lemma": "para",
+      "search_forms": [
+        "para"
+      ],
+      "pos": "adjective; postposition; preposition",
+      "gender": "",
+      "construction": [
+        "with acc"
+      ],
+      "definition": "there before; after"
+    },
+    "paranam": {
+      "id": "paranam",
+      "lemma": "paranam",
+      "search_forms": [
+        "paranam"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "formerly"
+    },
+    "pariy": {
+      "id": "pariy",
+      "lemma": "pariy",
+      "search_forms": [
+        "pariy"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with acc"
+      ],
+      "definition": "about, concerning"
+    },
+    "paru": {
+      "id": "paru",
+      "lemma": "paru",
+      "search_forms": [
+        "paru"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "many"
+    },
+    "paruva": {
+      "id": "paruva",
+      "lemma": "paruva",
+      "search_forms": [
+        "paruva"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "former; eastern"
+    },
+    "paruvam": {
+      "id": "paruvam",
+      "lemma": "paruvam",
+      "search_forms": [
+        "paruvam"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "formerly"
+    },
+    "paruviyata": {
+      "id": "paruviyata",
+      "lemma": "paruviyata",
+      "search_forms": [
+        "paruviyata"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "hacā paruviyata: from long ago"
+    },
+    "paruzana": {
+      "id": "paruzana",
+      "lemma": "paruzana",
+      "search_forms": [
+        "paruzana"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "containing many kinds of people"
+    },
+    "parθava": {
+      "id": "parθava",
+      "lemma": "parθava",
+      "search_forms": [
+        "parθava"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Parthia, Parthian"
+    },
+    "parsa": {
+      "id": "parsa",
+      "lemma": "parsa",
+      "search_forms": [
+        "parsa"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [
+        "with prefix patiy"
+      ],
+      "definition": "to ask, examine into, punish; examine, read"
+    },
+    "pārsa": {
+      "id": "pārsa",
+      "lemma": "pārsa",
+      "search_forms": [
+        "pārsa"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "adj. Persian; As subs. m. Persia"
+    },
+    "pasā": {
+      "id": "pasā",
+      "lemma": "pasā",
+      "search_forms": [
+        "pasā"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with gen"
+      ],
+      "definition": "after"
+    },
+    "pasāvā": {
+      "id": "pasāvā",
+      "lemma": "pasāvā",
+      "search_forms": [
+        "pasāvā"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "thereafter, afterwards"
+    },
+    "pitar": {
+      "id": "pitar",
+      "lemma": "pitar",
+      "search_forms": [
+        "pitar"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "father"
+    },
+    "pirāva": {
+      "id": "pirāva",
+      "lemma": "pirāva",
+      "search_forms": [
+        "pirāva"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "the river Nile"
+    },
+    "pisā": {
+      "id": "pisā",
+      "lemma": "pisā",
+      "search_forms": [
+        "pisā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "raft"
+    },
+    "piš": {
+      "id": "piš",
+      "lemma": "piš",
+      "search_forms": [
+        "piš"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix niy"
+      ],
+      "definition": "cut, trim; cut (an inscription)"
+    },
+    "puntiya": {
+      "id": "puntiya",
+      "lemma": "puntiya",
+      "search_forms": [
+        "puntiya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "name of a people"
+    },
+    "puθra": {
+      "id": "puθra",
+      "lemma": "puθra",
+      "search_forms": [
+        "puθra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "son"
+    },
+    "fra": {
+      "id": "fra",
+      "lemma": "fra",
+      "search_forms": [
+        "fra"
+      ],
+      "pos": "verbal prefix",
+      "gender": "",
+      "construction": [],
+      "definition": "forth"
+    },
+    "fratama": {
+      "id": "fratama",
+      "lemma": "fratama",
+      "search_forms": [
+        "fratama"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "first, foremost"
+    },
+    "frāda": {
+      "id": "frāda",
+      "lemma": "frāda",
+      "search_forms": [
+        "frāda"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Margian rebel"
+    },
+    "framatār": {
+      "id": "framatār",
+      "lemma": "framatār",
+      "search_forms": [
+        "framatār"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "master, lord"
+    },
+    "framānā": {
+      "id": "framānā",
+      "lemma": "framānā",
+      "search_forms": [
+        "framānā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "command, precept"
+    },
+    "fravarti": {
+      "id": "fravarti",
+      "lemma": "fravarti",
+      "search_forms": [
+        "fravarti"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Phraortes, a Median rebel"
+    },
+    "fraharavam": {
+      "id": "fraharavam",
+      "lemma": "fraharavam",
+      "search_forms": [
+        "fraharavam"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "altogether, in all"
+    },
+    "bāxtrī": {
+      "id": "bāxtrī",
+      "lemma": "bāxtrī",
+      "search_forms": [
+        "bāxtrī"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "Bactria"
+    },
+    "baga": {
+      "id": "baga",
+      "lemma": "baga",
+      "search_forms": [
+        "baga"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "god"
+    },
+    "bagābigna": {
+      "id": "bagābigna",
+      "lemma": "bagābigna",
+      "search_forms": [
+        "bagābigna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of the father of Vidarna"
+    },
+    "bagabuxša": {
+      "id": "bagabuxša",
+      "lemma": "bagabuxša",
+      "search_forms": [
+        "bagabuxša"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "Megabyzos, one of the allies of Darius in the defeat of false Smerdis"
+    },
+    "bāgayādi": {
+      "id": "bāgayādi",
+      "lemma": "bāgayādi",
+      "search_forms": [
+        "bāgayādi"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a month, Sept.-Oct."
+    },
+    "bāji": {
+      "id": "bāji",
+      "lemma": "bāji",
+      "search_forms": [
+        "bāji"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "tribute"
+    },
+    "band": {
+      "id": "band",
+      "lemma": "band",
+      "search_forms": [
+        "band"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to bind"
+    },
+    "bandaka": {
+      "id": "bandaka",
+      "lemma": "bandaka",
+      "search_forms": [
+        "bandaka"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "subject; as subs. servant, subject"
+    },
+    "bābiru": {
+      "id": "bābiru",
+      "lemma": "bābiru",
+      "search_forms": [
+        "bābiru"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Babylon, Babylonia"
+    },
+    "bābiruviya": {
+      "id": "bābiruviya",
+      "lemma": "bābiruviya",
+      "search_forms": [
+        "bābiruviya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "Babylonian"
+    },
+    "bar": {
+      "id": "bar",
+      "lemma": "bar",
+      "search_forms": [
+        "bar"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [
+        "with prefix patiy",
+        "with prefix parā",
+        "with prefix pariy",
+        "with prefix frā"
+      ],
+      "definition": "to bear, sustain, esteem; bring back, restore; bear away, take away; protect, preserve; proffer, grant"
+    },
+    "bardiya": {
+      "id": "bardiya",
+      "lemma": "bardiya",
+      "search_forms": [
+        "bardiya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Smerdis, brother of Cambyses"
+    },
+    "bū": {
+      "id": "bū",
+      "lemma": "bū",
+      "search_forms": [
+        "bū"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to be"
+    },
+    "būmī": {
+      "id": "būmī",
+      "lemma": "būmī",
+      "search_forms": [
+        "būmī"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "earth"
+    },
+    "brātar": {
+      "id": "brātar",
+      "lemma": "brātar",
+      "search_forms": [
+        "brātar"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "brother"
+    },
+    "mā": {
+      "id": "mā",
+      "lemma": "mā",
+      "search_forms": [
+        "mā"
+      ],
+      "pos": "prohibitive particle",
+      "gender": "",
+      "construction": [
+        "with prefix ā"
+      ],
+      "definition": "not; to measure; extend (i.e. be of ancient lineage)"
+    },
+    "ma": {
+      "id": "ma",
+      "lemma": "ma",
+      "search_forms": [
+        "ma"
+      ],
+      "pos": "pronominal stem; pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "maka": {
+      "id": "maka",
+      "lemma": "maka",
+      "search_forms": [
+        "maka"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "name of a people"
+    },
+    "magu": {
+      "id": "magu",
+      "lemma": "magu",
+      "search_forms": [
+        "magu"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "name of a Median tribe celebrated in priestcraft, Magian"
+    },
+    "maciya": {
+      "id": "maciya",
+      "lemma": "maciya",
+      "search_forms": [
+        "maciya"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "name of a people"
+    },
+    "mātya": {
+      "id": "mātya",
+      "lemma": "mātya",
+      "search_forms": [
+        "mātya"
+      ],
+      "pos": "conjunction; conjunction with subjunctive",
+      "gender": "",
+      "construction": [],
+      "definition": "that not, lest, not"
+    },
+    "maθišta": {
+      "id": "maθišta",
+      "lemma": "maθišta",
+      "search_forms": [
+        "maθišta"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "the greatest; as subs. chief, lieader"
+    },
+    "māda": {
+      "id": "māda",
+      "lemma": "māda",
+      "search_forms": [
+        "māda"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "Median; as subs. Media"
+    },
+    "man": {
+      "id": "man",
+      "lemma": "man",
+      "search_forms": [
+        "man"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to think; to remain"
+    },
+    "māniya": {
+      "id": "māniya",
+      "lemma": "māniya",
+      "search_forms": [
+        "māniya"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "estate(?)"
+    },
+    "mar": {
+      "id": "mar",
+      "lemma": "mar",
+      "search_forms": [
+        "mar"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to die"
+    },
+    "mārgava": {
+      "id": "mārgava",
+      "lemma": "mārgava",
+      "search_forms": [
+        "mārgava"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "Margian"
+    },
+    "margu": {
+      "id": "margu",
+      "lemma": "margu",
+      "search_forms": [
+        "margu"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Margiana"
+    },
+    "martiya": {
+      "id": "martiya",
+      "lemma": "martiya",
+      "search_forms": [
+        "martiya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "man; name of Susian rebel"
+    },
+    "marduniya": {
+      "id": "marduniya",
+      "lemma": "marduniya",
+      "search_forms": [
+        "marduniya"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Mardonius, father of Gobryas"
+    },
+    "mardāh": {
+      "id": "mardāh",
+      "lemma": "mardāh",
+      "search_forms": [
+        "mardāh"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "maškā": {
+      "id": "maškā",
+      "lemma": "maškā",
+      "search_forms": [
+        "maškā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "skin, float of skins"
+    },
+    "māh": {
+      "id": "māh",
+      "lemma": "māh",
+      "search_forms": [
+        "māh"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "month, with gen. of the name"
+    },
+    "miθra": {
+      "id": "miθra",
+      "lemma": "miθra",
+      "search_forms": [
+        "miθra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "the god Mithra"
+    },
+    "muθ": {
+      "id": "muθ",
+      "lemma": "muθ",
+      "search_forms": [
+        "muθ"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to flee"
+    },
+    "mudrāya": {
+      "id": "mudrāya",
+      "lemma": "mudrāya",
+      "search_forms": [
+        "mudrāya"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "Egyptian, Egypt"
+    },
+    "yautiyā": {
+      "id": "yautiyā",
+      "lemma": "yautiyā",
+      "search_forms": [
+        "yautiyā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a Persian district"
+    },
+    "yauna": {
+      "id": "yauna",
+      "lemma": "yauna",
+      "search_forms": [
+        "yauna"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "Ionian, land of the Ionians"
+    },
+    "yātā": {
+      "id": "yātā",
+      "lemma": "yātā",
+      "search_forms": [
+        "yātā"
+      ],
+      "pos": "conjunction",
+      "gender": "",
+      "construction": [],
+      "definition": "while when; until"
+    },
+    "yaθā": {
+      "id": "yaθā",
+      "lemma": "yaθā",
+      "search_forms": [
+        "yaθā"
+      ],
+      "pos": "conjunction",
+      "gender": "",
+      "construction": [],
+      "definition": "as; when; because; in order that, that"
+    },
+    "yad": {
+      "id": "yad",
+      "lemma": "yad",
+      "search_forms": [
+        "yad"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to worship"
+    },
+    "yadāyā": {
+      "id": "yadāyā",
+      "lemma": "yadāyā",
+      "search_forms": [
+        "yadāyā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "with hacā : from my allegiance"
+    },
+    "yadiy": {
+      "id": "yadiy",
+      "lemma": "yadiy",
+      "search_forms": [
+        "yadiy"
+      ],
+      "pos": "conjunction",
+      "gender": "",
+      "construction": [],
+      "definition": "if; when"
+    },
+    "yāna": {
+      "id": "yāna",
+      "lemma": "yāna",
+      "search_forms": [
+        "yāna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "favor"
+    },
+    "yanaiy": {
+      "id": "yanaiy",
+      "lemma": "yanaiy",
+      "search_forms": [
+        "yanaiy"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "whereon"
+    },
+    "yam": {
+      "id": "yam",
+      "lemma": "yam",
+      "search_forms": [
+        "yam"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [
+        "with prefix ā"
+      ],
+      "definition": "to reach, attain; appropriate, take to oneself, seize as one’s possession"
+    },
+    "yāvā": {
+      "id": "yāvā",
+      "lemma": "yāvā",
+      "search_forms": [
+        "yāvā"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "as long as"
+    },
+    "yuviyā": {
+      "id": "yuviyā",
+      "lemma": "yuviyā",
+      "search_forms": [
+        "yuviyā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "canal"
+    },
+    "raucah": {
+      "id": "raucah",
+      "lemma": "raucah",
+      "search_forms": [
+        "raucah"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "day"
+    },
+    "rautah": {
+      "id": "rautah",
+      "lemma": "rautah",
+      "search_forms": [
+        "rautah"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "river"
+    },
+    "raxā": {
+      "id": "raxā",
+      "lemma": "raxā",
+      "search_forms": [
+        "raxā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a Persian town"
+    },
+    "ragā": {
+      "id": "ragā",
+      "lemma": "ragā",
+      "search_forms": [
+        "ragā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a Median district"
+    },
+    "rad": {
+      "id": "rad",
+      "lemma": "rad",
+      "search_forms": [
+        "rad"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [
+        "with prefix ava"
+      ],
+      "definition": "to leave; leave, abandon"
+    },
+    "rāð": {
+      "id": "rāð",
+      "lemma": "rāð",
+      "search_forms": [
+        "rāð"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": ""
+    },
+    "rasa-": {
+      "id": "rasa-",
+      "lemma": "rasa-",
+      "search_forms": [
+        "rasa-"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "rāsta": {
+      "id": "rāsta",
+      "lemma": "rāsta",
+      "search_forms": [
+        "rāsta"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "true"
+    },
+    "vā": {
+      "id": "vā",
+      "lemma": "vā",
+      "search_forms": [
+        "vā"
+      ],
+      "pos": "conjunction; enclitic conjunction",
+      "gender": "",
+      "construction": [],
+      "definition": "or"
+    },
+    "vaina": {
+      "id": "vaina",
+      "lemma": "vaina",
+      "search_forms": [
+        "vaina"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to see, Mid. to seem"
+    },
+    "vaumisa": {
+      "id": "vaumisa",
+      "lemma": "vaumisa",
+      "search_forms": [
+        "vaumisa"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Persian leader"
+    },
+    "vayam": {
+      "id": "vayam",
+      "lemma": "vayam",
+      "search_forms": [
+        "vayam"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "vāyaspāra": {
+      "id": "vāyaspāra",
+      "lemma": "vāyaspāra",
+      "search_forms": [
+        "vāyaspāra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of the father of Intaphernes"
+    },
+    "var": {
+      "id": "var",
+      "lemma": "var",
+      "search_forms": [
+        "var"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to choose; Mid. to convince"
+    },
+    "varkāna": {
+      "id": "varkāna",
+      "lemma": "varkāna",
+      "search_forms": [
+        "varkāna"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "Hyrcania"
+    },
+    "vart": {
+      "id": "vart",
+      "lemma": "vart",
+      "search_forms": [
+        "vart"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix upa"
+      ],
+      "definition": "to turn; I appeal"
+    },
+    "vardana": {
+      "id": "vardana",
+      "lemma": "vardana",
+      "search_forms": [
+        "vardana"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "town"
+    },
+    "vasiy": {
+      "id": "vasiy",
+      "lemma": "vasiy",
+      "search_forms": [
+        "vasiy"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "much, to a great extent, in large numbers, utterly"
+    },
+    "vašna": {
+      "id": "vašna",
+      "lemma": "vašna",
+      "search_forms": [
+        "vašna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "will, favor"
+    },
+    "vazarka": {
+      "id": "vazarka",
+      "lemma": "vazarka",
+      "search_forms": [
+        "vazarka"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "great, mighty"
+    },
+    "vahauka": {
+      "id": "vahauka",
+      "lemma": "vahauka",
+      "search_forms": [
+        "vahauka"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of the father of Ardumanish"
+    },
+    "vahyazdāta": {
+      "id": "vahyazdāta",
+      "lemma": "vahyazdāta",
+      "search_forms": [
+        "vahyazdāta"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Persian rebel"
+    },
+    "viy": {
+      "id": "viy",
+      "lemma": "viy",
+      "search_forms": [
+        "viy"
+      ],
+      "pos": "verbal prefix",
+      "gender": "",
+      "construction": [],
+      "definition": "apart, away"
+    },
+    "viθ": {
+      "id": "viθ",
+      "lemma": "viθ",
+      "search_forms": [
+        "viθ"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "royal court, royal race; royal palace"
+    },
+    "viiθaibaiša": {
+      "id": "viiθaibaiša",
+      "lemma": "viiθaibaiša",
+      "search_forms": [
+        "viiθaibaiša"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "all; with the gods of the royal house"
+    },
+    "viθabaišacā": {
+      "id": "viθabaišacā",
+      "lemma": "viθabaišacā",
+      "search_forms": [
+        "viθabaišacā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "and all things; and the royal residences; relating to the royal residences"
+    },
+    "vindafarnah": {
+      "id": "vindafarnah",
+      "lemma": "vindafarnah",
+      "search_forms": [
+        "vindafarnah"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Intaphernes, name of ally of Darius against the false Smerdis"
+    },
+    "vidarna": {
+      "id": "vidarna",
+      "lemma": "vidarna",
+      "search_forms": [
+        "vidarna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Hydarnes, name of ally of Darius against the false Smerdis"
+    },
+    "viyaxna": {
+      "id": "viyaxna",
+      "lemma": "viyaxna",
+      "search_forms": [
+        "viyaxna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Persian month, Feb.-March"
+    },
+    "viyanā[sa]ya": {
+      "id": "viyanā[sa]ya",
+      "lemma": "viyanā[sa]ya",
+      "search_forms": [
+        "viyanāsaya",
+        "viyanāya"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "(whoever) injured (my house)"
+    },
+    "vivāna": {
+      "id": "vivāna",
+      "lemma": "vivāna",
+      "search_forms": [
+        "vivāna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Persian"
+    },
+    "visa": {
+      "id": "visa",
+      "lemma": "visa",
+      "search_forms": [
+        "visa"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "all"
+    },
+    "visadahyu": {
+      "id": "visadahyu",
+      "lemma": "visadahyu",
+      "search_forms": [
+        "visadahyu"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "containing all lands"
+    },
+    "vispazana": {
+      "id": "vispazana",
+      "lemma": "vispazana",
+      "search_forms": [
+        "vispazana"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "containing all kinds of people"
+    },
+    "vištāspa": {
+      "id": "vištāspa",
+      "lemma": "vištāspa",
+      "search_forms": [
+        "vištāspa"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Hystaspes, father of Darius"
+    },
+    "višpauzāti": {
+      "id": "višpauzāti",
+      "lemma": "višpauzāti",
+      "search_forms": [
+        "višpauzāti"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a Parthian town"
+    },
+    "saka": {
+      "id": "saka",
+      "lemma": "saka",
+      "search_forms": [
+        "saka"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "Scythian, Scythia"
+    },
+    "sakā": {
+      "id": "sakā",
+      "lemma": "sakā",
+      "search_forms": [
+        "sakā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "Scythia"
+    },
+    "san": {
+      "id": "san",
+      "lemma": "san",
+      "search_forms": [
+        "san"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to destroy (with suffix viy)"
+    },
+    "sar": {
+      "id": "sar",
+      "lemma": "sar",
+      "search_forms": [
+        "sar"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "asariyatā": {
+      "id": "asariyatā",
+      "lemma": "asariyatā",
+      "search_forms": [
+        "asariyatā"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": ""
+    },
+    "sikayauvatī": {
+      "id": "sikayauvatī",
+      "lemma": "sikayauvatī",
+      "search_forms": [
+        "sikayauvatī"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "name of a fortress in Media"
+    },
+    "suguda": {
+      "id": "suguda",
+      "lemma": "suguda",
+      "search_forms": [
+        "suguda"
+      ],
+      "pos": "adjective; adjective as substantive",
+      "gender": "",
+      "construction": [],
+      "definition": "Sogdiana"
+    },
+    "skunxa": {
+      "id": "skunxa",
+      "lemma": "skunxa",
+      "search_forms": [
+        "skunxa"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Scythian rebel"
+    },
+    "skudra": {
+      "id": "skudra",
+      "lemma": "skudra",
+      "search_forms": [
+        "skudra"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a district"
+    },
+    "stā": {
+      "id": "stā",
+      "lemma": "stā",
+      "search_forms": [
+        "stā"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [
+        "with prefix ava",
+        "with prefix niy"
+      ],
+      "definition": "to stand, halt; place, restore; enjoin, command"
+    },
+    "stāna": {
+      "id": "stāna",
+      "lemma": "stāna",
+      "search_forms": [
+        "stāna"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "place"
+    },
+    "star": {
+      "id": "star",
+      "lemma": "star",
+      "search_forms": [
+        "star"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to sin"
+    },
+    "sparda": {
+      "id": "sparda",
+      "lemma": "sparda",
+      "search_forms": [
+        "sparda"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a region, according to Lassen, Sardis"
+    },
+    "ša": {
+      "id": "ša",
+      "lemma": "ša",
+      "search_forms": [
+        "ša"
+      ],
+      "pos": "enclitic pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "therefrom"
+    },
+    "šaiy": {
+      "id": "šaiy",
+      "lemma": "šaiy",
+      "search_forms": [
+        "šaiy"
+      ],
+      "pos": "enclitic pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "to him, his"
+    },
+    "šakauri[m]": {
+      "id": "šakauri[m]",
+      "lemma": "šakauri[m]",
+      "search_forms": [
+        "šakauri",
+        "šakaurim"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "servant, serf, retinue; slanderer"
+    },
+    "šām": {
+      "id": "šām",
+      "lemma": "šām",
+      "search_forms": [
+        "šām"
+      ],
+      "pos": "enclitic pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "to them, of them"
+    },
+    "šim": {
+      "id": "šim",
+      "lemma": "šim",
+      "search_forms": [
+        "šim"
+      ],
+      "pos": "enclitic pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "him, it, its"
+    },
+    "šiyāti": {
+      "id": "šiyāti",
+      "lemma": "šiyāti",
+      "search_forms": [
+        "šiyāti"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "well being"
+    },
+    "šiyu": {
+      "id": "šiyu",
+      "lemma": "šiyu",
+      "search_forms": [
+        "šiyu"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to set forth, go"
+    },
+    "šiš": {
+      "id": "šiš",
+      "lemma": "šiš",
+      "search_forms": [
+        "šiš"
+      ],
+      "pos": "enclitic pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "them"
+    },
+    "zāzāna": {
+      "id": "zāzāna",
+      "lemma": "zāzāna",
+      "search_forms": [
+        "zāzāna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of a Babylonian town"
+    },
+    "zūrakara": {
+      "id": "zūrakara",
+      "lemma": "zūrakara",
+      "search_forms": [
+        "zūrakara"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "doing wrong"
+    },
+    "zūrah": {
+      "id": "zūrah",
+      "lemma": "zūrah",
+      "search_forms": [
+        "zūrah"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "wrong, deceit"
+    },
+    "zranka": {
+      "id": "zranka",
+      "lemma": "zranka",
+      "search_forms": [
+        "zranka"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "m."
+    },
+    "hainā": {
+      "id": "hainā",
+      "lemma": "hainā",
+      "search_forms": [
+        "hainā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "army, hostile host, array of evil"
+    },
+    "hauv": {
+      "id": "hauv",
+      "lemma": "hauv",
+      "search_forms": [
+        "hauv"
+      ],
+      "pos": "demonstrative pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "that; that one, he it"
+    },
+    "haumavarka": {
+      "id": "haumavarka",
+      "lemma": "haumavarka",
+      "search_forms": [
+        "haumavarka"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "designating a part of the Scythians in Dar. NRa. 3"
+    },
+    "haxāmaniš": {
+      "id": "haxāmaniš",
+      "lemma": "haxāmaniš",
+      "search_forms": [
+        "haxāmaniš"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Achaemenes"
+    },
+    "haxāmanišiya": {
+      "id": "haxāmanišiya",
+      "lemma": "haxāmanišiya",
+      "search_forms": [
+        "haxāmanišiya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "of the race of Achaemenes, Achaemenidan"
+    },
+    "hagmatāna": {
+      "id": "hagmatāna",
+      "lemma": "hagmatāna",
+      "search_forms": [
+        "hagmatāna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Ecbatana"
+    },
+    "hacā": {
+      "id": "hacā",
+      "lemma": "hacā",
+      "search_forms": [
+        "hacā"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with abl"
+      ],
+      "definition": "from"
+    },
+    "hanj": {
+      "id": "hanj",
+      "lemma": "hanj",
+      "search_forms": [
+        "hanj"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to hale to prison or inflict some form of penalty; with prefix fra"
+    },
+    "had": {
+      "id": "had",
+      "lemma": "had",
+      "search_forms": [
+        "had"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [
+        "with prefix niy"
+      ],
+      "definition": "to sit; place down, establish"
+    },
+    "hadā": {
+      "id": "hadā",
+      "lemma": "hadā",
+      "search_forms": [
+        "hadā"
+      ],
+      "pos": "preposition",
+      "gender": "",
+      "construction": [
+        "with inst"
+      ],
+      "definition": "with"
+    },
+    "hadiš": {
+      "id": "hadiš",
+      "lemma": "hadiš",
+      "search_forms": [
+        "hadiš"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "dwelling place"
+    },
+    "handugā": {
+      "id": "handugā",
+      "lemma": "handugā",
+      "search_forms": [
+        "handugā"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "proclamation, record"
+    },
+    "hapariya-": {
+      "id": "hapariya-",
+      "lemma": "hapariya-",
+      "search_forms": [
+        "hapariya-"
+      ],
+      "pos": "",
+      "gender": "",
+      "construction": [],
+      "definition": "to reverence, respect"
+    },
+    "ham": {
+      "id": "ham",
+      "lemma": "ham",
+      "search_forms": [
+        "ham"
+      ],
+      "pos": "verbal prefix",
+      "gender": "",
+      "construction": [],
+      "definition": "together"
+    },
+    "hama": {
+      "id": "hama",
+      "lemma": "hama",
+      "search_forms": [
+        "hama"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "same, one and the same"
+    },
+    "hamātar": {
+      "id": "hamātar",
+      "lemma": "hamātar",
+      "search_forms": [
+        "hamātar"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "having a common mother"
+    },
+    "hamapitar": {
+      "id": "hamapitar",
+      "lemma": "hamapitar",
+      "search_forms": [
+        "hamapitar"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "having a common father"
+    },
+    "hamara": {
+      "id": "hamara",
+      "lemma": "hamara",
+      "search_forms": [
+        "hamara"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "foe, enemy"
+    },
+    "hamarana": {
+      "id": "hamarana",
+      "lemma": "hamarana",
+      "search_forms": [
+        "hamarana"
+      ],
+      "pos": "noun",
+      "gender": "neuter",
+      "construction": [],
+      "definition": "battle, conflict"
+    },
+    "hamiθriya": {
+      "id": "hamiθriya",
+      "lemma": "hamiθriya",
+      "search_forms": [
+        "hamiθriya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "rebellious"
+    },
+    "har": {
+      "id": "har",
+      "lemma": "har",
+      "search_forms": [
+        "har"
+      ],
+      "pos": "verb",
+      "gender": "",
+      "construction": [],
+      "definition": "to flee"
+    },
+    "haraiva": {
+      "id": "haraiva",
+      "lemma": "haraiva",
+      "search_forms": [
+        "haraiva"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "Aria"
+    },
+    "harauvatī": {
+      "id": "harauvatī",
+      "lemma": "harauvatī",
+      "search_forms": [
+        "harauvatī"
+      ],
+      "pos": "noun",
+      "gender": "feminine",
+      "construction": [],
+      "definition": "Arachosia"
+    },
+    "haruva": {
+      "id": "haruva",
+      "lemma": "haruva",
+      "search_forms": [
+        "haruva"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "whole"
+    },
+    "harabāna": {
+      "id": "harabāna",
+      "lemma": "harabāna",
+      "search_forms": [
+        "harabāna"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "tongue"
+    },
+    "haldita": {
+      "id": "haldita",
+      "lemma": "haldita",
+      "search_forms": [
+        "haldita"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "name of the father of Arkha"
+    },
+    "hašiya": {
+      "id": "hašiya",
+      "lemma": "hašiya",
+      "search_forms": [
+        "hašiya"
+      ],
+      "pos": "adjective",
+      "gender": "",
+      "construction": [],
+      "definition": "true"
+    },
+    "hindu": {
+      "id": "hindu",
+      "lemma": "hindu",
+      "search_forms": [
+        "hindu"
+      ],
+      "pos": "noun",
+      "gender": "masculine",
+      "construction": [],
+      "definition": "India"
+    },
+    "hya": {
+      "id": "hya",
+      "lemma": "hya",
+      "search_forms": [
+        "hya"
+      ],
+      "pos": "pronoun",
+      "gender": "",
+      "construction": [],
+      "definition": "who"
+    },
+    "hyāparam": {
+      "id": "hyāparam",
+      "lemma": "hyāparam",
+      "search_forms": [
+        "hyāparam"
+      ],
+      "pos": "adverb",
+      "gender": "",
+      "construction": [],
+      "definition": "thereafter, thereupon"
+    }
+  },
+  "index": {
+    "ā": [
+      "ā",
+      "ā",
+      "u[yam]ā"
+    ],
+    "to": [
+      "ā",
+      "anušiya",
+      "apiy",
+      "ar",
+      "ar",
+      "avahya",
+      "ah",
+      "i",
+      "iš",
+      "upā",
+      "upā",
+      "kā",
+      "kan",
+      "kan",
+      "kar",
+      "xši",
+      "xšnā",
+      "gam",
+      "gud",
+      "gub",
+      "grab",
+      "ciy",
+      "jad",
+      "jan",
+      "ji",
+      "taxš",
+      "tar",
+      "tarsa",
+      "θakata(ma)",
+      "θand",
+      "θah",
+      "θā-",
+      "θri",
+      "θri",
+      "dā1",
+      "dā2",
+      "[dauš, duš?]",
+      "dan",
+      "dan",
+      "dar",
+      "darš",
+      "dī",
+      "dī",
+      "duruj",
+      "nī",
+      "pā",
+      "pat",
+      "parsa",
+      "band",
+      "bar",
+      "bū",
+      "mā",
+      "man",
+      "man",
+      "mar",
+      "muθ",
+      "yad",
+      "yam",
+      "yam",
+      "rad",
+      "vaina",
+      "vaina",
+      "var",
+      "var",
+      "vart",
+      "vasiy",
+      "viθabaišacā",
+      "san",
+      "stā",
+      "star",
+      "sparda",
+      "šaiy",
+      "šām",
+      "šiyu",
+      "hanj",
+      "hanj",
+      "had",
+      "hapariya-",
+      "har"
+    ],
+    "unto": [
+      "ā",
+      "i",
+      "i",
+      "upā"
+    ],
+    "in": [
+      "ā",
+      "autiyara",
+      "antar",
+      "adiy",
+      "ar",
+      "imaniš",
+      "imaniš",
+      "iš",
+      "u",
+      "u[yam]ā",
+      "kanpada",
+      "kāpišakāni",
+      "gandutava",
+      "ciyakara",
+      "tigra",
+      "θadaθa",
+      "[dauš, duš?]",
+      "dubāla",
+      "nipadiy",
+      "patiy",
+      "patipada",
+      "fraharavam",
+      "bagabuxša",
+      "magu",
+      "yaθā",
+      "vasiy",
+      "sikayauvatī",
+      "haumavarka"
+    ],
+    "on": [
+      "ā",
+      "avākanam",
+      "asabāri",
+      "ušabāri",
+      "patiy"
+    ],
+    "by": [
+      "ā",
+      "imaniš",
+      "upā",
+      "uvāmaršiyu",
+      "ušabāri",
+      "xšaθrita",
+      "naama"
+    ],
+    "a": [
+      "a-",
+      "a-",
+      "a-",
+      "a",
+      "a",
+      "aina[ira]",
+      "autiyara",
+      "aθrina/āθrina",
+      "aθriyadiya",
+      "adukaniša",
+      "anāmaka",
+      "anāhita",
+      "arakadri",
+      "ardaxcašc(?)a",
+      "ardaxcašc(?)a",
+      "ardaxcašc(?)a",
+      "aršādā",
+      "u[yam]ā",
+      "uvādaicaya",
+      "kanpada",
+      "kāpišakāni",
+      "karka",
+      "karša",
+      "kuganakā",
+      "kušiya",
+      "gandāra",
+      "gandutava",
+      "garmapada",
+      "ciθrantama",
+      "tāravā",
+      "tigra",
+      "θāigarci",
+      "θūravāhara",
+      "dādarši",
+      "dar",
+      "dubāla",
+      "draujana",
+      "nadintabaira",
+      "nāviyā",
+      "nisāya",
+      "paišiyāuvādā",
+      "patigrabanā",
+      "pātišuvari",
+      "puntiya",
+      "frāda",
+      "fravarti",
+      "bāgayādi",
+      "maka",
+      "magu",
+      "maciya",
+      "yautiyā",
+      "raxā",
+      "ragā",
+      "vaumisa",
+      "vasiy",
+      "vahyazdāta",
+      "viyaxna",
+      "vivāna",
+      "višpauzāti",
+      "sikayauvatī",
+      "skunxa",
+      "skudra",
+      "sparda",
+      "zāzāna",
+      "haumavarka",
+      "hamātar",
+      "hamapitar"
+    ],
+    "neg": [
+      "a-"
+    ],
+    "prefix": [
+      "a-",
+      "hanj"
+    ],
+    "before": [
+      "a-",
+      "a-",
+      "avaparā",
+      "u",
+      "para"
+    ],
+    "consonants": [
+      "a-"
+    ],
+    "an": [
+      "a-",
+      "aniya",
+      "arxa",
+      "kā",
+      "θakata(ma)",
+      "dādarši",
+      "piš"
+    ],
+    "vowels": [
+      "a-",
+      "u"
+    ],
+    "this": [
+      "a",
+      "aita",
+      "ana",
+      "avahyarādiy",
+      "ima",
+      "iyam"
+    ],
+    "aita": [
+      "aita",
+      "aita"
+    ],
+    "aina": [
+      "aina[ira]",
+      "aina[ira]"
+    ],
+    "ira": [
+      "aina[ira]"
+    ],
+    "name": [
+      "aina[ira]",
+      "autiyara",
+      "auramazdāh",
+      "aθrina/āθrina",
+      "aθriyadiya",
+      "adukaniša",
+      "anāmaka",
+      "anāhita",
+      "arakadri",
+      "arxa",
+      "ariyāramna",
+      "artavardiya",
+      "ardumaniš",
+      "aršādā",
+      "aršāma",
+      "imaniš",
+      "utāna",
+      "upadaranma",
+      "u[yam]ā",
+      "uvādaicaya",
+      "kanpada",
+      "kāpišakāni",
+      "karka",
+      "karša",
+      "kuganakā",
+      "kunduru",
+      "kušiya",
+      "xšaθrita",
+      "gaumāta",
+      "gandāra",
+      "gandutava",
+      "garmapada",
+      "cincixri",
+      "ciθrantama",
+      "taxmaspāda",
+      "tāravā",
+      "tigra",
+      "θāigarci",
+      "θuxra",
+      "θūravāhara",
+      "dātuhya",
+      "dādarši",
+      "dubāla",
+      "nadintabaira",
+      "nabukudracara",
+      "nabunaita",
+      "nāman",
+      "naama",
+      "nisāya",
+      "paišiyāuvādā",
+      "patigrabanā",
+      "puntiya",
+      "frāda",
+      "bagābigna",
+      "bāgayādi",
+      "maka",
+      "magu",
+      "maciya",
+      "martiya",
+      "māh",
+      "yautiyā",
+      "raxā",
+      "ragā",
+      "vaumisa",
+      "vāyaspāra",
+      "vahauka",
+      "vahyazdāta",
+      "vindafarnah",
+      "vidarna",
+      "viyaxna",
+      "vivāna",
+      "višpauzāti",
+      "sikayauvatī",
+      "skunxa",
+      "skudra",
+      "sparda",
+      "zāzāna",
+      "haldita"
+    ],
+    "of": [
+      "aina[ira]",
+      "aina[ira]",
+      "autiyara",
+      "auramazdāh",
+      "aθangaina/āθangaina",
+      "aθrina/āθrina",
+      "aθriyadiya",
+      "adukaniša",
+      "anāmaka",
+      "anāhita",
+      "apatara",
+      "āyadana",
+      "arakadri",
+      "arxa",
+      "ariyāramna",
+      "ariyāramna",
+      "artavardiya",
+      "artavardiya",
+      "artavardiya",
+      "ardumaniš",
+      "ardumaniš",
+      "ardumaniš",
+      "aršādā",
+      "aršāma",
+      "aršāma",
+      "avākanam",
+      "utāna",
+      "utāna",
+      "utāna",
+      "upadaranma",
+      "upadaranma",
+      "u[yam]ā",
+      "uvādaicaya",
+      "kanpada",
+      "kāpišakāni",
+      "karka",
+      "karša",
+      "kuganakā",
+      "kunduru",
+      "kušiya",
+      "gaumāta",
+      "gandāra",
+      "gandutava",
+      "garmapada",
+      "cincixri",
+      "cincixri",
+      "ciθrantama",
+      "caišapai",
+      "taxmaspāda",
+      "taxmaspāda",
+      "taxmaspāda",
+      "tāravā",
+      "tigra",
+      "tigraxauda",
+      "θāigarci",
+      "θuxra",
+      "θuxra",
+      "θūravāhara",
+      "dātuhya",
+      "dātuhya",
+      "dādarši",
+      "dī",
+      "dubāla",
+      "draujana",
+      "nadintabaira",
+      "nabukudracara",
+      "nabunaita",
+      "nabunaita",
+      "nāviyā",
+      "nipadiy",
+      "nisāya",
+      "paišiyāuvādā",
+      "patigrabanā",
+      "paruzana",
+      "puntiya",
+      "frāda",
+      "bagābigna",
+      "bagābigna",
+      "bagabuxša",
+      "bagabuxša",
+      "bagabuxša",
+      "bāgayādi",
+      "bardiya",
+      "mā",
+      "maka",
+      "magu",
+      "maciya",
+      "martiya",
+      "marduniya",
+      "maškā",
+      "māh",
+      "yautiyā",
+      "yauna",
+      "raxā",
+      "ragā",
+      "vaumisa",
+      "vāyaspāra",
+      "vāyaspāra",
+      "vahauka",
+      "vahauka",
+      "vahyazdāta",
+      "viiθaibaiša",
+      "vindafarnah",
+      "vindafarnah",
+      "vidarna",
+      "vidarna",
+      "viyaxna",
+      "vivāna",
+      "vispazana",
+      "vištāspa",
+      "višpauzāti",
+      "sikayauvatī",
+      "skunxa",
+      "skudra",
+      "sparda",
+      "šām",
+      "zāzāna",
+      "hainā",
+      "haumavarka",
+      "haxāmanišiya",
+      "haxāmanišiya",
+      "hanj",
+      "haldita",
+      "haldita"
+    ],
+    "babylonian": [
+      "aina[ira]",
+      "nadintabaira",
+      "nabunaita",
+      "bābiruviya",
+      "zāzāna"
+    ],
+    "father": [
+      "aina[ira]",
+      "upadaranma",
+      "cincixri",
+      "θuxra",
+      "dātuhya",
+      "pitar",
+      "bagābigna",
+      "marduniya",
+      "vāyaspāra",
+      "vahauka",
+      "vištāspa",
+      "hamapitar",
+      "haldita"
+    ],
+    "nidintu": [
+      "aina[ira]",
+      "nadintabaira",
+      "nabukudracara"
+    ],
+    "bel": [
+      "aina[ira]"
+    ],
+    "ainaira": [
+      "aina[ira]"
+    ],
+    "aiva": [
+      "aiva",
+      "aiva"
+    ],
+    "one": [
+      "aiva",
+      "aniya",
+      "artavardiya",
+      "ardumaniš",
+      "i",
+      "utāna",
+      "uvāmaršiyu",
+      "taxmaspāda",
+      "dī",
+      "dī",
+      "bagabuxša",
+      "yam",
+      "hauv",
+      "hama"
+    ],
+    "autiyara": [
+      "autiyara",
+      "autiyara"
+    ],
+    "district": [
+      "autiyara",
+      "kanpada",
+      "gandutava",
+      "dahyu",
+      "dubāla",
+      "nisāya",
+      "paišiyāuvādā",
+      "yautiyā",
+      "ragā",
+      "skudra"
+    ],
+    "armenia": [
+      "autiyara",
+      "armina",
+      "arminiya",
+      "u[yam]ā",
+      "tigra"
+    ],
+    "aura": [
+      "aura",
+      "aura"
+    ],
+    "god": [
+      "aura",
+      "auramazdāh",
+      "baga",
+      "miθra"
+    ],
+    "auramazdāh": [
+      "auramazdāh",
+      "auramazdāh"
+    ],
+    "the": [
+      "auramazdāh",
+      "aniya",
+      "aniya",
+      "ariyāramna",
+      "artavardiya",
+      "ardumaniš",
+      "aršāma",
+      "utāna",
+      "upadaranma",
+      "uzma",
+      "kāra",
+      "xšaθrita",
+      "gaumāta",
+      "gaumāta",
+      "cincixri",
+      "ciy",
+      "ciy",
+      "taxmaspāda",
+      "taradraya",
+      "θuxra",
+      "dātuhya",
+      "drauga",
+      "draujana",
+      "nabukudracara",
+      "nabukudracara",
+      "nabunaita",
+      "nabunaita",
+      "patiy",
+      "pirāva",
+      "bagābigna",
+      "bagabuxša",
+      "bagabuxša",
+      "maθišta",
+      "māh",
+      "miθra",
+      "yauna",
+      "vāyaspāra",
+      "vahauka",
+      "viiθaibaiša",
+      "viiθaibaiša",
+      "viθabaišacā",
+      "viθabaišacā",
+      "vindafarnah",
+      "vidarna",
+      "haumavarka",
+      "haxāmanišiya",
+      "hama",
+      "haldita"
+    ],
+    "supreme": [
+      "auramazdāh"
+    ],
+    "ahura": [
+      "auramazdāh"
+    ],
+    "mazda": [
+      "auramazdāh"
+    ],
+    "axšata": [
+      "axšata",
+      "axšata"
+    ],
+    "unhurt": [
+      "axšata"
+    ],
+    "inviolate": [
+      "axšata"
+    ],
+    "undisturbed": [
+      "axšata"
+    ],
+    "āgar": [
+      "āgar[tar]",
+      "āgar[tar]"
+    ],
+    "tar": [
+      "āgar[tar]",
+      "tar",
+      "tar"
+    ],
+    "supplement": [
+      "āgar[tar]"
+    ],
+    "for": [
+      "āgar[tar]",
+      "āyasatā",
+      "avahya",
+      "avahyarādiy"
+    ],
+    "agara": [
+      "āgar[tar]"
+    ],
+    "āgartar": [
+      "āgar[tar]"
+    ],
+    "antar": [
+      "antar",
+      "antar"
+    ],
+    "within": [
+      "antar"
+    ],
+    "among": [
+      "antar"
+    ],
+    "atiy": [
+      "atiy",
+      "atiy"
+    ],
+    "beyond": [
+      "atiy",
+      "i",
+      "i"
+    ],
+    "across": [
+      "atiy",
+      "tar",
+      "taradraya"
+    ],
+    "past": [
+      "atiy"
+    ],
+    "aθangaina": [
+      "aθangaina/āθangaina",
+      "aθangaina/āθangaina"
+    ],
+    "āθangaina": [
+      "aθangaina/āθangaina",
+      "aθangaina/āθangaina"
+    ],
+    "stone": [
+      "aθangaina/āθangaina",
+      "asman"
+    ],
+    "aθurā": [
+      "aθurā",
+      "aθurā"
+    ],
+    "assyria": [
+      "aθurā"
+    ],
+    "aθrina": [
+      "aθrina/āθrina",
+      "aθrina/āθrina",
+      "upadaranma"
+    ],
+    "āθrina": [
+      "aθrina/āθrina",
+      "aθrina/āθrina"
+    ],
+    "susian": [
+      "aθrina/āθrina",
+      "uvajiya",
+      "martiya"
+    ],
+    "rebel": [
+      "aθrina/āθrina",
+      "arxa",
+      "ciθrantama",
+      "nadintabaira",
+      "pat",
+      "frāda",
+      "fravarti",
+      "martiya",
+      "vahyazdāta",
+      "skunxa"
+    ],
+    "aθriyadiya": [
+      "aθriyadiya",
+      "aθriyadiya"
+    ],
+    "persian": [
+      "aθriyadiya",
+      "adukaniša",
+      "anāmaka",
+      "uvādaicaya",
+      "karša",
+      "kuganakā",
+      "garmapada",
+      "θāigarci",
+      "θūravāhara",
+      "dādarši",
+      "pārsa",
+      "yautiyā",
+      "raxā",
+      "vaumisa",
+      "vahyazdāta",
+      "viyaxna",
+      "vivāna"
+    ],
+    "month": [
+      "aθriyadiya",
+      "adukaniša",
+      "anāmaka",
+      "garmapada",
+      "θāigarci",
+      "θūravāhara",
+      "bāgayādi",
+      "māh",
+      "viyaxna"
+    ],
+    "nov": [
+      "aθriyadiya",
+      "adukaniša"
+    ],
+    "dec": [
+      "aθriyadiya",
+      "anāmaka"
+    ],
+    "ada": [
+      "ada",
+      "ada"
+    ],
+    "then": [
+      "ada",
+      "adakaiy",
+      "avaθā"
+    ],
+    "adakaiy": [
+      "adakaiy",
+      "adakaiy"
+    ],
+    "ādāta": [
+      "ādāta",
+      "ādāta"
+    ],
+    "noble": [
+      "ādāta"
+    ],
+    "adam": [
+      "adam",
+      "adam"
+    ],
+    "i": [
+      "adam",
+      "avākanam",
+      "avajam",
+      "i",
+      "i",
+      "dārayavau",
+      "mā",
+      "vart"
+    ],
+    "adiy": [
+      "adiy",
+      "adiy"
+    ],
+    "adukaniša": [
+      "adukaniša",
+      "adukaniša"
+    ],
+    "oct": [
+      "adukaniša",
+      "bāgayādi"
+    ],
+    "ana": [
+      "ana",
+      "ana"
+    ],
+    "anā": [
+      "anā",
+      "anā"
+    ],
+    "along": [
+      "anā",
+      "anuv",
+      "avaparā",
+      "i"
+    ],
+    "throughout": [
+      "anā",
+      "patiy"
+    ],
+    "anāmaka": [
+      "anāmaka",
+      "anāmaka"
+    ],
+    "jan": [
+      "anāmaka",
+      "jan",
+      "jan"
+    ],
+    "anāhita": [
+      "anāhita",
+      "anāhita"
+    ],
+    "goddess": [
+      "anāhita"
+    ],
+    "aniya": [
+      "aniya",
+      "aniya"
+    ],
+    "other": [
+      "aniya",
+      "aniya",
+      "patiy"
+    ],
+    "another": [
+      "aniya"
+    ],
+    "strange": [
+      "aniya"
+    ],
+    "hostile": [
+      "aniya",
+      "araika/arika",
+      "hainā"
+    ],
+    "enemy": [
+      "aniya",
+      "hamara"
+    ],
+    "with": [
+      "aniya",
+      "ka",
+      "citā",
+      "tigraxauda",
+      "naama",
+      "pā",
+      "patiy",
+      "patiy",
+      "patiy",
+      "māh",
+      "yadāyā",
+      "viiθaibaiša",
+      "san",
+      "hanj",
+      "hadā"
+    ],
+    "ciy": [
+      "aniya",
+      "ka",
+      "ciy",
+      "ciy"
+    ],
+    "nom": [
+      "aniya"
+    ],
+    "sg": [
+      "aniya"
+    ],
+    "n": [
+      "aniya"
+    ],
+    "aniyašciy": [
+      "aniya"
+    ],
+    "anuv": [
+      "anuv",
+      "anuv"
+    ],
+    "after": [
+      "anuv",
+      "nipadiy",
+      "para",
+      "pasā"
+    ],
+    "anušiya": [
+      "anušiya",
+      "anušiya"
+    ],
+    "devoted": [
+      "anušiya"
+    ],
+    "ally": [
+      "anušiya",
+      "vindafarnah",
+      "vidarna"
+    ],
+    "follower": [
+      "anušiya",
+      "draujana"
+    ],
+    "apa": [
+      "apa",
+      "apa"
+    ],
+    "from": [
+      "apa",
+      "apatara",
+      "uzma",
+      "tar",
+      "dī",
+      "paruviyata",
+      "yadāyā",
+      "hacā"
+    ],
+    "away": [
+      "apa",
+      "apatara",
+      "gud",
+      "nij",
+      "bar",
+      "bar",
+      "viy"
+    ],
+    "apatara": [
+      "apatara",
+      "apatara"
+    ],
+    "outside": [
+      "apatara"
+    ],
+    "elsewhere": [
+      "apatara"
+    ],
+    "apadāna": [
+      "apadāna",
+      "apadāna"
+    ],
+    "palace": [
+      "apadāna",
+      "tacara",
+      "viθ"
+    ],
+    "apanyāka": [
+      "apanyāka",
+      "apanyāka"
+    ],
+    "ancestor": [
+      "apanyāka",
+      "caišapai"
+    ],
+    "aparam": [
+      "aparam",
+      "aparam"
+    ],
+    "afterwards": [
+      "aparam",
+      "pasāvā"
+    ],
+    "āpī": [
+      "āpī",
+      "āpī"
+    ],
+    "water": [
+      "āpī"
+    ],
+    "apiy": [
+      "apiy",
+      "apiy"
+    ],
+    "against": [
+      "apiy",
+      "ardumaniš",
+      "utāna",
+      "jan",
+      "pā",
+      "patiš",
+      "vindafarnah",
+      "vidarna"
+    ],
+    "abicariš": [
+      "abicariš",
+      "abicariš"
+    ],
+    "pasture": [
+      "abicariš"
+    ],
+    "lands": [
+      "abicariš",
+      "visadahyu"
+    ],
+    "grazing": [
+      "abicariš"
+    ],
+    "areas": [
+      "abicariš"
+    ],
+    "aids": [
+      "abicariš"
+    ],
+    "commerce": [
+      "abicariš"
+    ],
+    "abiš": [
+      "abiš",
+      "abiš"
+    ],
+    "thereby": [
+      "abiš"
+    ],
+    "ama": [
+      "ama",
+      "ama"
+    ],
+    "amuθa": [
+      "amuθa",
+      "amuθa"
+    ],
+    "ayadaiy": [
+      "ayadaiy",
+      "ayadaiy"
+    ],
+    "āyadana": [
+      "āyadana",
+      "āyadana"
+    ],
+    "sanctuary": [
+      "āyadana"
+    ],
+    "place": [
+      "āyadana",
+      "āvahana",
+      "gāθu",
+      "patipada",
+      "stā",
+      "stāna",
+      "had",
+      "hadiš"
+    ],
+    "worship": [
+      "āyadana",
+      "yad"
+    ],
+    "āyasatā": [
+      "āyasatā",
+      "āyasatā"
+    ],
+    "āyastā": [
+      "āyasatā"
+    ],
+    "see": [
+      "āyasatā",
+      "dī",
+      "vaina"
+    ],
+    "yam": [
+      "āyasatā",
+      "u[yam]ā",
+      "yam",
+      "yam"
+    ],
+    "ar": [
+      "ar",
+      "ar"
+    ],
+    "set": [
+      "ar",
+      "šiyu"
+    ],
+    "motion": [
+      "ar",
+      "iš"
+    ],
+    "go": [
+      "ar",
+      "i",
+      "i",
+      "i",
+      "i",
+      "i",
+      "i",
+      "gam",
+      "gam",
+      "šiyu"
+    ],
+    "come": [
+      "ar",
+      "ar",
+      "ar",
+      "i",
+      "i",
+      "gam",
+      "gam"
+    ],
+    "arrive": [
+      "ar",
+      "ar",
+      "i"
+    ],
+    "down": [
+      "ar",
+      "ava",
+      "jan",
+      "jan",
+      "niy",
+      "had"
+    ],
+    "descend": [
+      "ar"
+    ],
+    "araika": [
+      "araika/arika",
+      "araika/arika"
+    ],
+    "arika": [
+      "araika/arika",
+      "araika/arika"
+    ],
+    "arabāya": [
+      "arabāya",
+      "arabāya"
+    ],
+    "arabia": [
+      "arabāya"
+    ],
+    "arakadri": [
+      "arakadri",
+      "arakadri"
+    ],
+    "mountain": [
+      "arakadri",
+      "kaufa"
+    ],
+    "arxa": [
+      "arxa",
+      "arxa"
+    ],
+    "armenian": [
+      "arxa",
+      "arminiya",
+      "dādarši"
+    ],
+    "ariya": [
+      "ariya",
+      "ariya"
+    ],
+    "aryan": [
+      "ariya"
+    ],
+    "ariyāramna": [
+      "ariyāramna",
+      "ariyāramna"
+    ],
+    "ariaramnes": [
+      "ariyāramna"
+    ],
+    "great": [
+      "ariyāramna",
+      "vasiy",
+      "vazarka"
+    ],
+    "grandfather": [
+      "ariyāramna",
+      "aršāma",
+      "nyāka"
+    ],
+    "darius": [
+      "ariyāramna",
+      "artavardiya",
+      "ardumaniš",
+      "aršāma",
+      "utāna",
+      "caišapai",
+      "taxmaspāda",
+      "dārayavau",
+      "dārayavau",
+      "bagabuxša",
+      "vindafarnah",
+      "vidarna",
+      "vištāspa"
+    ],
+    "artaxšaθra": [
+      "artaxšaθra",
+      "artaxšaθra"
+    ],
+    "artaxerxes": [
+      "artaxšaθra"
+    ],
+    "artavardiya": [
+      "artavardiya",
+      "artavardiya"
+    ],
+    "generals": [
+      "artavardiya"
+    ],
+    "ardaxcašc": [
+      "ardaxcašc(?)a",
+      "ardaxcašc(?)a",
+      "ardaxcašc(?)a"
+    ],
+    "ardaxcašca": [
+      "ardaxcašc(?)a"
+    ],
+    "ardastāna": [
+      "ardastāna",
+      "ardastāna"
+    ],
+    "window": [
+      "ardastāna"
+    ],
+    "cornice": [
+      "ardastāna"
+    ],
+    "ardumaniš": [
+      "ardumaniš",
+      "ardumaniš"
+    ],
+    "allies": [
+      "ardumaniš",
+      "utāna",
+      "bagabuxša"
+    ],
+    "gaumāta": [
+      "ardumaniš",
+      "gaumāta",
+      "gaumāta"
+    ],
+    "arbaira": [
+      "arbaira",
+      "arbaira"
+    ],
+    "arbela": [
+      "arbaira"
+    ],
+    "armina": [
+      "armina",
+      "armina"
+    ],
+    "arminiya": [
+      "arminiya",
+      "arminiya"
+    ],
+    "aršaka": [
+      "aršaka",
+      "aršaka"
+    ],
+    "arsaces": [
+      "aršaka"
+    ],
+    "aršādā": [
+      "aršādā",
+      "aršādā"
+    ],
+    "fortress": [
+      "aršādā",
+      "u[yam]ā",
+      "kāpišakāni",
+      "tigra",
+      "sikayauvatī"
+    ],
+    "aršāma": [
+      "aršāma",
+      "aršāma"
+    ],
+    "arsames": [
+      "aršāma"
+    ],
+    "arštā": [
+      "arštā",
+      "arštā"
+    ],
+    "rectitude": [
+      "arštā"
+    ],
+    "aršti": [
+      "aršti",
+      "aršti"
+    ],
+    "spear": [
+      "aršti",
+      "arštibara"
+    ],
+    "arštibara": [
+      "arštibara",
+      "arštibara"
+    ],
+    "bearer": [
+      "arštibara"
+    ],
+    "ava": [
+      "ava",
+      "ava"
+    ],
+    "that": [
+      "ava",
+      "tya",
+      "mātya",
+      "yaθā",
+      "yaθā",
+      "hauv",
+      "hauv"
+    ],
+    "avā": [
+      "avā",
+      "avā"
+    ],
+    "thus": [
+      "avā",
+      "avaθā",
+      "avaθāštā pari[ba]rā"
+    ],
+    "avākanam": [
+      "avākanam",
+      "avākanam"
+    ],
+    "placed": [
+      "avākanam"
+    ],
+    "my": [
+      "avākanam",
+      "yadāyā",
+      "viyanā[sa]ya"
+    ],
+    "army": [
+      "avākanam",
+      "kāra",
+      "hainā"
+    ],
+    "floats": [
+      "avākanam"
+    ],
+    "skins": [
+      "avākanam",
+      "maškā"
+    ],
+    "avajam": [
+      "avajam",
+      "avajam"
+    ],
+    "put": [
+      "avajam",
+      "iš",
+      "tar",
+      "dā2"
+    ],
+    "out": [
+      "avajam",
+      "kan"
+    ],
+    "his": [
+      "avajam",
+      "imaniš",
+      "šaiy"
+    ],
+    "eyes": [
+      "avajam"
+    ],
+    "avaθā": [
+      "avaθā",
+      "avaθā"
+    ],
+    "avaθāštā": [
+      "avaθāštā pari[ba]rā",
+      "avaθāštā pari[ba]rā",
+      "avaθāštā pari[ba]rā"
+    ],
+    "pari": [
+      "avaθāštā pari[ba]rā"
+    ],
+    "ba": [
+      "avaθāštā pari[ba]rā"
+    ],
+    "rā": [
+      "avaθāštā pari[ba]rā"
+    ],
+    "preserve": [
+      "avaθāštā pari[ba]rā",
+      "bar"
+    ],
+    "them": [
+      "avaθāštā pari[ba]rā",
+      "di",
+      "šām",
+      "šām",
+      "šiš"
+    ],
+    "parirā": [
+      "avaθāštā pari[ba]rā"
+    ],
+    "paribarā": [
+      "avaθāštā pari[ba]rā"
+    ],
+    "avadā": [
+      "avadā",
+      "avadā"
+    ],
+    "there": [
+      "avadā",
+      "avaparā",
+      "avaparā",
+      "para"
+    ],
+    "thither": [
+      "avadā"
+    ],
+    "hacā": [
+      "avadā",
+      "pā",
+      "paruviyata",
+      "yadāyā",
+      "hacā",
+      "hacā"
+    ],
+    "avadaša": [
+      "avadā"
+    ],
+    "therefrom": [
+      "avadā",
+      "ša"
+    ],
+    "thence": [
+      "avadā"
+    ],
+    "avaparā": [
+      "avaparā",
+      "avaparā"
+    ],
+    "āvahana": [
+      "āvahana",
+      "āvahana"
+    ],
+    "dwelling": [
+      "āvahana",
+      "hadiš"
+    ],
+    "avahya": [
+      "avahya",
+      "avahya"
+    ],
+    "ask": [
+      "avahya",
+      "parsa"
+    ],
+    "aid": [
+      "avahya",
+      "upastā"
+    ],
+    "implore": [
+      "avahya"
+    ],
+    "seek": [
+      "avahya"
+    ],
+    "help": [
+      "avahya",
+      "upastā"
+    ],
+    "supplicate": [
+      "avahya"
+    ],
+    "avahyarādiy": [
+      "avahyarādiy",
+      "avahyarādiy"
+    ],
+    "reason": [
+      "avahyarādiy"
+    ],
+    "therefore": [
+      "avahyarādiy"
+    ],
+    "asa": [
+      "asa",
+      "asa"
+    ],
+    "horse": [
+      "asa",
+      "aspa"
+    ],
+    "asagarta": [
+      "asagarta",
+      "asagarta"
+    ],
+    "sagartia": [
+      "asagarta"
+    ],
+    "asagartiya": [
+      "asagartiya",
+      "asagartiya"
+    ],
+    "sagartian": [
+      "asagartiya",
+      "ciθrantama"
+    ],
+    "asabāri": [
+      "asabāri",
+      "asabāri"
+    ],
+    "mounted": [
+      "asabāri",
+      "ušabāri"
+    ],
+    "horses": [
+      "asabāri",
+      "uvaspa"
+    ],
+    "horsemen": [
+      "asabāri"
+    ],
+    "aspa": [
+      "aspa",
+      "aspa"
+    ],
+    "aspacanah": [
+      "aspacanah",
+      "aspacanah"
+    ],
+    "aspathines": [
+      "aspacanah"
+    ],
+    "asman": [
+      "asman",
+      "asman"
+    ],
+    "firmament": [
+      "asman"
+    ],
+    "heaven": [
+      "asman"
+    ],
+    "azda": [
+      "azda",
+      "azda"
+    ],
+    "known": [
+      "azda"
+    ],
+    "ah": [
+      "ah",
+      "ah"
+    ],
+    "be": [
+      "ah",
+      "i",
+      "kan",
+      "taxš",
+      "bū",
+      "mā"
+    ],
+    "measure": [
+      "i",
+      "mā"
+    ],
+    "forth": [
+      "i",
+      "i",
+      "iš",
+      "ud",
+      "us",
+      "gam",
+      "nī",
+      "fra",
+      "šiyu"
+    ],
+    "s": [
+      "i",
+      "uvāmaršiyu",
+      "yam"
+    ],
+    "possession": [
+      "i",
+      "uvāipašiya",
+      "yam"
+    ],
+    "proceed": [
+      "i"
+    ],
+    "idā": [
+      "idā",
+      "idā"
+    ],
+    "here": [
+      "idā"
+    ],
+    "ima": [
+      "ima",
+      "ima"
+    ],
+    "imaniš": [
+      "imaniš",
+      "imaniš"
+    ],
+    "assumed": [
+      "imaniš",
+      "xšaθrita",
+      "gaumāta",
+      "nabukudracara"
+    ],
+    "martiya": [
+      "imaniš",
+      "cincixri",
+      "martiya",
+      "martiya"
+    ],
+    "insurrection": [
+      "imaniš"
+    ],
+    "susiana": [
+      "imaniš",
+      "uvaja"
+    ],
+    "iyam": [
+      "iyam",
+      "iyam"
+    ],
+    "iš": [
+      "iš",
+      "iš"
+    ],
+    "send": [
+      "iš",
+      "iš"
+    ],
+    "u": [
+      "u",
+      "u",
+      "[u]cašama",
+      "u[yam]ā"
+    ],
+    "composition": [
+      "u"
+    ],
+    "good": [
+      "u",
+      "umartiya",
+      "uvaspa"
+    ],
+    "well": [
+      "u",
+      "ufrašta",
+      "ubarta",
+      "šiyāti"
+    ],
+    "uv": [
+      "u"
+    ],
+    "cašama": [
+      "[u]cašama",
+      "[u]cašama"
+    ],
+    "eye": [
+      "[u]cašama"
+    ],
+    "ucašama": [
+      "[u]cašama"
+    ],
+    "utā": [
+      "utā",
+      "utā"
+    ],
+    "and": [
+      "utā",
+      "cā",
+      "caišapai",
+      "nabukudracara",
+      "viθabaišacā",
+      "viθabaišacā",
+      "hama"
+    ],
+    "utāna": [
+      "utāna",
+      "utāna"
+    ],
+    "otanes": [
+      "utāna",
+      "θuxra"
+    ],
+    "gaumata": [
+      "utāna"
+    ],
+    "ud": [
+      "ud",
+      "ud"
+    ],
+    "up": [
+      "ud",
+      "us",
+      "uzma",
+      "pat"
+    ],
+    "us": [
+      "us",
+      "us"
+    ],
+    "upā": [
+      "upā",
+      "upā"
+    ],
+    "upadaranma": [
+      "upadaranma",
+      "upadaranma"
+    ],
+    "upariy": [
+      "upariy",
+      "upariy"
+    ],
+    "above": [
+      "upariy"
+    ],
+    "over": [
+      "upariy",
+      "xši",
+      "tar"
+    ],
+    "upastā": [
+      "upastā",
+      "upastā"
+    ],
+    "ufrašta": [
+      "ufrašta",
+      "ufrašta"
+    ],
+    "punished": [
+      "ufrašta"
+    ],
+    "ufrašti": [
+      "ufrašti",
+      "ufrašti"
+    ],
+    "severe": [
+      "ufrašti"
+    ],
+    "punishment": [
+      "ufrašti"
+    ],
+    "ufrātu": [
+      "ufrātu",
+      "ufrātu"
+    ],
+    "euphrates": [
+      "ufrātu"
+    ],
+    "ubarta": [
+      "ubarta",
+      "ubarta"
+    ],
+    "esteemed": [
+      "ubarta"
+    ],
+    "umartiya": [
+      "umartiya",
+      "umartiya"
+    ],
+    "possessing": [
+      "umartiya",
+      "uvaspa"
+    ],
+    "men": [
+      "umartiya"
+    ],
+    "uyamā": [
+      "u[yam]ā"
+    ],
+    "uā": [
+      "u[yam]ā"
+    ],
+    "uvāipašiya": [
+      "uvāipašiya",
+      "uvāipašiya"
+    ],
+    "own": [
+      "uvāipašiya",
+      "uvāmaršiyu",
+      "patipada"
+    ],
+    "uvaxštra": [
+      "uvaxštra",
+      "uvaxštra"
+    ],
+    "cyaxares": [
+      "uvaxštra"
+    ],
+    "uvaja": [
+      "uvaja",
+      "uvaja"
+    ],
+    "uvajiya": [
+      "uvajiya",
+      "uvajiya"
+    ],
+    "uvādaicaya": [
+      "uvādaicaya",
+      "uvādaicaya"
+    ],
+    "town": [
+      "uvādaicaya",
+      "kuganakā",
+      "kunduru",
+      "tāravā",
+      "patigrabanā",
+      "raxā",
+      "vardana",
+      "višpauzāti",
+      "zāzāna"
+    ],
+    "uvāmaršiyu": [
+      "uvāmaršiyu",
+      "uvāmaršiyu"
+    ],
+    "dying": [
+      "uvāmaršiyu"
+    ],
+    "hand": [
+      "uvāmaršiyu",
+      "dasta",
+      "patiy"
+    ],
+    "uvārazmi": [
+      "uvārazmi",
+      "uvārazmi"
+    ],
+    "chorasmia": [
+      "uvārazmi",
+      "uvārazmiya"
+    ],
+    "uvārazmiya": [
+      "uvārazmiya",
+      "uvārazmiya"
+    ],
+    "uvaspa": [
+      "uvaspa",
+      "uvaspa"
+    ],
+    "ustašanā": [
+      "ustašanā",
+      "ustašanā"
+    ],
+    "staircase": [
+      "ustašanā"
+    ],
+    "bauwerk": [
+      "ustašanā"
+    ],
+    "treppe": [
+      "ustašanā"
+    ],
+    "ušabāri": [
+      "ušabāri",
+      "ušabāri"
+    ],
+    "borne": [
+      "ušabāri"
+    ],
+    "oxen": [
+      "ušabāri"
+    ],
+    "camels": [
+      "ušabāri"
+    ],
+    "uška": [
+      "uška",
+      "uška"
+    ],
+    "dry": [
+      "uška",
+      "uška"
+    ],
+    "land": [
+      "uška",
+      "dahyu",
+      "yauna"
+    ],
+    "mainland": [
+      "uška"
+    ],
+    "uzma": [
+      "uzma",
+      "uzma"
+    ],
+    "what": [
+      "uzma"
+    ],
+    "is": [
+      "uzma",
+      "ciy"
+    ],
+    "earth": [
+      "uzma",
+      "būmī"
+    ],
+    "stake": [
+      "uzma"
+    ],
+    "pile": [
+      "uzma"
+    ],
+    "kā": [
+      "kā",
+      "kā"
+    ],
+    "particle": [
+      "kā"
+    ],
+    "giving": [
+      "kā"
+    ],
+    "preceding": [
+      "kā"
+    ],
+    "tuvam": [
+      "kā",
+      "tuvam",
+      "tuvam"
+    ],
+    "thou": [
+      "kā",
+      "tuvam"
+    ],
+    "indefinite": [
+      "kā",
+      "ciy"
+    ],
+    "force": [
+      "kā"
+    ],
+    "ka": [
+      "ka",
+      "ka"
+    ],
+    "who": [
+      "ka",
+      "gaumāta",
+      "tya",
+      "hya"
+    ],
+    "indef": [
+      "ka"
+    ],
+    "any": [
+      "ka"
+    ],
+    "kaufa": [
+      "kaufa",
+      "kaufa"
+    ],
+    "hill": [
+      "kaufa"
+    ],
+    "katpatuka": [
+      "katpatuka",
+      "katpatuka"
+    ],
+    "cappadocia": [
+      "katpatuka"
+    ],
+    "kan": [
+      "kan",
+      "kan"
+    ],
+    "dig": [
+      "kan"
+    ],
+    "chisel": [
+      "kan"
+    ],
+    "obliterate": [
+      "kan"
+    ],
+    "cause": [
+      "kan"
+    ],
+    "forgotten": [
+      "kan"
+    ],
+    "destroy": [
+      "kan",
+      "jan",
+      "san"
+    ],
+    "kanpada": [
+      "kanpada",
+      "kanpada"
+    ],
+    "media": [
+      "kanpada",
+      "māda",
+      "sikayauvatī"
+    ],
+    "kāpišakāni": [
+      "kāpišakāni",
+      "kāpišakāni"
+    ],
+    "arachosia": [
+      "kāpišakāni",
+      "gandutava",
+      "harauvatī"
+    ],
+    "kanbūjiya": [
+      "kanbūjiya",
+      "kanbūjiya"
+    ],
+    "cambyses": [
+      "kanbūjiya",
+      "bardiya"
+    ],
+    "kāma": [
+      "kāma",
+      "kāma"
+    ],
+    "desire": [
+      "kāma"
+    ],
+    "wish": [
+      "kāma"
+    ],
+    "kamna": [
+      "kamna",
+      "kamna"
+    ],
+    "few": [
+      "kamna"
+    ],
+    "kar": [
+      "kar",
+      "kar"
+    ],
+    "do": [
+      "kar"
+    ],
+    "make": [
+      "kar",
+      "dā2"
+    ],
+    "kāra": [
+      "kāra",
+      "kāra"
+    ],
+    "people": [
+      "kāra",
+      "karka",
+      "kušiya",
+      "paruzana",
+      "puntiya",
+      "maka",
+      "maciya",
+      "vispazana"
+    ],
+    "karka": [
+      "karka",
+      "karka"
+    ],
+    "karša": [
+      "karša",
+      "karša"
+    ],
+    "weight": [
+      "karša"
+    ],
+    "kuganakā": [
+      "kuganakā",
+      "kuganakā"
+    ],
+    "kunduru": [
+      "kunduru",
+      "kunduru"
+    ],
+    "median": [
+      "kunduru",
+      "xšaθrita",
+      "gaumāta",
+      "nisāya",
+      "fravarti",
+      "magu",
+      "māda",
+      "ragā"
+    ],
+    "kūru": [
+      "kūru",
+      "kūru"
+    ],
+    "cyrus": [
+      "kūru",
+      "caišapai"
+    ],
+    "kušiya": [
+      "kušiya",
+      "kušiya"
+    ],
+    "xaršādašyā": [
+      "xaršādašyā?",
+      "xaršādašyā?"
+    ],
+    "xš": [
+      "XŠ",
+      "XŠ"
+    ],
+    "xšaθrita": [
+      "xšaθrita",
+      "xšaθrita"
+    ],
+    "phraortes": [
+      "xšaθrita",
+      "fravarti"
+    ],
+    "pretender": [
+      "xšaθrita",
+      "gaumāta"
+    ],
+    "xšaθra": [
+      "xšaθra",
+      "xšaθra"
+    ],
+    "lordship": [
+      "xšaθra",
+      "xši"
+    ],
+    "kingdom": [
+      "xšaθra"
+    ],
+    "xšaθrapāvan": [
+      "xšaθrapāvan",
+      "xšaθrapāvan"
+    ],
+    "satrap": [
+      "xšaθrapāvan",
+      "dādarši"
+    ],
+    "xšap": [
+      "xšap",
+      "xšap"
+    ],
+    "night": [
+      "xšap"
+    ],
+    "xšāyaθiya": [
+      "xšāyaθiya",
+      "xšāyaθiya"
+    ],
+    "king": [
+      "xšāyaθiya",
+      "nabunaita"
+    ],
+    "xšayāršan": [
+      "xšayāršan",
+      "xšayāršan"
+    ],
+    "xerxes": [
+      "xšayāršan"
+    ],
+    "xši": [
+      "xši",
+      "xši"
+    ],
+    "rule": [
+      "xši",
+      "xši"
+    ],
+    "hold": [
+      "xši",
+      "dar",
+      "dar"
+    ],
+    "xšnā": [
+      "xšnā",
+      "xšnā"
+    ],
+    "know": [
+      "xšnā",
+      "dan"
+    ],
+    "gaiθa": [
+      "gaiθa",
+      "gaiθa"
+    ],
+    "personal": [
+      "gaiθa"
+    ],
+    "property": [
+      "gaiθa"
+    ],
+    "gaubruva": [
+      "gaubruva",
+      "gaubruva"
+    ],
+    "gobryas": [
+      "gaubruva",
+      "marduniya"
+    ],
+    "smerdis": [
+      "gaumāta",
+      "bagabuxša",
+      "bardiya",
+      "vindafarnah",
+      "vidarna"
+    ],
+    "gauša": [
+      "gauša",
+      "gauša"
+    ],
+    "ear": [
+      "gauša"
+    ],
+    "gāθu": [
+      "gāθu",
+      "gāθu"
+    ],
+    "throne": [
+      "gāθu"
+    ],
+    "gandāra": [
+      "gandāra",
+      "gandāra"
+    ],
+    "region": [
+      "gandāra",
+      "sparda"
+    ],
+    "gandutava": [
+      "gandutava",
+      "gandutava"
+    ],
+    "gam": [
+      "gam",
+      "gam"
+    ],
+    "together": [
+      "gam",
+      "taxš",
+      "ham"
+    ],
+    "assemble": [
+      "gam"
+    ],
+    "garmapada": [
+      "garmapada",
+      "garmapada"
+    ],
+    "gasta": [
+      "gasta",
+      "gasta"
+    ],
+    "repugnant": [
+      "gasta"
+    ],
+    "adverse": [
+      "gasta"
+    ],
+    "gud": [
+      "gud",
+      "gud"
+    ],
+    "conceal": [
+      "gud",
+      "gud"
+    ],
+    "hide": [
+      "gud"
+    ],
+    "gub": [
+      "gub",
+      "gub"
+    ],
+    "speak": [
+      "gub",
+      "θah",
+      "θā-"
+    ],
+    "grab": [
+      "grab",
+      "grab"
+    ],
+    "seize": [
+      "grab",
+      "grab",
+      "yam"
+    ],
+    "cā": [
+      "cā",
+      "cā"
+    ],
+    "cincixri": [
+      "cincixri",
+      "cincixri"
+    ],
+    "citā": [
+      "citā",
+      "citā"
+    ],
+    "so": [
+      "citā"
+    ],
+    "long": [
+      "citā",
+      "dargam",
+      "duvaištam",
+      "duvitāparanam",
+      "paruviyata",
+      "yāvā"
+    ],
+    "yātā": [
+      "citā",
+      "yātā",
+      "yātā"
+    ],
+    "until": [
+      "citā",
+      "yātā"
+    ],
+    "ciθra": [
+      "ciθra",
+      "ciθra"
+    ],
+    "seed": [
+      "ciθra"
+    ],
+    "lineage": [
+      "ciθra",
+      "mā"
+    ],
+    "ciθrantama": [
+      "ciθrantama",
+      "ciθrantama"
+    ],
+    "makes": [
+      "ciy"
+    ],
+    "interr": [
+      "ciy"
+    ],
+    "pron": [
+      "ciy"
+    ],
+    "emphasizes": [
+      "ciy"
+    ],
+    "slightly": [
+      "ciy"
+    ],
+    "word": [
+      "ciy",
+      "θadaθa"
+    ],
+    "which": [
+      "ciy",
+      "tya"
+    ],
+    "it": [
+      "ciy",
+      "di",
+      "šim",
+      "hauv"
+    ],
+    "joined": [
+      "ciy"
+    ],
+    "ciyakara": [
+      "ciyakara",
+      "ciyakara"
+    ],
+    "how": [
+      "ciyakara"
+    ],
+    "many": [
+      "ciyakara",
+      "paru",
+      "paruzana"
+    ],
+    "restricted": [
+      "ciyakara"
+    ],
+    "number": [
+      "ciyakara"
+    ],
+    "caišapai": [
+      "caišapai",
+      "caišapai"
+    ],
+    "teispes": [
+      "caišapai"
+    ],
+    "common": [
+      "caišapai",
+      "hamātar",
+      "hamapitar"
+    ],
+    "read": [
+      "caišapai",
+      "parsa"
+    ],
+    "cišpi": [
+      "caišapai"
+    ],
+    "or": [
+      "caišapai",
+      "vā",
+      "hanj"
+    ],
+    "caišpi": [
+      "caišapai"
+    ],
+    "jatar": [
+      "jatar",
+      "jatar"
+    ],
+    "smiter": [
+      "jatar"
+    ],
+    "slayer": [
+      "jatar"
+    ],
+    "jad": [
+      "jad",
+      "jad"
+    ],
+    "pray": [
+      "jad"
+    ],
+    "smite": [
+      "jan",
+      "jan",
+      "jan"
+    ],
+    "slay": [
+      "jan",
+      "jan"
+    ],
+    "wage": [
+      "jan"
+    ],
+    "battle": [
+      "jan",
+      "hamarana"
+    ],
+    "fight": [
+      "jan"
+    ],
+    "cut": [
+      "jan",
+      "piš",
+      "piš"
+    ],
+    "off": [
+      "jan"
+    ],
+    "ji": [
+      "ji",
+      "ji"
+    ],
+    "live": [
+      "ji"
+    ],
+    "jiyamna": [
+      "jiyamna",
+      "jiyamna"
+    ],
+    "waning": [
+      "jiyamna"
+    ],
+    "growing": [
+      "jiyamna"
+    ],
+    "old": [
+      "jiyamna"
+    ],
+    "as": [
+      "jiyamna",
+      "pārsa",
+      "bandaka",
+      "maθišta",
+      "māda",
+      "yaθā",
+      "yam",
+      "yāvā",
+      "yāvā"
+    ],
+    "subs": [
+      "jiyamna",
+      "pārsa",
+      "bandaka",
+      "maθišta",
+      "māda"
+    ],
+    "completion": [
+      "jiyamna"
+    ],
+    "end": [
+      "jiyamna",
+      "θakata(ma)"
+    ],
+    "jīva": [
+      "jīva",
+      "jīva"
+    ],
+    "living": [
+      "jīva"
+    ],
+    "taiy": [
+      "taiy",
+      "taiy"
+    ],
+    "taumā": [
+      "taumā",
+      "taumā"
+    ],
+    "family": [
+      "taumā"
+    ],
+    "tauman": [
+      "[tauman]",
+      "[tauman]"
+    ],
+    "power": [
+      "[tauman]"
+    ],
+    "might": [
+      "[tauman]"
+    ],
+    "taxmaspāda": [
+      "taxmaspāda",
+      "taxmaspāda"
+    ],
+    "commanders": [
+      "taxmaspāda"
+    ],
+    "taxš": [
+      "taxš",
+      "taxš"
+    ],
+    "active": [
+      "taxš"
+    ],
+    "work": [
+      "taxš",
+      "taxš"
+    ],
+    "cooperate": [
+      "taxš"
+    ],
+    "tacara": [
+      "tacara",
+      "tacara"
+    ],
+    "cross": [
+      "tar",
+      "tar"
+    ],
+    "depart": [
+      "tar"
+    ],
+    "abandon": [
+      "tar",
+      "rad"
+    ],
+    "taradraya": [
+      "taradraya",
+      "taradraya"
+    ],
+    "sea": [
+      "taradraya",
+      "drayah"
+    ],
+    "tāravā": [
+      "tāravā",
+      "tāravā"
+    ],
+    "persisan": [
+      "tāravā"
+    ],
+    "tarsa": [
+      "tarsa",
+      "tarsa"
+    ],
+    "fear": [
+      "tarsa"
+    ],
+    "tigra": [
+      "tigra",
+      "tigra"
+    ],
+    "tigrā": [
+      "tigrā",
+      "tigrā"
+    ],
+    "tigris": [
+      "tigrā"
+    ],
+    "tigraxauda": [
+      "tigraxauda",
+      "tigraxauda"
+    ],
+    "pointed": [
+      "tigraxauda"
+    ],
+    "cap": [
+      "tigraxauda"
+    ],
+    "epithet": [
+      "tigraxauda"
+    ],
+    "scythians": [
+      "tigraxauda",
+      "haumavarka"
+    ],
+    "tya": [
+      "tya",
+      "tya"
+    ],
+    "because": [
+      "tya",
+      "yaθā"
+    ],
+    "θāigarci": [
+      "θāigarci",
+      "θāigarci"
+    ],
+    "θakata": [
+      "θakata(ma)",
+      "θakata(ma)",
+      "θakata(ma)"
+    ],
+    "ma": [
+      "θakata(ma)",
+      "θakata(ma)",
+      "ma",
+      "ma"
+    ],
+    "coming": [
+      "θakata(ma)"
+    ],
+    "θakatama": [
+      "θakata(ma)"
+    ],
+    "θatagu": [
+      "θatagu",
+      "θatagu"
+    ],
+    "sattagydia": [
+      "θatagu"
+    ],
+    "θand": [
+      "θand",
+      "θand"
+    ],
+    "seem": [
+      "θand",
+      "vaina"
+    ],
+    "θadaθa": [
+      "θadaθa",
+      "θadaθa"
+    ],
+    "uncertain": [
+      "θadaθa"
+    ],
+    "seal": [
+      "θadaθa"
+    ],
+    "inscr": [
+      "θadaθa"
+    ],
+    "b": [
+      "θadaθa"
+    ],
+    "θard": [
+      "θard",
+      "θard"
+    ],
+    "year": [
+      "θard"
+    ],
+    "θah": [
+      "θah",
+      "θah"
+    ],
+    "declare": [
+      "θah",
+      "θā-"
+    ],
+    "say": [
+      "θah",
+      "θā-"
+    ],
+    "θā": [
+      "θā-",
+      "θā-"
+    ],
+    "θuxra": [
+      "θuxra",
+      "θuxra"
+    ],
+    "θūravāhara": [
+      "θūravāhara",
+      "θūravāhara"
+    ],
+    "θuvām": [
+      "θuvām",
+      "θuvām"
+    ],
+    "θri": [
+      "θri",
+      "θri"
+    ],
+    "lean": [
+      "θri"
+    ],
+    "restore": [
+      "θri",
+      "bar",
+      "stā"
+    ],
+    "θritiya": [
+      "θritiya",
+      "θritiya"
+    ],
+    "third": [
+      "θritiya"
+    ],
+    "dā1": [
+      "dā1",
+      "dā1"
+    ],
+    "give": [
+      "dā1"
+    ],
+    "dā2": [
+      "dā2",
+      "dā2"
+    ],
+    "create": [
+      "dā2"
+    ],
+    "dauš": [
+      "[dauš, duš?]",
+      "[dauš, duš?]"
+    ],
+    "duš": [
+      "[dauš, duš?]",
+      "[dauš, duš?]"
+    ],
+    "take": [
+      "[dauš, duš?]",
+      "dī",
+      "bar",
+      "yam"
+    ],
+    "pleasure": [
+      "[dauš, duš?]"
+    ],
+    "esteem": [
+      "[dauš, duš?]",
+      "bar"
+    ],
+    "dauštar": [
+      "dauštar",
+      "dauštar"
+    ],
+    "friend": [
+      "dauštar"
+    ],
+    "dāta": [
+      "dāta",
+      "dāta"
+    ],
+    "law": [
+      "dāta"
+    ],
+    "dātuhya": [
+      "dātuhya",
+      "dātuhya"
+    ],
+    "megabyzus": [
+      "dātuhya"
+    ],
+    "dādarši": [
+      "dādarši",
+      "dādarši"
+    ],
+    "subject": [
+      "dādarši",
+      "bandaka",
+      "bandaka"
+    ],
+    "dan": [
+      "dan",
+      "dan"
+    ],
+    "flow": [
+      "dan"
+    ],
+    "dar": [
+      "dar",
+      "dar",
+      "haumavarka"
+    ],
+    "2": [
+      "dar"
+    ],
+    "position": [
+      "dar"
+    ],
+    "halt": [
+      "dar",
+      "stā"
+    ],
+    "obtain": [
+      "dar"
+    ],
+    "dārayantā": [
+      "dārayantā",
+      "dārayantā"
+    ],
+    "pfeilbewahrer": [
+      "dārayantā"
+    ],
+    "dārayavau": [
+      "dārayavau",
+      "dārayavau"
+    ],
+    "ii": [
+      "dārayavau"
+    ],
+    "dargam": [
+      "dargam",
+      "dargam"
+    ],
+    "darš": [
+      "darš",
+      "darš"
+    ],
+    "dare": [
+      "darš"
+    ],
+    "daršam": [
+      "daršam",
+      "daršam"
+    ],
+    "mightily": [
+      "daršam"
+    ],
+    "much": [
+      "daršam",
+      "vasiy"
+    ],
+    "daršman": [
+      "daršman",
+      "daršman"
+    ],
+    "boldness": [
+      "daršman"
+    ],
+    "tyranny": [
+      "daršman"
+    ],
+    "despotism": [
+      "daršman"
+    ],
+    "dasta": [
+      "dasta",
+      "dasta"
+    ],
+    "dahyu": [
+      "dahyu",
+      "dahyu"
+    ],
+    "province": [
+      "dahyu"
+    ],
+    "di": [
+      "di",
+      "di"
+    ],
+    "most": [
+      "di"
+    ],
+    "often": [
+      "di"
+    ],
+    "encl": [
+      "di"
+    ],
+    "dī": [
+      "dī",
+      "dī"
+    ],
+    "injure": [
+      "dī"
+    ],
+    "deprive": [
+      "dī"
+    ],
+    "acc": [
+      "dī",
+      "dī",
+      "dī",
+      "dī",
+      "patiy"
+    ],
+    "something": [
+      "dī"
+    ],
+    "didā": [
+      "didā",
+      "didā"
+    ],
+    "stronghold": [
+      "didā"
+    ],
+    "dipi": [
+      "dipi",
+      "dipi"
+    ],
+    "inscription": [
+      "dipi",
+      "piš"
+    ],
+    "dubāla": [
+      "dubāla",
+      "dubāla"
+    ],
+    "babylonia": [
+      "dubāla",
+      "bābiru"
+    ],
+    "dūraiy": [
+      "dūraiy",
+      "dūraiy"
+    ],
+    "far": [
+      "dūraiy"
+    ],
+    "duruj": [
+      "duruj",
+      "duruj"
+    ],
+    "lie": [
+      "duruj",
+      "drauga",
+      "draujīya"
+    ],
+    "deceive": [
+      "duruj"
+    ],
+    "duruva": [
+      "duruva",
+      "duruva"
+    ],
+    "sound": [
+      "duruva"
+    ],
+    "secure": [
+      "duruva"
+    ],
+    "duvaištam": [
+      "duvaištam",
+      "duvaištam"
+    ],
+    "very": [
+      "duvaištam"
+    ],
+    "duvara": [
+      "duvara",
+      "duvara"
+    ],
+    "door": [
+      "duvara"
+    ],
+    "duvarθi": [
+      "duvarθi",
+      "duvarθi"
+    ],
+    "portico": [
+      "duvarθi"
+    ],
+    "colonnade": [
+      "duvarθi"
+    ],
+    "duvitāparanam": [
+      "duvitāparanam",
+      "duvitāparanam"
+    ],
+    "aforetime": [
+      "duvitāparanam"
+    ],
+    "duvitīya": [
+      "duvitīya",
+      "duvitīya"
+    ],
+    "second": [
+      "duvitīya"
+    ],
+    "dušiyāra": [
+      "dušiyāra",
+      "dušiyāra"
+    ],
+    "bad": [
+      "dušiyāra"
+    ],
+    "harvest": [
+      "dušiyāra"
+    ],
+    "scarcity": [
+      "dušiyāra"
+    ],
+    "famine": [
+      "dušiyāra"
+    ],
+    "drauga": [
+      "drauga",
+      "drauga"
+    ],
+    "draujana": [
+      "draujana",
+      "draujana"
+    ],
+    "deceiving": [
+      "draujana"
+    ],
+    "false": [
+      "draujana",
+      "bagabuxša",
+      "vindafarnah",
+      "vidarna"
+    ],
+    "druj": [
+      "draujana"
+    ],
+    "draujīya": [
+      "draujīya",
+      "draujīya"
+    ],
+    "drayah": [
+      "drayah",
+      "drayah"
+    ],
+    "naiba": [
+      "naiba",
+      "naiba"
+    ],
+    "beautiful": [
+      "naiba"
+    ],
+    "naiy": [
+      "naiy",
+      "naiy"
+    ],
+    "not": [
+      "naiy",
+      "mā",
+      "mātya",
+      "mātya"
+    ],
+    "nadintabaira": [
+      "nadintabaira",
+      "nadintabaira"
+    ],
+    "bêl": [
+      "nadintabaira",
+      "nabukudracara"
+    ],
+    "napāt": [
+      "napāt",
+      "napāt"
+    ],
+    "grandson": [
+      "napāt"
+    ],
+    "nabukudracara": [
+      "nabukudracara",
+      "nabukudracara"
+    ],
+    "nebuchadrezar": [
+      "nabukudracara"
+    ],
+    "rebels": [
+      "nabukudracara"
+    ],
+    "arkha": [
+      "nabukudracara",
+      "haldita"
+    ],
+    "nabunaita": [
+      "nabunaita",
+      "nabunaita"
+    ],
+    "nabonidus": [
+      "nabunaita"
+    ],
+    "last": [
+      "nabunaita"
+    ],
+    "new": [
+      "nabunaita"
+    ],
+    "empire": [
+      "nabunaita"
+    ],
+    "nāman": [
+      "nāman",
+      "nāman"
+    ],
+    "naama": [
+      "naama",
+      "naama"
+    ],
+    "written": [
+      "naama"
+    ],
+    "naamaa": [
+      "naama"
+    ],
+    "fem": [
+      "naama"
+    ],
+    "noun": [
+      "naama"
+    ],
+    "navama": [
+      "navama",
+      "navama"
+    ],
+    "ninth": [
+      "navama"
+    ],
+    "nāviyā": [
+      "nāviyā",
+      "nāviyā"
+    ],
+    "collection": [
+      "nāviyā"
+    ],
+    "ships": [
+      "nāviyā"
+    ],
+    "fleet": [
+      "nāviyā"
+    ],
+    "nas": [
+      "nas",
+      "nas"
+    ],
+    "nāh": [
+      "nāh",
+      "nāh"
+    ],
+    "nose": [
+      "nāh"
+    ],
+    "niy": [
+      "niy",
+      "niy"
+    ],
+    "nī": [
+      "nī",
+      "nī"
+    ],
+    "lead": [
+      "nī",
+      "nī"
+    ],
+    "bring": [
+      "nī",
+      "bar"
+    ],
+    "forward": [
+      "nī"
+    ],
+    "nij": [
+      "nij",
+      "nij"
+    ],
+    "nipadiy": [
+      "nipadiy",
+      "nipadiy"
+    ],
+    "pursuit": [
+      "nipadiy"
+    ],
+    "close": [
+      "nipadiy"
+    ],
+    "niyašādayam": [
+      "niyašādayam",
+      "niyašādayam"
+    ],
+    "nisāya": [
+      "nisāya",
+      "nisāya"
+    ],
+    "nūram": [
+      "nūram",
+      "nūram"
+    ],
+    "now": [
+      "nūram"
+    ],
+    "nyāka": [
+      "nyāka",
+      "nyāka"
+    ],
+    "pā": [
+      "pā",
+      "pā"
+    ],
+    "protect": [
+      "pā",
+      "bar"
+    ],
+    "sustain": [
+      "pā",
+      "bar"
+    ],
+    "guard": [
+      "pā"
+    ],
+    "onself": [
+      "pā"
+    ],
+    "mid": [
+      "pā",
+      "vaina",
+      "var"
+    ],
+    "abl": [
+      "pā"
+    ],
+    "paišiyāuvādā": [
+      "paišiyāuvādā",
+      "paišiyāuvādā"
+    ],
+    "pat": [
+      "pat",
+      "pat"
+    ],
+    "fly": [
+      "pat"
+    ],
+    "fall": [
+      "pat"
+    ],
+    "rise": [
+      "pat"
+    ],
+    "patiy": [
+      "patiy",
+      "patiy"
+    ],
+    "during": [
+      "patiy"
+    ],
+    "at": [
+      "patiy",
+      "patiy",
+      "patiy"
+    ],
+    "instr": [
+      "patiy"
+    ],
+    "loc": [
+      "patiy"
+    ],
+    "moreover": [
+      "patiy"
+    ],
+    "again": [
+      "patiy"
+    ],
+    "once": [
+      "patiy"
+    ],
+    "more": [
+      "patiy"
+    ],
+    "patikara": [
+      "patikara",
+      "patikara"
+    ],
+    "picture": [
+      "patikara"
+    ],
+    "likeness": [
+      "patikara"
+    ],
+    "patigrabanā": [
+      "patigrabanā",
+      "patigrabanā"
+    ],
+    "parthian": [
+      "patigrabanā",
+      "parθava",
+      "višpauzāti"
+    ],
+    "patipada": [
+      "patipada",
+      "patipada"
+    ],
+    "its": [
+      "patipada",
+      "šim"
+    ],
+    "patiš": [
+      "patiš",
+      "patiš"
+    ],
+    "towards": [
+      "patiš"
+    ],
+    "pātišuvari": [
+      "pātišuvari",
+      "pātišuvari"
+    ],
+    "patischorian": [
+      "pātišuvari"
+    ],
+    "paθi": [
+      "paθi",
+      "paθi"
+    ],
+    "way": [
+      "paθi"
+    ],
+    "path": [
+      "paθi"
+    ],
+    "para": [
+      "para",
+      "para"
+    ],
+    "paranam": [
+      "paranam",
+      "paranam"
+    ],
+    "formerly": [
+      "paranam",
+      "paruvam"
+    ],
+    "pariy": [
+      "pariy",
+      "pariy"
+    ],
+    "about": [
+      "pariy"
+    ],
+    "concerning": [
+      "pariy"
+    ],
+    "paru": [
+      "paru",
+      "paru"
+    ],
+    "paruva": [
+      "paruva",
+      "paruva"
+    ],
+    "former": [
+      "paruva"
+    ],
+    "eastern": [
+      "paruva"
+    ],
+    "paruvam": [
+      "paruvam",
+      "paruvam"
+    ],
+    "paruviyata": [
+      "paruviyata",
+      "paruviyata",
+      "paruviyata"
+    ],
+    "ago": [
+      "paruviyata"
+    ],
+    "paruzana": [
+      "paruzana",
+      "paruzana"
+    ],
+    "containing": [
+      "paruzana",
+      "visadahyu",
+      "vispazana"
+    ],
+    "kinds": [
+      "paruzana",
+      "vispazana"
+    ],
+    "parθava": [
+      "parθava",
+      "parθava"
+    ],
+    "parthia": [
+      "parθava"
+    ],
+    "parsa": [
+      "parsa",
+      "parsa"
+    ],
+    "examine": [
+      "parsa",
+      "parsa"
+    ],
+    "into": [
+      "parsa"
+    ],
+    "punish": [
+      "parsa"
+    ],
+    "pārsa": [
+      "pārsa",
+      "pārsa"
+    ],
+    "adj": [
+      "pārsa"
+    ],
+    "m": [
+      "pārsa",
+      "šakauri[m]",
+      "zranka"
+    ],
+    "persia": [
+      "pārsa"
+    ],
+    "pasā": [
+      "pasā",
+      "pasā"
+    ],
+    "pasāvā": [
+      "pasāvā",
+      "pasāvā"
+    ],
+    "thereafter": [
+      "pasāvā",
+      "hyāparam"
+    ],
+    "pitar": [
+      "pitar",
+      "pitar"
+    ],
+    "pirāva": [
+      "pirāva",
+      "pirāva"
+    ],
+    "river": [
+      "pirāva",
+      "rautah"
+    ],
+    "nile": [
+      "pirāva"
+    ],
+    "pisā": [
+      "pisā",
+      "pisā"
+    ],
+    "raft": [
+      "pisā"
+    ],
+    "piš": [
+      "piš",
+      "piš"
+    ],
+    "trim": [
+      "piš"
+    ],
+    "puntiya": [
+      "puntiya",
+      "puntiya"
+    ],
+    "puθra": [
+      "puθra",
+      "puθra"
+    ],
+    "son": [
+      "puθra"
+    ],
+    "fra": [
+      "fra",
+      "fra",
+      "hanj"
+    ],
+    "fratama": [
+      "fratama",
+      "fratama"
+    ],
+    "first": [
+      "fratama"
+    ],
+    "foremost": [
+      "fratama"
+    ],
+    "frāda": [
+      "frāda",
+      "frāda"
+    ],
+    "margian": [
+      "frāda",
+      "mārgava"
+    ],
+    "framatār": [
+      "framatār",
+      "framatār"
+    ],
+    "master": [
+      "framatār"
+    ],
+    "lord": [
+      "framatār"
+    ],
+    "framānā": [
+      "framānā",
+      "framānā"
+    ],
+    "command": [
+      "framānā",
+      "stā"
+    ],
+    "precept": [
+      "framānā"
+    ],
+    "fravarti": [
+      "fravarti",
+      "fravarti"
+    ],
+    "fraharavam": [
+      "fraharavam",
+      "fraharavam"
+    ],
+    "altogether": [
+      "fraharavam"
+    ],
+    "all": [
+      "fraharavam",
+      "viiθaibaiša",
+      "viθabaišacā",
+      "visa",
+      "visadahyu",
+      "vispazana"
+    ],
+    "bāxtrī": [
+      "bāxtrī",
+      "bāxtrī"
+    ],
+    "bactria": [
+      "bāxtrī"
+    ],
+    "baga": [
+      "baga",
+      "baga"
+    ],
+    "bagābigna": [
+      "bagābigna",
+      "bagābigna"
+    ],
+    "vidarna": [
+      "bagābigna",
+      "vidarna",
+      "vidarna"
+    ],
+    "bagabuxša": [
+      "bagabuxša",
+      "bagabuxša"
+    ],
+    "megabyzos": [
+      "bagabuxša"
+    ],
+    "defeat": [
+      "bagabuxša"
+    ],
+    "bāgayādi": [
+      "bāgayādi",
+      "bāgayādi"
+    ],
+    "sept": [
+      "bāgayādi"
+    ],
+    "bāji": [
+      "bāji",
+      "bāji"
+    ],
+    "tribute": [
+      "bāji"
+    ],
+    "band": [
+      "band",
+      "band"
+    ],
+    "bind": [
+      "band"
+    ],
+    "bandaka": [
+      "bandaka",
+      "bandaka"
+    ],
+    "servant": [
+      "bandaka",
+      "šakauri[m]"
+    ],
+    "bābiru": [
+      "bābiru",
+      "bābiru"
+    ],
+    "babylon": [
+      "bābiru"
+    ],
+    "bābiruviya": [
+      "bābiruviya",
+      "bābiruviya"
+    ],
+    "bar": [
+      "bar",
+      "bar"
+    ],
+    "bear": [
+      "bar",
+      "bar"
+    ],
+    "back": [
+      "bar"
+    ],
+    "proffer": [
+      "bar"
+    ],
+    "grant": [
+      "bar"
+    ],
+    "bardiya": [
+      "bardiya",
+      "bardiya"
+    ],
+    "brother": [
+      "bardiya",
+      "brātar"
+    ],
+    "bū": [
+      "bū",
+      "bū"
+    ],
+    "būmī": [
+      "būmī",
+      "būmī"
+    ],
+    "brātar": [
+      "brātar",
+      "brātar"
+    ],
+    "mā": [
+      "mā",
+      "mā"
+    ],
+    "extend": [
+      "mā"
+    ],
+    "e": [
+      "mā"
+    ],
+    "ancient": [
+      "mā"
+    ],
+    "maka": [
+      "maka",
+      "maka"
+    ],
+    "magu": [
+      "magu",
+      "magu"
+    ],
+    "tribe": [
+      "magu"
+    ],
+    "celebrated": [
+      "magu"
+    ],
+    "priestcraft": [
+      "magu"
+    ],
+    "magian": [
+      "magu"
+    ],
+    "maciya": [
+      "maciya",
+      "maciya"
+    ],
+    "mātya": [
+      "mātya",
+      "mātya"
+    ],
+    "lest": [
+      "mātya"
+    ],
+    "maθišta": [
+      "maθišta",
+      "maθišta"
+    ],
+    "greatest": [
+      "maθišta"
+    ],
+    "chief": [
+      "maθišta"
+    ],
+    "lieader": [
+      "maθišta"
+    ],
+    "māda": [
+      "māda",
+      "māda"
+    ],
+    "man": [
+      "man",
+      "man",
+      "martiya"
+    ],
+    "think": [
+      "man"
+    ],
+    "remain": [
+      "man"
+    ],
+    "māniya": [
+      "māniya",
+      "māniya"
+    ],
+    "estate": [
+      "māniya"
+    ],
+    "mar": [
+      "mar",
+      "mar"
+    ],
+    "die": [
+      "mar"
+    ],
+    "mārgava": [
+      "mārgava",
+      "mārgava"
+    ],
+    "margu": [
+      "margu",
+      "margu"
+    ],
+    "margiana": [
+      "margu"
+    ],
+    "marduniya": [
+      "marduniya",
+      "marduniya"
+    ],
+    "mardonius": [
+      "marduniya"
+    ],
+    "mardāh": [
+      "mardāh",
+      "mardāh"
+    ],
+    "maškā": [
+      "maškā",
+      "maškā"
+    ],
+    "skin": [
+      "maškā"
+    ],
+    "float": [
+      "maškā"
+    ],
+    "māh": [
+      "māh",
+      "māh"
+    ],
+    "gen": [
+      "māh"
+    ],
+    "miθra": [
+      "miθra",
+      "miθra"
+    ],
+    "mithra": [
+      "miθra"
+    ],
+    "muθ": [
+      "muθ",
+      "muθ"
+    ],
+    "flee": [
+      "muθ",
+      "har"
+    ],
+    "mudrāya": [
+      "mudrāya",
+      "mudrāya"
+    ],
+    "egyptian": [
+      "mudrāya"
+    ],
+    "egypt": [
+      "mudrāya"
+    ],
+    "yautiyā": [
+      "yautiyā",
+      "yautiyā"
+    ],
+    "yauna": [
+      "yauna",
+      "yauna"
+    ],
+    "ionian": [
+      "yauna"
+    ],
+    "ionians": [
+      "yauna"
+    ],
+    "while": [
+      "yātā"
+    ],
+    "when": [
+      "yātā",
+      "yaθā",
+      "yadiy"
+    ],
+    "yaθā": [
+      "yaθā",
+      "yaθā"
+    ],
+    "order": [
+      "yaθā"
+    ],
+    "yad": [
+      "yad",
+      "yad"
+    ],
+    "yadāyā": [
+      "yadāyā",
+      "yadāyā"
+    ],
+    "allegiance": [
+      "yadāyā"
+    ],
+    "yadiy": [
+      "yadiy",
+      "yadiy"
+    ],
+    "if": [
+      "yadiy"
+    ],
+    "yāna": [
+      "yāna",
+      "yāna"
+    ],
+    "favor": [
+      "yāna",
+      "vašna"
+    ],
+    "yanaiy": [
+      "yanaiy",
+      "yanaiy"
+    ],
+    "whereon": [
+      "yanaiy"
+    ],
+    "reach": [
+      "yam"
+    ],
+    "attain": [
+      "yam"
+    ],
+    "appropriate": [
+      "yam"
+    ],
+    "oneself": [
+      "yam"
+    ],
+    "yāvā": [
+      "yāvā",
+      "yāvā"
+    ],
+    "yuviyā": [
+      "yuviyā",
+      "yuviyā"
+    ],
+    "canal": [
+      "yuviyā"
+    ],
+    "raucah": [
+      "raucah",
+      "raucah"
+    ],
+    "day": [
+      "raucah"
+    ],
+    "rautah": [
+      "rautah",
+      "rautah"
+    ],
+    "raxā": [
+      "raxā",
+      "raxā"
+    ],
+    "ragā": [
+      "ragā",
+      "ragā"
+    ],
+    "rad": [
+      "rad",
+      "rad"
+    ],
+    "leave": [
+      "rad",
+      "rad"
+    ],
+    "rāð": [
+      "rāð",
+      "rāð"
+    ],
+    "rasa": [
+      "rasa-",
+      "rasa-"
+    ],
+    "rāsta": [
+      "rāsta",
+      "rāsta"
+    ],
+    "true": [
+      "rāsta",
+      "hašiya"
+    ],
+    "vā": [
+      "vā",
+      "vā"
+    ],
+    "vaina": [
+      "vaina",
+      "vaina"
+    ],
+    "vaumisa": [
+      "vaumisa",
+      "vaumisa"
+    ],
+    "leader": [
+      "vaumisa"
+    ],
+    "vayam": [
+      "vayam",
+      "vayam"
+    ],
+    "vāyaspāra": [
+      "vāyaspāra",
+      "vāyaspāra"
+    ],
+    "intaphernes": [
+      "vāyaspāra",
+      "vindafarnah"
+    ],
+    "var": [
+      "var",
+      "var"
+    ],
+    "choose": [
+      "var"
+    ],
+    "convince": [
+      "var"
+    ],
+    "varkāna": [
+      "varkāna",
+      "varkāna"
+    ],
+    "hyrcania": [
+      "varkāna"
+    ],
+    "vart": [
+      "vart",
+      "vart"
+    ],
+    "turn": [
+      "vart"
+    ],
+    "appeal": [
+      "vart"
+    ],
+    "vardana": [
+      "vardana",
+      "vardana"
+    ],
+    "vasiy": [
+      "vasiy",
+      "vasiy"
+    ],
+    "extent": [
+      "vasiy"
+    ],
+    "large": [
+      "vasiy"
+    ],
+    "numbers": [
+      "vasiy"
+    ],
+    "utterly": [
+      "vasiy"
+    ],
+    "vašna": [
+      "vašna",
+      "vašna"
+    ],
+    "will": [
+      "vašna"
+    ],
+    "vazarka": [
+      "vazarka",
+      "vazarka"
+    ],
+    "mighty": [
+      "vazarka"
+    ],
+    "vahauka": [
+      "vahauka",
+      "vahauka"
+    ],
+    "ardumanish": [
+      "vahauka"
+    ],
+    "vahyazdāta": [
+      "vahyazdāta",
+      "vahyazdāta"
+    ],
+    "viy": [
+      "viy",
+      "viy",
+      "san"
+    ],
+    "apart": [
+      "viy"
+    ],
+    "viθ": [
+      "viθ",
+      "viθ"
+    ],
+    "royal": [
+      "viθ",
+      "viθ",
+      "viθ",
+      "viiθaibaiša",
+      "viθabaišacā",
+      "viθabaišacā"
+    ],
+    "court": [
+      "viθ"
+    ],
+    "race": [
+      "viθ",
+      "haxāmanišiya"
+    ],
+    "viiθaibaiša": [
+      "viiθaibaiša",
+      "viiθaibaiša"
+    ],
+    "gods": [
+      "viiθaibaiša"
+    ],
+    "house": [
+      "viiθaibaiša",
+      "viyanā[sa]ya"
+    ],
+    "viθabaišacā": [
+      "viθabaišacā",
+      "viθabaišacā"
+    ],
+    "things": [
+      "viθabaišacā"
+    ],
+    "residences": [
+      "viθabaišacā",
+      "viθabaišacā"
+    ],
+    "relating": [
+      "viθabaišacā"
+    ],
+    "vindafarnah": [
+      "vindafarnah",
+      "vindafarnah"
+    ],
+    "hydarnes": [
+      "vidarna"
+    ],
+    "viyaxna": [
+      "viyaxna",
+      "viyaxna"
+    ],
+    "feb": [
+      "viyaxna"
+    ],
+    "march": [
+      "viyaxna"
+    ],
+    "viyanā": [
+      "viyanā[sa]ya"
+    ],
+    "sa": [
+      "viyanā[sa]ya"
+    ],
+    "ya": [
+      "viyanā[sa]ya"
+    ],
+    "whoever": [
+      "viyanā[sa]ya"
+    ],
+    "injured": [
+      "viyanā[sa]ya"
+    ],
+    "viyanāsaya": [
+      "viyanā[sa]ya"
+    ],
+    "viyanāya": [
+      "viyanā[sa]ya"
+    ],
+    "vivāna": [
+      "vivāna",
+      "vivāna"
+    ],
+    "visa": [
+      "visa",
+      "visa"
+    ],
+    "visadahyu": [
+      "visadahyu",
+      "visadahyu"
+    ],
+    "vispazana": [
+      "vispazana",
+      "vispazana"
+    ],
+    "vištāspa": [
+      "vištāspa",
+      "vištāspa"
+    ],
+    "hystaspes": [
+      "vištāspa"
+    ],
+    "višpauzāti": [
+      "višpauzāti",
+      "višpauzāti"
+    ],
+    "saka": [
+      "saka",
+      "saka"
+    ],
+    "scythian": [
+      "saka",
+      "skunxa"
+    ],
+    "scythia": [
+      "saka",
+      "sakā"
+    ],
+    "sakā": [
+      "sakā",
+      "sakā"
+    ],
+    "san": [
+      "san",
+      "san"
+    ],
+    "suffix": [
+      "san"
+    ],
+    "sar": [
+      "sar",
+      "sar"
+    ],
+    "asariyatā": [
+      "asariyatā",
+      "asariyatā"
+    ],
+    "sikayauvatī": [
+      "sikayauvatī",
+      "sikayauvatī"
+    ],
+    "suguda": [
+      "suguda",
+      "suguda"
+    ],
+    "sogdiana": [
+      "suguda"
+    ],
+    "skunxa": [
+      "skunxa",
+      "skunxa"
+    ],
+    "skudra": [
+      "skudra",
+      "skudra"
+    ],
+    "stā": [
+      "stā",
+      "stā"
+    ],
+    "stand": [
+      "stā"
+    ],
+    "enjoin": [
+      "stā"
+    ],
+    "stāna": [
+      "stāna",
+      "stāna"
+    ],
+    "star": [
+      "star",
+      "star"
+    ],
+    "sin": [
+      "star"
+    ],
+    "sparda": [
+      "sparda",
+      "sparda"
+    ],
+    "according": [
+      "sparda"
+    ],
+    "lassen": [
+      "sparda"
+    ],
+    "sardis": [
+      "sparda"
+    ],
+    "ša": [
+      "ša",
+      "ša"
+    ],
+    "šaiy": [
+      "šaiy",
+      "šaiy"
+    ],
+    "him": [
+      "šaiy",
+      "šim"
+    ],
+    "šakauri": [
+      "šakauri[m]",
+      "šakauri[m]"
+    ],
+    "serf": [
+      "šakauri[m]"
+    ],
+    "retinue": [
+      "šakauri[m]"
+    ],
+    "slanderer": [
+      "šakauri[m]"
+    ],
+    "šakaurim": [
+      "šakauri[m]"
+    ],
+    "šām": [
+      "šām",
+      "šām"
+    ],
+    "šim": [
+      "šim",
+      "šim"
+    ],
+    "šiyāti": [
+      "šiyāti",
+      "šiyāti"
+    ],
+    "being": [
+      "šiyāti"
+    ],
+    "šiyu": [
+      "šiyu",
+      "šiyu"
+    ],
+    "šiš": [
+      "šiš",
+      "šiš"
+    ],
+    "zāzāna": [
+      "zāzāna",
+      "zāzāna"
+    ],
+    "zūrakara": [
+      "zūrakara",
+      "zūrakara"
+    ],
+    "doing": [
+      "zūrakara"
+    ],
+    "wrong": [
+      "zūrakara",
+      "zūrah"
+    ],
+    "zūrah": [
+      "zūrah",
+      "zūrah"
+    ],
+    "deceit": [
+      "zūrah"
+    ],
+    "zranka": [
+      "zranka",
+      "zranka"
+    ],
+    "hainā": [
+      "hainā",
+      "hainā"
+    ],
+    "host": [
+      "hainā"
+    ],
+    "array": [
+      "hainā"
+    ],
+    "evil": [
+      "hainā"
+    ],
+    "hauv": [
+      "hauv",
+      "hauv"
+    ],
+    "he": [
+      "hauv"
+    ],
+    "haumavarka": [
+      "haumavarka",
+      "haumavarka"
+    ],
+    "designating": [
+      "haumavarka"
+    ],
+    "part": [
+      "haumavarka"
+    ],
+    "nra": [
+      "haumavarka"
+    ],
+    "3": [
+      "haumavarka"
+    ],
+    "haxāmaniš": [
+      "haxāmaniš",
+      "haxāmaniš"
+    ],
+    "achaemenes": [
+      "haxāmaniš",
+      "haxāmanišiya"
+    ],
+    "haxāmanišiya": [
+      "haxāmanišiya",
+      "haxāmanišiya"
+    ],
+    "achaemenidan": [
+      "haxāmanišiya"
+    ],
+    "hagmatāna": [
+      "hagmatāna",
+      "hagmatāna"
+    ],
+    "ecbatana": [
+      "hagmatāna"
+    ],
+    "hanj": [
+      "hanj",
+      "hanj"
+    ],
+    "hale": [
+      "hanj"
+    ],
+    "prison": [
+      "hanj"
+    ],
+    "inflict": [
+      "hanj"
+    ],
+    "some": [
+      "hanj"
+    ],
+    "form": [
+      "hanj"
+    ],
+    "penalty": [
+      "hanj"
+    ],
+    "had": [
+      "had",
+      "had"
+    ],
+    "sit": [
+      "had"
+    ],
+    "establish": [
+      "had"
+    ],
+    "hadā": [
+      "hadā",
+      "hadā"
+    ],
+    "hadiš": [
+      "hadiš",
+      "hadiš"
+    ],
+    "handugā": [
+      "handugā",
+      "handugā"
+    ],
+    "proclamation": [
+      "handugā"
+    ],
+    "record": [
+      "handugā"
+    ],
+    "hapariya": [
+      "hapariya-",
+      "hapariya-"
+    ],
+    "reverence": [
+      "hapariya-"
+    ],
+    "respect": [
+      "hapariya-"
+    ],
+    "ham": [
+      "ham",
+      "ham"
+    ],
+    "hama": [
+      "hama",
+      "hama"
+    ],
+    "same": [
+      "hama",
+      "hama"
+    ],
+    "hamātar": [
+      "hamātar",
+      "hamātar"
+    ],
+    "having": [
+      "hamātar",
+      "hamapitar"
+    ],
+    "mother": [
+      "hamātar"
+    ],
+    "hamapitar": [
+      "hamapitar",
+      "hamapitar"
+    ],
+    "hamara": [
+      "hamara",
+      "hamara"
+    ],
+    "foe": [
+      "hamara"
+    ],
+    "hamarana": [
+      "hamarana",
+      "hamarana"
+    ],
+    "conflict": [
+      "hamarana"
+    ],
+    "hamiθriya": [
+      "hamiθriya",
+      "hamiθriya"
+    ],
+    "rebellious": [
+      "hamiθriya"
+    ],
+    "har": [
+      "har",
+      "har"
+    ],
+    "haraiva": [
+      "haraiva",
+      "haraiva"
+    ],
+    "aria": [
+      "haraiva"
+    ],
+    "harauvatī": [
+      "harauvatī",
+      "harauvatī"
+    ],
+    "haruva": [
+      "haruva",
+      "haruva"
+    ],
+    "whole": [
+      "haruva"
+    ],
+    "harabāna": [
+      "harabāna",
+      "harabāna"
+    ],
+    "tongue": [
+      "harabāna"
+    ],
+    "haldita": [
+      "haldita",
+      "haldita"
+    ],
+    "hašiya": [
+      "hašiya",
+      "hašiya"
+    ],
+    "hindu": [
+      "hindu",
+      "hindu"
+    ],
+    "india": [
+      "hindu"
+    ],
+    "hya": [
+      "hya",
+      "hya"
+    ],
+    "hyāparam": [
+      "hyāparam",
+      "hyāparam"
+    ],
+    "thereupon": [
+      "hyāparam"
+    ]
+  }
+}
