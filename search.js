@@ -8,12 +8,10 @@ fetch("Wörterbuch_Tolman.json")
     data.entries = Object.values(d);  
     entryMap = {};
     for (let e of data.entries) {
-      entryMap[e.lemma] = e;
-}
+      entryMap[e.lemma] = e;}
     buildAlphabet();
     buildPosFilter();
-    toggleFilters();
-  });
+    toggleFilters();});
 
 
 function searchWord(){
@@ -29,8 +27,7 @@ function searchWord(){
         if(activeLetter){
             let lemmaMatch = e.lemma && e.lemma.toLowerCase().startsWith(activeLetter)
             let variantMatch = e.search_forms && e.search_forms.some(v => v.toLowerCase().startsWith(activeLetter))
-            if(!lemmaMatch && !variantMatch) match = false
-        }
+            if(!lemmaMatch && !variantMatch) match = false}
 
         if(!match) continue
 
@@ -42,13 +39,11 @@ function searchWord(){
 
         let variantMatch =
           e.search_forms?.some(v =>
-              v.toLowerCase() === q
-          );
+              v.toLowerCase() === q);
 
       let prefixMatch =
           e.search_forms?.some(v =>
-              v.toLowerCase().startsWith(q)
-          );
+              v.toLowerCase().startsWith(q));
 
       let defMatch =
         e.senses?.some(s => {
@@ -56,11 +51,9 @@ function searchWord(){
               .toLowerCase()
               .split(/\s+/);   
 
-          return words.includes(q);
-    });
+          return words.includes(q);});
 
-      match = textMatch || variantMatch || prefixMatch || defMatch;
-}
+      match = textMatch || variantMatch || prefixMatch || defMatch;}
 
         if(!match) continue
         if(posFilter){
@@ -68,17 +61,13 @@ function searchWord(){
 
             let parts = e.morphology.pos.split(";").map(p => p.trim())
 
-            if(!parts.includes(posFilter)) continue
-        }
+            if(!parts.includes(posFilter)) continue}
         if(genderFilter){
-            if(!e.morphology || e.morphology.gender !== genderFilter) continue
-        }
+            if(!e.morphology || e.morphology.gender !== genderFilter) continue}
 
-        results.push(e)
-    }
+        results.push(e)}
 
-    displayResults(results)
-}
+    displayResults(results)}
 
 function displayResults(results) {
   let html = "";
@@ -86,17 +75,14 @@ function displayResults(results) {
     html += `<div class="result" onclick='showEntry(${JSON.stringify(e)})'>
                <b>${e.lemma}</b>
 
-             </div>`;
-  }
-  document.getElementById("results").innerHTML = html;
-}
+             </div>`;}
+  document.getElementById("results").innerHTML = html;}
 const caseMap = {
   loc: "locative",
   acc: "accusative",
   dat: "dative",
   gen: "genitive",
-  inst: "instrumental"
-};
+  inst: "instrumental"};
 
 function normalizePos(posString) {
   if (!posString) return "";
@@ -105,8 +91,7 @@ function normalizePos(posString) {
 
   parts.sort((a, b) => b.length - a.length);
 
-  return parts[0];
-}
+  return parts[0];}
 
 function showEntry(e) {
   let html = `<h2>${e.lemma}</h2>`;
@@ -119,21 +104,17 @@ function showEntry(e) {
     document.getElementById("entry").innerHTML = html;
 
     window.scrollTo({ top: 0, behavior: "smooth" });
-    return;
-}
+    return;}
 
   if (e.morphology && e.morphology.pos) {
-    globalPos = e.morphology.pos.split(";").map(p => p.trim());
-  }
+    globalPos = e.morphology.pos.split(";").map(p => p.trim());}
 
   if (e.variants && e.variants.length > 0) {
-    html += `<p><b>Variants:</b> ${e.variants.join(", ")}</p>`;
-}
+    html += `<p><b>Variants:</b> ${e.variants.join(", ")}</p>`;}
 
   if (e.morphology) {
     if (e.morphology.pos) html += `<p><b>POS:</b> ${normalizePos(e.morphology.pos)}</p>`;
-    if (e.morphology.gender) html += `<p><b>Gender:</b> ${e.morphology.gender}</p>`;
-  }
+    if (e.morphology.gender) html += `<p><b>Gender:</b> ${e.morphology.gender}</p>`;}
 
   if (e.senses && e.senses.length) {
     html += "<ol>";
@@ -149,12 +130,10 @@ function showEntry(e) {
       if (globalPos.length > 1) {
         showPos = true;
       } else if (sensePos.length && sensePos[0] !== globalPos[0]) {
-        showPos = true;
-      }
+        showPos = true;}
 
       if (s.pos && s.pos !== e.morphology.pos) {
-        def += ` <b>[${s.pos}]</b>`;
-}
+        def += ` <b>[${s.pos}]</b>`;}
 
       if (s.construction) {
         if (s.construction.type === "with prefix")
@@ -166,36 +145,30 @@ function showEntry(e) {
         if (s.construction.type === "with word")
           def += ` <i>(with ${s.construction.value})</i>`;
         if (s.construction.type === "composition")
-          def += ` <i>(in composition)</i>`;
-        }
+          def += ` <i>(in composition)</i>`;}
 
-      html += `<li>${def}</li>`;
-    }
+      html += `<li>${def}</li>`;}
 
-    html += "</ol>";
-  }
+    html += "</ol>";}
 
   document.getElementById("entry").innerHTML = html;
-  window.scrollTo({ top: 0, behavior: "smooth" })
-}
+  window.scrollTo({ top: 0, behavior: "smooth" })}
+
 function openEntry(lemma) {
   let entry = entryMap[lemma];
 
   if (!entry) {
     console.log("Not found:", lemma);
-    return;
-  }
+    return;}
 
-  showEntry(entry);
-}
+  showEntry(entry);}
+
 function buildAlphabet() {
   let letters = "AĀIUKXGCJTΘDNPFBMYRVSŠZH";
   let html = "";
   for (let l of letters) {
-    html += `<button id="letter-${l}" onclick="searchLetter('${l}')">${l}</button> `;
-  }
-  document.getElementById("alphabet").innerHTML = html;
-}
+    html += `<button id="letter-${l}" onclick="searchLetter('${l}')">${l}</button> `;}
+  document.getElementById("alphabet").innerHTML = html;}
 
 function searchLetter(letter){
 
@@ -208,8 +181,7 @@ function searchLetter(letter){
 
     document.getElementById("letter-" + letter).classList.add("active")
 
-    searchWord()  
-}
+    searchWord()  }
 
 function clearSearch(){
 
@@ -223,8 +195,7 @@ function clearSearch(){
         .forEach(b => b.classList.remove("active"))
 
     displayResults([])
-    document.getElementById("entry").innerHTML = ""
-}
+    document.getElementById("entry").innerHTML = ""}
 
 function toggleFilters() {
   let mode = document.getElementById("searchMode").value;
@@ -236,9 +207,7 @@ function toggleFilters() {
     alphabet.style.display = "block";
   } else {
     filters.style.display = "none";
-    alphabet.style.display = "none";
-  }
-}
+    alphabet.style.display = "none";}}
 
 function buildPosFilter(){
 
@@ -248,17 +217,13 @@ function buildPosFilter(){
     if(e.morphology && e.morphology.pos){
       
       let parts = e.morphology.pos.split(";")
-      parts.forEach(p => posSet.add(p.trim()))
-    }
-  }
+      parts.forEach(p => posSet.add(p.trim()))}}
 
   let select = document.getElementById("posFilter")
 
   let html = `<option value="">All POS</option>`
 
   Array.from(posSet).sort().forEach(p => {
-    html += `<option value="${p}">${p}</option>`
-  })
+    html += `<option value="${p}">${p}</option>`})
 
-  select.innerHTML = html
-}
+  select.innerHTML = html}

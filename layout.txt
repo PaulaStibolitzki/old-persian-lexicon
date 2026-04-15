@@ -49,11 +49,20 @@ match = e.definition && e.definition.toLowerCase().includes(query)}
 else{
 match =
 (e.lemma && e.lemma.toLowerCase().startsWith(query)) ||
+
 (e.definition && e.definition.toLowerCase().includes(query))}
 
 }if(!match) continue
 
 if(posFilter && e.pos !== posFilter) continue
+
+(e.definition && e.definition.toLowerCase().includes(query))}}
+
+if(!match) continue
+
+
+if(posFilter && e.pos !== posFilter) continue
+
 if(genderFilter && e.gender !== genderFilter) continue
 
 results.push(e)

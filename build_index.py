@@ -72,8 +72,7 @@ for entry in root.findall(".//tei:entry", NS):
       "pos": pos,
       "gender": gender,
       "construction": constructions,
-      "definition": definition
-}
+      "definition": definition}
 
     text = lemma + " " + definition
     words = re.findall(r"\w+", text.lower())

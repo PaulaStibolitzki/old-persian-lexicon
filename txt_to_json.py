@@ -5,7 +5,6 @@ from itertools import product
 input_file = "C:/Users/paula/Documents/JMU/5/WB/Wortliste_Tolman.txt"
 output_file = "C:/Users/paula/Documents/JMU/5/WB/Wörterbuch_Tolman.json"
 
-# POS Mapping
 pos_map = {
     "pers. pron.": "personal pronoun",
     "demon. pron. used as a relative": "demonstrative pronoun used as a relative",
@@ -30,14 +29,12 @@ pos_map = {
     "postpos.": "postposition",
     "verbal prefix": "verbal prefix",
     "num.": "numeral",
-    "part. pass.": "passive participle"
-}
+    "part. pass.": "passive participle"}
 
 GENDER_MAP = {
     "m.": "masculine",
     "f.": "feminine",
-    "n.": "neuter"
-}
+    "n.": "neuter"}
 
 SEE_RE = re.compile(r"\[see\s+([^\]]+)\]", re.IGNORECASE)
 def extract_see(def_text):
@@ -46,8 +43,6 @@ def extract_see(def_text):
 
 def split_lemma(lemma_raw):
     lemma_raw = lemma_raw.lstrip("\ufeff").strip()
-
-    # echte Varianten für Anzeige
     display_variants = []
     if "/" in lemma_raw:
         parts = [p.strip() for p in lemma_raw.split("/")]
@@ -56,12 +51,9 @@ def split_lemma(lemma_raw):
     else:
         slash_parts = [lemma_raw]
 
-    # Suchformen erzeugen (inkl. [ ])
     all_forms = []
-
     for part in slash_parts:
         pieces = re.split(r'(\[.*?\])', part)
-
         options = []
         for piece in pieces:
             if piece.startswith('[') and piece.endswith(']'):
@@ -108,15 +100,13 @@ def parse_construction(morph_raw):
     morph_raw = morph_raw.strip().lower()
     if "in composition" in morph_raw:
       return {
-          "type": "composition"
-    }
+          "type": "composition"}
 
     match = re.search(r"with prefix\s+([a-zāīūθš]+)", morph_raw)
     if match:
         return {
             "type": "with prefix",
-            "value": match.group(1)
-        }
+            "value": match.group(1) }
     
     match = re.search(r"with\s+(loc|acc|dat|gen|inst|abl|voc|ins|locative|accusative|dative|genitive|instrumental)", morph_raw)
     if match:
@@ -128,15 +118,13 @@ def parse_construction(morph_raw):
             "genitive": "gen",
             "instrumental": "inst",
             "ablative": "abl",
-            "vocative": "voc"
-        }
+            "vocative": "voc" }
 
         case = case_map.get(case, case)
 
         return {
             "type": "with case",
-            "case": case
-        }
+            "case": case}
 
     return None
 
@@ -152,15 +140,13 @@ def split_senses(def_text, morph_raw):
         senses.append({
             "definition": part,
             "pos": parse_pos(morph_raw),
-            "construction": parse_construction(morph_raw)
-        })
+            "construction": parse_construction(morph_raw)  })
 
     if not senses:
         senses.append({
             "definition": def_text.strip(),
             "pos": parse_pos(morph_raw),
-            "construction": parse_construction(morph_raw)
-        })
+            "construction": parse_construction(morph_raw)})
 
     return senses
 
@@ -205,8 +191,7 @@ with open(input_file, encoding="utf-8-sig") as f:
               "variants": display_variants if display_variants else None,  
               "morphology": {},
               "see": see_target,
-              "is_cross_reference": see_target is not None
-}
+              "is_cross_reference": see_target is not None}
 
         entry = entries_dict[lemma]
 
