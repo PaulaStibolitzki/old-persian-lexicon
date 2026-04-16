@@ -91,8 +91,8 @@
       }
     ],
     "search_forms": [
-      "ainaira",
-      "aina"
+      "aina",
+      "ainaira"
     ],
     "variants": null,
     "morphology": {
@@ -1903,8 +1903,8 @@
       }
     ],
     "search_forms": [
-      "ucašama",
-      "cašama"
+      "cašama",
+      "ucašama"
     ],
     "variants": null,
     "morphology": {},
@@ -2184,8 +2184,8 @@
       }
     ],
     "search_forms": [
-      "uyamā",
-      "uā"
+      "uā",
+      "uyamā"
     ],
     "variants": null,
     "morphology": {
@@ -5082,7 +5082,7 @@
     ],
     "variants": null,
     "morphology": {},
-    "see": "viyanā[sa",
+    "see": "viyanā[sa]ya",
     "is_cross_reference": true
   },
   {
@@ -7780,28 +7780,6 @@
     "is_cross_reference": false
   },
   {
-    "lemma": "sar",
-    "senses": [],
-    "search_forms": [
-      "sar"
-    ],
-    "variants": null,
-    "morphology": {},
-    "see": "akariyantā",
-    "is_cross_reference": true
-  },
-  {
-    "lemma": "asariyatā",
-    "senses": [],
-    "search_forms": [
-      "asariyatā"
-    ],
-    "variants": null,
-    "morphology": {},
-    "see": "akariyantā",
-    "is_cross_reference": true
-  },
-  {
     "lemma": "sikayauvatī",
     "senses": [
       {
@@ -8022,8 +8000,8 @@
       }
     ],
     "search_forms": [
-      "šakaurim",
-      "šakauri"
+      "šakauri",
+      "šakaurim"
     ],
     "variants": null,
     "morphology": {},

@@ -50,8 +50,8 @@
       "id": "aina[ira]",
       "lemma": "aina[ira]",
       "search_forms": [
-        "aina",
-        "ainaira"
+        "ainaira",
+        "aina"
       ],
       "pos": "noun",
       "gender": "masculine",
@@ -117,8 +117,8 @@
       "id": "āgar[tar]",
       "lemma": "āgar[tar]",
       "search_forms": [
-        "āgartar",
-        "āgar"
+        "āgar",
+        "āgartar"
       ],
       "pos": "noun",
       "gender": "masculine",
@@ -608,8 +608,8 @@
       "lemma": "ardaxcašc(?)a",
       "search_forms": [
         "ardaxcašc(?)a",
-        "ardaxcašc?a",
-        "ardaxcašca"
+        "ardaxcašca",
+        "ardaxcašc?a"
       ],
       "pos": "",
       "gender": "",
@@ -796,8 +796,8 @@
       "id": "avaθāštā pari[ba]rā",
       "lemma": "avaθāštā pari[ba]rā",
       "search_forms": [
-        "avaθāštā parirā",
-        "avaθāštā paribarā"
+        "avaθāštā paribarā",
+        "avaθāštā parirā"
       ],
       "pos": "",
       "gender": "",
@@ -1051,8 +1051,8 @@
       "id": "[u]cašama",
       "lemma": "[u]cašama",
       "search_forms": [
-        "cašama",
-        "ucašama"
+        "ucašama",
+        "cašama"
       ],
       "pos": "",
       "gender": "",
@@ -2170,9 +2170,9 @@
       "id": "θakata(ma)",
       "lemma": "θakata(ma)",
       "search_forms": [
-        "θakata(ma)",
+        "θakata",
         "θakatama",
-        "θakata"
+        "θakata(ma)"
       ],
       "pos": "participle future passive/participle present active",
       "gender": "",
@@ -4187,8 +4187,8 @@
       "id": "viyanā[sa]ya",
       "lemma": "viyanā[sa]ya",
       "search_forms": [
-        "viyanāsaya",
-        "viyanāya"
+        "viyanāya",
+        "viyanāsaya"
       ],
       "pos": "",
       "gender": "",
@@ -4293,28 +4293,6 @@
       "gender": "",
       "construction": [],
       "definition": "to destroy (with suffix viy)"
-    },
-    "sar": {
-      "id": "sar",
-      "lemma": "sar",
-      "search_forms": [
-        "sar"
-      ],
-      "pos": "",
-      "gender": "",
-      "construction": [],
-      "definition": ""
-    },
-    "asariyatā": {
-      "id": "asariyatā",
-      "lemma": "asariyatā",
-      "search_forms": [
-        "asariyatā"
-      ],
-      "pos": "",
-      "gender": "",
-      "construction": [],
-      "definition": ""
     },
     "sikayauvatī": {
       "id": "sikayauvatī",
@@ -4433,8 +4411,8 @@
       "id": "šakauri[m]",
       "lemma": "šakauri[m]",
       "search_forms": [
-        "šakauri",
-        "šakaurim"
+        "šakaurim",
+        "šakauri"
       ],
       "pos": "",
       "gender": "",
@@ -6290,10 +6268,10 @@
       "šām",
       "šiš"
     ],
-    "parirā": [
+    "paribarā": [
       "avaθāštā pari[ba]rā"
     ],
-    "paribarā": [
+    "parirā": [
       "avaθāštā pari[ba]rā"
     ],
     "avadā": [
@@ -9006,10 +8984,10 @@
     "injured": [
       "viyanā[sa]ya"
     ],
-    "viyanāsaya": [
+    "viyanāya": [
       "viyanā[sa]ya"
     ],
-    "viyanāya": [
+    "viyanāsaya": [
       "viyanā[sa]ya"
     ],
     "vivāna": [
@@ -9061,14 +9039,6 @@
     ],
     "suffix": [
       "san"
-    ],
-    "sar": [
-      "sar",
-      "sar"
-    ],
-    "asariyatā": [
-      "asariyatā",
-      "asariyatā"
     ],
     "sikayauvatī": [
       "sikayauvatī",
